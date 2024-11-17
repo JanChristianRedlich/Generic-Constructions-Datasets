@@ -4,8 +4,8 @@ authors:
 - family-names: "Redlich"
   given-names: "Jan Christian"
   orcid: "https://orcid.org/0000-0002-3935-4119"
-title: "Generic Pronouns Corpus Analysis"
+title: "Generic Constructions Datasets"
 version: 1.0.0
 type: dataset
 date-released: 2024-12-17
-url: "https://github.com/JanChristianRedlich/Generic-Pronouns-Corpus-Analysis"
+url: "https://github.com/JanChristianRedlich/Generic-Constructions-Datasets"
