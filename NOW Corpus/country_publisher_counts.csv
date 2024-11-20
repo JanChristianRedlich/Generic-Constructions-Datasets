@@ -1,0 +1,4410 @@
+,month,country,type,NON-BINARY-THEY,GENERIC-THEY,GENERIC-HE,TEXTS-SUM
+0,10-01,AU,publisher,11,16,10,693
+1,10-01,CA,publisher,47,62,26,1293
+2,10-01,GB,publisher,34,64,29,3102
+3,10-01,GH,publisher,3,4,3,74
+4,10-01,HK,publisher,0,0,0,27
+5,10-01,IE,publisher,4,5,3,208
+6,10-01,IN,publisher,40,39,41,1890
+7,10-01,JM,publisher,3,3,4,207
+8,10-01,KE,publisher,0,0,0,4
+9,10-01,LK,publisher,4,1,4,149
+10,10-01,MY,publisher,0,1,2,35
+11,10-01,NG,publisher,0,1,2,45
+12,10-01,NZ,publisher,5,4,0,167
+13,10-01,PH,publisher,4,2,0,74
+14,10-01,PK,publisher,5,9,6,66
+15,10-01,SG,publisher,0,0,0,13
+16,10-01,TZ,publisher,0,0,0,1
+17,10-01,US,publisher,141,137,113,4482
+18,10-01,ZA,publisher,3,2,0,122
+19,10-01,AU,top publisher,3,3,8,478
+20,10-01,BD,top publisher,2,2,2,103
+21,10-01,CA,top publisher,57,32,41,1700
+22,10-01,GB,top publisher,87,81,107,4456
+23,10-01,IE,top publisher,8,1,10,266
+24,10-01,IN,top publisher,19,12,19,844
+25,10-01,JM,top publisher,6,9,3,183
+26,10-01,NG,top publisher,0,0,1,32
+27,10-01,NZ,top publisher,5,4,3,246
+28,10-01,SG,top publisher,0,0,0,19
+29,10-01,US,top publisher,109,104,101,4086
+30,10-01,ZA,top publisher,2,1,1,71
+31,10-02,AU,publisher,12,15,15,625
+32,10-02,CA,publisher,43,69,30,1433
+33,10-02,GB,publisher,40,61,36,2955
+34,10-02,GH,publisher,8,7,8,127
+35,10-02,HK,publisher,0,0,0,13
+36,10-02,IE,publisher,7,6,1,212
+37,10-02,IN,publisher,39,29,32,2282
+38,10-02,JM,publisher,2,3,6,156
+39,10-02,KE,publisher,0,0,0,2
+40,10-02,LK,publisher,4,4,3,100
+41,10-02,MY,publisher,1,0,0,26
+42,10-02,NG,publisher,1,2,3,49
+43,10-02,NZ,publisher,0,2,1,210
+44,10-02,PH,publisher,2,1,4,78
+45,10-02,PK,publisher,4,2,4,52
+46,10-02,SG,publisher,0,0,0,13
+47,10-02,TZ,publisher,0,0,0,1
+48,10-02,US,publisher,106,120,80,4312
+49,10-02,ZA,publisher,2,5,2,163
+50,10-02,AU,top publisher,3,8,3,526
+51,10-02,BD,top publisher,1,4,0,95
+52,10-02,CA,top publisher,27,23,27,1531
+53,10-02,GB,top publisher,97,95,96,4257
+54,10-02,IE,top publisher,6,10,10,298
+55,10-02,IN,top publisher,8,10,21,947
+56,10-02,JM,top publisher,3,4,4,159
+57,10-02,NG,top publisher,1,0,1,22
+58,10-02,NZ,top publisher,3,3,8,233
+59,10-02,SG,top publisher,0,0,0,13
+60,10-02,US,top publisher,125,110,97,3966
+61,10-02,ZA,top publisher,1,1,2,91
+62,10-03,AU,publisher,10,14,8,820
+63,10-03,CA,publisher,50,80,41,1832
+64,10-03,GB,publisher,43,77,31,3177
+65,10-03,GH,publisher,8,5,2,150
+66,10-03,HK,publisher,0,0,0,37
+67,10-03,IE,publisher,4,1,5,250
+68,10-03,IN,publisher,63,55,54,2929
+69,10-03,JM,publisher,3,2,1,186
+70,10-03,KE,publisher,0,0,0,1
+71,10-03,LK,publisher,1,0,4,117
+72,10-03,MY,publisher,0,0,1,49
+73,10-03,NG,publisher,0,3,4,65
+74,10-03,NZ,publisher,5,8,4,275
+75,10-03,PH,publisher,2,1,1,78
+76,10-03,PK,publisher,11,6,6,69
+77,10-03,SG,publisher,0,0,0,29
+78,10-03,TZ,publisher,0,0,0,1
+79,10-03,US,publisher,124,117,86,4348
+80,10-03,ZA,publisher,1,3,0,220
+81,10-03,AU,top publisher,7,8,12,599
+82,10-03,BD,top publisher,3,0,1,88
+83,10-03,CA,top publisher,42,34,36,1727
+84,10-03,GB,top publisher,86,87,116,4896
+85,10-03,IE,top publisher,7,12,9,384
+86,10-03,IN,top publisher,18,15,40,1081
+87,10-03,JM,top publisher,0,1,1,168
+88,10-03,NG,top publisher,2,2,1,20
+89,10-03,NZ,top publisher,12,6,0,330
+90,10-03,SG,top publisher,2,0,0,32
+91,10-03,US,top publisher,120,107,88,4059
+92,10-03,ZA,top publisher,4,0,2,114
+93,10-04,AU,publisher,18,11,6,746
+94,10-04,CA,publisher,40,47,29,1878
+95,10-04,GB,publisher,37,53,35,2951
+96,10-04,GH,publisher,8,8,8,163
+97,10-04,HK,publisher,0,1,0,17
+98,10-04,IE,publisher,11,4,4,246
+99,10-04,IN,publisher,57,47,33,2696
+100,10-04,JM,publisher,9,1,5,197
+101,10-04,KE,publisher,0,0,0,4
+102,10-04,LK,publisher,3,3,2,110
+103,10-04,MY,publisher,0,1,0,59
+104,10-04,NG,publisher,1,2,2,60
+105,10-04,NZ,publisher,14,1,2,279
+106,10-04,PH,publisher,1,1,1,69
+107,10-04,PK,publisher,10,6,16,109
+108,10-04,SG,publisher,0,0,0,34
+109,10-04,US,publisher,74,104,78,3918
+110,10-04,ZA,publisher,2,6,1,204
+111,10-04,AU,top publisher,7,17,2,543
+112,10-04,BD,top publisher,2,2,1,77
+113,10-04,CA,top publisher,33,40,37,1742
+114,10-04,GB,top publisher,82,100,115,4496
+115,10-04,IE,top publisher,2,6,9,293
+116,10-04,IN,top publisher,14,14,34,1013
+117,10-04,JM,top publisher,1,0,1,180
+118,10-04,KE,top publisher,1,0,0,5
+119,10-04,NG,top publisher,0,1,0,6
+120,10-04,NZ,top publisher,5,3,7,344
+121,10-04,PK,top publisher,6,4,4,104
+122,10-04,SG,top publisher,2,1,1,39
+123,10-04,US,top publisher,102,87,92,3697
+124,10-04,ZA,top publisher,2,6,1,181
+125,10-05,AU,publisher,11,11,11,719
+126,10-05,CA,publisher,37,84,26,1534
+127,10-05,GB,publisher,35,62,34,2935
+128,10-05,GH,publisher,6,13,7,152
+129,10-05,HK,publisher,0,0,0,19
+130,10-05,IE,publisher,6,4,4,241
+131,10-05,IN,publisher,44,47,56,3023
+132,10-05,JM,publisher,5,4,4,201
+133,10-05,KE,publisher,0,0,0,2
+134,10-05,LK,publisher,3,3,3,112
+135,10-05,MY,publisher,1,4,1,67
+136,10-05,NG,publisher,3,1,2,76
+137,10-05,NZ,publisher,7,2,2,296
+138,10-05,PH,publisher,4,1,0,73
+139,10-05,PK,publisher,5,5,9,102
+140,10-05,SG,publisher,0,0,0,21
+141,10-05,TZ,publisher,0,0,0,1
+142,10-05,US,publisher,85,88,70,3864
+143,10-05,ZA,publisher,2,3,3,211
+144,10-05,AU,top publisher,5,17,11,541
+145,10-05,BD,top publisher,2,2,0,88
+146,10-05,CA,top publisher,45,34,39,1809
+147,10-05,GB,top publisher,109,96,106,4719
+148,10-05,GH,top publisher,2,3,0,34
+149,10-05,IE,top publisher,7,6,9,260
+150,10-05,IN,top publisher,20,16,61,1187
+151,10-05,JM,top publisher,1,0,0,175
+152,10-05,KE,top publisher,0,0,0,7
+153,10-05,NG,top publisher,0,0,2,7
+154,10-05,NZ,top publisher,6,3,8,304
+155,10-05,PK,top publisher,10,15,11,219
+156,10-05,SG,top publisher,0,0,1,24
+157,10-05,US,top publisher,131,120,112,4108
+158,10-05,ZA,top publisher,5,2,1,211
+159,10-06,AU,publisher,19,52,16,883
+160,10-06,CA,publisher,55,70,33,1743
+161,10-06,GB,publisher,32,63,34,3266
+162,10-06,GH,publisher,0,0,1,20
+163,10-06,HK,publisher,0,0,0,27
+164,10-06,IE,publisher,6,6,3,333
+165,10-06,IN,publisher,47,44,46,3269
+166,10-06,JM,publisher,4,4,7,191
+167,10-06,KE,publisher,0,0,0,1
+168,10-06,LK,publisher,1,0,0,36
+169,10-06,MY,publisher,0,15,0,91
+170,10-06,NG,publisher,2,5,3,74
+171,10-06,NZ,publisher,6,2,2,314
+172,10-06,PH,publisher,1,0,0,74
+173,10-06,PK,publisher,4,4,2,78
+174,10-06,SG,publisher,0,0,0,31
+175,10-06,TZ,publisher,0,0,0,2
+176,10-06,US,publisher,95,112,84,4174
+177,10-06,ZA,publisher,6,6,6,284
+178,10-06,AU,top publisher,12,45,6,606
+179,10-06,BD,top publisher,0,3,1,95
+180,10-06,CA,top publisher,45,37,30,1925
+181,10-06,GB,top publisher,119,104,100,5044
+182,10-06,GH,top publisher,4,4,7,122
+183,10-06,IE,top publisher,12,1,9,284
+184,10-06,IN,top publisher,26,16,63,1192
+185,10-06,JM,top publisher,0,0,1,160
+186,10-06,KE,top publisher,0,0,0,6
+187,10-06,NG,top publisher,0,0,0,17
+188,10-06,NZ,top publisher,10,6,9,345
+189,10-06,PK,top publisher,6,6,4,181
+190,10-06,SG,top publisher,0,0,1,31
+191,10-06,US,top publisher,151,116,123,4494
+192,10-06,ZA,top publisher,4,5,2,165
+193,10-07,AU,publisher,17,45,8,728
+194,10-07,BD,publisher,0,0,0,2
+195,10-07,CA,publisher,44,79,39,1808
+196,10-07,GB,publisher,42,66,41,3034
+197,10-07,GH,publisher,1,1,2,20
+198,10-07,HK,publisher,0,1,0,26
+199,10-07,IE,publisher,14,14,10,350
+200,10-07,IN,publisher,60,64,51,3556
+201,10-07,JM,publisher,4,4,3,188
+202,10-07,KE,publisher,0,0,0,2
+203,10-07,LK,publisher,1,2,2,41
+204,10-07,MY,publisher,0,7,1,82
+205,10-07,NG,publisher,5,7,4,79
+206,10-07,NZ,publisher,4,6,3,303
+207,10-07,PH,publisher,3,2,3,85
+208,10-07,PK,publisher,5,6,1,173
+209,10-07,SG,publisher,0,0,0,16
+210,10-07,US,publisher,92,132,90,3975
+211,10-07,ZA,publisher,3,5,3,378
+212,10-07,AU,top publisher,11,78,12,675
+213,10-07,BD,top publisher,2,2,4,101
+214,10-07,CA,top publisher,40,32,46,1998
+215,10-07,GB,top publisher,127,120,113,5037
+216,10-07,GH,top publisher,6,4,7,141
+217,10-07,IE,top publisher,10,4,8,317
+218,10-07,IN,top publisher,28,10,51,1362
+219,10-07,JM,top publisher,1,1,1,199
+220,10-07,KE,top publisher,0,0,0,6
+221,10-07,NG,top publisher,0,0,0,34
+222,10-07,NZ,top publisher,6,4,2,337
+223,10-07,PK,top publisher,6,8,4,169
+224,10-07,SG,top publisher,0,0,2,37
+225,10-07,US,top publisher,124,112,93,4351
+226,10-07,ZA,top publisher,4,4,4,228
+227,10-08,AU,publisher,17,21,9,715
+228,10-08,CA,publisher,48,68,43,1776
+229,10-08,GB,publisher,26,56,19,2552
+230,10-08,GH,publisher,1,1,0,24
+231,10-08,HK,publisher,0,0,0,31
+232,10-08,IE,publisher,13,7,10,323
+233,10-08,IN,publisher,60,56,46,3573
+234,10-08,JM,publisher,6,1,9,204
+235,10-08,LK,publisher,3,3,7,85
+236,10-08,MY,publisher,3,5,1,78
+237,10-08,NG,publisher,2,5,1,60
+238,10-08,NZ,publisher,5,6,4,323
+239,10-08,PH,publisher,0,2,0,85
+240,10-08,PK,publisher,7,9,9,132
+241,10-08,SG,publisher,0,0,0,18
+242,10-08,TZ,publisher,0,0,0,1
+243,10-08,US,publisher,94,115,91,4237
+244,10-08,ZA,publisher,9,8,4,461
+245,10-08,AU,top publisher,4,13,5,807
+246,10-08,BD,top publisher,8,1,2,125
+247,10-08,CA,top publisher,44,41,39,1828
+248,10-08,GB,top publisher,107,118,103,4767
+249,10-08,GH,top publisher,8,7,11,132
+250,10-08,IE,top publisher,7,5,7,321
+251,10-08,IN,top publisher,22,25,69,1477
+252,10-08,JM,top publisher,2,4,2,192
+253,10-08,KE,top publisher,0,0,0,9
+254,10-08,NG,top publisher,3,2,3,44
+255,10-08,NZ,top publisher,8,7,4,381
+256,10-08,PK,top publisher,3,4,4,173
+257,10-08,SG,top publisher,1,0,0,26
+258,10-08,US,top publisher,123,114,97,4564
+259,10-08,ZA,top publisher,6,1,2,215
+260,10-09,AU,publisher,20,12,8,732
+261,10-09,BD,publisher,0,0,0,1
+262,10-09,CA,publisher,51,75,54,2094
+263,10-09,GB,publisher,28,51,33,2912
+264,10-09,GH,publisher,1,1,0,32
+265,10-09,HK,publisher,0,0,0,29
+266,10-09,IE,publisher,13,10,6,392
+267,10-09,IN,publisher,61,57,58,3235
+268,10-09,JM,publisher,6,4,4,199
+269,10-09,KE,publisher,0,0,0,6
+270,10-09,LK,publisher,2,3,3,56
+271,10-09,MY,publisher,7,7,1,103
+272,10-09,NG,publisher,1,0,4,78
+273,10-09,NZ,publisher,7,6,4,314
+274,10-09,PH,publisher,5,0,0,97
+275,10-09,PK,publisher,4,2,4,116
+276,10-09,SG,publisher,0,0,0,20
+277,10-09,US,publisher,93,120,72,4103
+278,10-09,ZA,publisher,5,11,11,438
+279,10-09,AU,top publisher,4,13,7,840
+280,10-09,BD,top publisher,1,1,1,91
+281,10-09,CA,top publisher,43,30,42,2048
+282,10-09,GB,top publisher,107,121,130,5213
+283,10-09,GH,top publisher,4,7,7,152
+284,10-09,IE,top publisher,8,7,11,344
+285,10-09,IN,top publisher,16,20,69,1256
+286,10-09,JM,top publisher,2,3,3,187
+287,10-09,KE,top publisher,0,0,0,4
+288,10-09,NG,top publisher,5,2,6,124
+289,10-09,NZ,top publisher,13,9,9,442
+290,10-09,PK,top publisher,7,7,3,167
+291,10-09,SG,top publisher,1,0,1,32
+292,10-09,US,top publisher,122,146,122,4641
+293,10-09,ZA,top publisher,13,8,6,296
+294,10-10,AU,publisher,22,4,7,736
+295,10-10,BD,publisher,0,0,0,1
+296,10-10,CA,publisher,88,83,65,2511
+297,10-10,GB,publisher,37,57,22,2724
+298,10-10,GH,publisher,0,1,2,23
+299,10-10,HK,publisher,0,1,0,42
+300,10-10,IE,publisher,10,11,22,428
+301,10-10,IN,publisher,61,37,49,3072
+302,10-10,JM,publisher,2,3,3,206
+303,10-10,KE,publisher,0,0,0,5
+304,10-10,LK,publisher,1,1,1,56
+305,10-10,MY,publisher,7,6,1,103
+306,10-10,NG,publisher,3,4,2,138
+307,10-10,NZ,publisher,8,5,5,304
+308,10-10,PH,publisher,3,2,1,79
+309,10-10,PK,publisher,2,7,3,116
+310,10-10,SG,publisher,2,1,0,41
+311,10-10,TZ,publisher,0,0,0,2
+312,10-10,US,publisher,65,116,83,4046
+313,10-10,ZA,publisher,3,4,2,485
+314,10-10,AU,top publisher,8,11,7,733
+315,10-10,BD,top publisher,1,2,1,118
+316,10-10,CA,top publisher,46,40,58,2225
+317,10-10,GB,top publisher,111,145,145,5475
+318,10-10,GH,top publisher,12,8,14,137
+319,10-10,IE,top publisher,15,7,12,397
+320,10-10,IN,top publisher,17,13,47,1235
+321,10-10,JM,top publisher,3,1,5,208
+322,10-10,KE,top publisher,0,2,0,3
+323,10-10,NG,top publisher,5,5,4,156
+324,10-10,NZ,top publisher,14,10,6,493
+325,10-10,PK,top publisher,7,11,11,182
+326,10-10,SG,top publisher,0,0,0,23
+327,10-10,US,top publisher,124,110,127,4863
+328,10-10,ZA,top publisher,13,8,12,421
+329,10-11,AU,publisher,22,18,9,782
+330,10-11,CA,publisher,113,91,60,2535
+331,10-11,GB,publisher,46,57,24,2784
+332,10-11,GH,publisher,0,1,0,22
+333,10-11,HK,publisher,0,0,0,37
+334,10-11,IE,publisher,9,12,8,409
+335,10-11,IN,publisher,68,53,45,3297
+336,10-11,JM,publisher,7,3,6,194
+337,10-11,LK,publisher,1,3,1,69
+338,10-11,MY,publisher,4,10,0,92
+339,10-11,NG,publisher,1,2,4,97
+340,10-11,NZ,publisher,7,8,2,341
+341,10-11,PH,publisher,2,1,0,88
+342,10-11,PK,publisher,1,6,9,177
+343,10-11,SG,publisher,0,0,0,21
+344,10-11,TZ,publisher,1,0,0,4
+345,10-11,US,publisher,91,137,76,3921
+346,10-11,ZA,publisher,8,8,4,456
+347,10-11,AU,top publisher,8,13,12,718
+348,10-11,BD,top publisher,2,0,1,102
+349,10-11,CA,top publisher,54,38,41,2009
+350,10-11,GB,top publisher,120,96,91,4630
+351,10-11,GH,top publisher,8,9,13,169
+352,10-11,IE,top publisher,4,95,11,508
+353,10-11,IN,top publisher,16,17,72,1210
+354,10-11,JM,top publisher,4,1,2,158
+355,10-11,KE,top publisher,2,0,0,3
+356,10-11,NG,top publisher,8,9,10,207
+357,10-11,NZ,top publisher,12,6,11,424
+358,10-11,PK,top publisher,5,7,6,188
+359,10-11,SG,top publisher,0,1,2,29
+360,10-11,US,top publisher,104,127,116,4817
+361,10-11,ZA,top publisher,15,7,11,508
+362,10-12,AU,publisher,21,18,14,763
+363,10-12,BD,publisher,0,0,0,2
+364,10-12,CA,publisher,97,70,54,2160
+365,10-12,GB,publisher,17,42,32,2310
+366,10-12,GH,publisher,3,2,0,29
+367,10-12,HK,publisher,0,2,0,80
+368,10-12,IE,publisher,7,9,9,348
+369,10-12,IN,publisher,98,68,64,3575
+370,10-12,JM,publisher,3,2,4,202
+371,10-12,KE,publisher,0,0,0,2
+372,10-12,LK,publisher,0,6,2,78
+373,10-12,MY,publisher,2,5,2,106
+374,10-12,NG,publisher,3,7,4,88
+375,10-12,NZ,publisher,5,5,1,248
+376,10-12,PH,publisher,2,1,0,70
+377,10-12,PK,publisher,7,4,4,200
+378,10-12,SG,publisher,0,0,0,23
+379,10-12,TZ,publisher,0,0,0,6
+380,10-12,US,publisher,104,127,59,3660
+381,10-12,ZA,publisher,6,3,6,273
+382,10-12,AU,top publisher,4,8,7,558
+383,10-12,BD,top publisher,0,4,2,101
+384,10-12,CA,top publisher,37,25,27,1561
+385,10-12,GB,top publisher,94,100,80,3909
+386,10-12,GH,top publisher,7,7,7,114
+387,10-12,IE,top publisher,3,91,11,393
+388,10-12,IN,top publisher,26,15,74,1398
+389,10-12,JM,top publisher,2,3,4,194
+390,10-12,KE,top publisher,1,0,1,11
+391,10-12,NG,top publisher,5,2,10,199
+392,10-12,NZ,top publisher,12,7,2,439
+393,10-12,PK,top publisher,3,7,7,186
+394,10-12,SG,top publisher,1,0,0,22
+395,10-12,TZ,top publisher,0,0,0,30
+396,10-12,US,top publisher,117,121,110,4776
+397,10-12,ZA,top publisher,9,8,8,374
+398,11-01,AU,publisher,23,34,5,864
+399,11-01,CA,publisher,75,106,80,2602
+400,11-01,GB,publisher,29,47,37,3043
+401,11-01,GH,publisher,0,0,1,14
+402,11-01,HK,publisher,0,0,0,68
+403,11-01,IE,publisher,16,12,12,443
+404,11-01,IN,publisher,84,72,60,3748
+405,11-01,JM,publisher,9,7,1,201
+406,11-01,KE,publisher,1,0,0,5
+407,11-01,LK,publisher,5,10,6,185
+408,11-01,MY,publisher,5,6,2,127
+409,11-01,NG,publisher,5,2,2,110
+410,11-01,NZ,publisher,6,4,3,273
+411,11-01,PH,publisher,5,3,1,74
+412,11-01,PK,publisher,7,8,8,179
+413,11-01,SG,publisher,0,0,0,23
+414,11-01,TZ,publisher,0,0,0,1
+415,11-01,US,publisher,88,172,82,4058
+416,11-01,ZA,publisher,6,4,2,332
+417,11-01,AU,top publisher,2,8,3,631
+418,11-01,BD,top publisher,1,0,3,122
+419,11-01,CA,top publisher,38,26,36,1910
+420,11-01,GB,top publisher,117,108,117,4718
+421,11-01,GH,top publisher,4,6,4,121
+422,11-01,IE,top publisher,6,109,15,535
+423,11-01,IN,top publisher,33,18,50,1537
+424,11-01,JM,top publisher,5,5,2,203
+425,11-01,KE,top publisher,0,0,0,8
+426,11-01,NG,top publisher,5,8,10,216
+427,11-01,NZ,top publisher,16,4,7,488
+428,11-01,PK,top publisher,8,9,8,200
+429,11-01,SG,top publisher,1,3,1,40
+430,11-01,TZ,top publisher,0,1,1,52
+431,11-01,US,top publisher,158,129,118,5371
+432,11-01,ZA,top publisher,8,8,5,646
+433,11-02,AU,publisher,11,27,2,819
+434,11-02,BD,publisher,0,0,1,2
+435,11-02,CA,publisher,71,113,69,2782
+436,11-02,GB,publisher,36,51,16,2839
+437,11-02,GH,publisher,2,1,0,25
+438,11-02,HK,publisher,0,1,0,44
+439,11-02,IE,publisher,15,8,14,454
+440,11-02,IN,publisher,82,62,75,3784
+441,11-02,JM,publisher,6,5,0,181
+442,11-02,KE,publisher,1,0,0,3
+443,11-02,LK,publisher,5,5,4,107
+444,11-02,MY,publisher,2,9,2,101
+445,11-02,NG,publisher,5,9,3,124
+446,11-02,NZ,publisher,12,10,1,288
+447,11-02,PH,publisher,3,2,2,94
+448,11-02,PK,publisher,3,7,6,155
+449,11-02,SG,publisher,0,0,0,37
+450,11-02,TZ,publisher,0,0,0,4
+451,11-02,US,publisher,80,144,79,3721
+452,11-02,ZA,publisher,10,14,4,481
+453,11-02,AU,top publisher,7,6,5,636
+454,11-02,BD,top publisher,2,4,4,116
+455,11-02,CA,top publisher,43,32,46,1828
+456,11-02,GB,top publisher,88,99,97,4254
+457,11-02,GH,top publisher,9,2,7,107
+458,11-02,IE,top publisher,8,150,22,559
+459,11-02,IN,top publisher,26,18,42,1444
+460,11-02,JM,top publisher,1,3,5,191
+461,11-02,KE,top publisher,0,0,0,9
+462,11-02,NG,top publisher,5,6,9,201
+463,11-02,NZ,top publisher,18,10,7,515
+464,11-02,PK,top publisher,7,5,9,188
+465,11-02,SG,top publisher,1,0,2,26
+466,11-02,TZ,top publisher,1,1,0,37
+467,11-02,US,top publisher,115,127,88,4632
+468,11-02,ZA,top publisher,10,9,16,684
+469,11-03,AU,publisher,13,64,5,902
+470,11-03,BD,publisher,0,0,0,1
+471,11-03,CA,publisher,114,142,73,3228
+472,11-03,GB,publisher,32,58,27,2809
+473,11-03,GH,publisher,0,1,0,26
+474,11-03,HK,publisher,0,0,1,82
+475,11-03,IE,publisher,16,16,10,584
+476,11-03,IN,publisher,66,71,78,3995
+477,11-03,JM,publisher,8,4,4,211
+478,11-03,KE,publisher,1,0,0,18
+479,11-03,LK,publisher,3,3,3,148
+480,11-03,MY,publisher,7,14,3,124
+481,11-03,NG,publisher,5,3,6,215
+482,11-03,NZ,publisher,11,14,8,483
+483,11-03,PH,publisher,1,3,2,103
+484,11-03,PK,publisher,5,8,4,155
+485,11-03,SG,publisher,0,0,0,58
+486,11-03,TZ,publisher,0,0,0,1
+487,11-03,US,publisher,80,122,75,3788
+488,11-03,ZA,publisher,10,11,5,575
+489,11-03,AU,top publisher,9,16,11,820
+490,11-03,BD,top publisher,1,0,3,99
+491,11-03,CA,top publisher,43,40,34,2120
+492,11-03,GB,top publisher,116,100,110,4621
+493,11-03,GH,top publisher,9,9,14,147
+494,11-03,IE,top publisher,8,213,12,688
+495,11-03,IN,top publisher,22,21,56,1701
+496,11-03,JM,top publisher,2,3,2,216
+497,11-03,KE,top publisher,0,0,0,6
+498,11-03,NG,top publisher,8,10,10,212
+499,11-03,NZ,top publisher,15,13,9,620
+500,11-03,PH,top publisher,0,0,0,23
+501,11-03,PK,top publisher,5,5,7,219
+502,11-03,SG,top publisher,0,1,1,63
+503,11-03,TZ,top publisher,1,1,2,39
+504,11-03,US,top publisher,149,121,118,5073
+505,11-03,ZA,top publisher,17,18,22,914
+506,11-04,AU,publisher,12,48,11,857
+507,11-04,CA,publisher,98,154,77,3052
+508,11-04,GB,publisher,40,50,28,2631
+509,11-04,GH,publisher,0,2,2,44
+510,11-04,HK,publisher,1,2,2,66
+511,11-04,IE,publisher,23,15,13,551
+512,11-04,IN,publisher,51,61,45,3545
+513,11-04,JM,publisher,3,7,3,208
+514,11-04,KE,publisher,1,0,0,5
+515,11-04,LK,publisher,11,8,8,177
+516,11-04,MY,publisher,2,5,0,116
+517,11-04,NG,publisher,5,7,7,181
+518,11-04,NZ,publisher,18,8,6,418
+519,11-04,PH,publisher,4,1,2,121
+520,11-04,PK,publisher,8,6,6,163
+521,11-04,SG,publisher,1,1,0,96
+522,11-04,TZ,publisher,0,0,0,2
+523,11-04,US,publisher,74,95,65,3576
+524,11-04,ZA,publisher,9,5,5,504
+525,11-04,AU,top publisher,13,9,11,907
+526,11-04,BD,top publisher,3,3,2,112
+527,11-04,CA,top publisher,40,34,45,2070
+528,11-04,GB,top publisher,113,127,112,4475
+529,11-04,GH,top publisher,0,2,11,85
+530,11-04,IE,top publisher,11,156,13,590
+531,11-04,IN,top publisher,48,28,65,1801
+532,11-04,JM,top publisher,2,3,6,200
+533,11-04,KE,top publisher,0,0,1,6
+534,11-04,LK,top publisher,0,0,0,1
+535,11-04,NG,top publisher,6,7,8,204
+536,11-04,NZ,top publisher,15,6,15,604
+537,11-04,PH,top publisher,2,0,0,17
+538,11-04,PK,top publisher,7,13,7,207
+539,11-04,SG,top publisher,2,2,2,84
+540,11-04,TZ,top publisher,0,2,2,44
+541,11-04,US,top publisher,146,103,109,4508
+542,11-04,ZA,top publisher,20,17,16,847
+543,11-05,AU,publisher,23,33,16,1098
+544,11-05,BD,publisher,1,0,0,12
+545,11-05,CA,publisher,106,163,95,3331
+546,11-05,GB,publisher,42,63,32,3171
+547,11-05,GH,publisher,0,1,1,29
+548,11-05,HK,publisher,1,2,1,71
+549,11-05,IE,publisher,15,16,22,514
+550,11-05,IN,publisher,62,65,74,3443
+551,11-05,JM,publisher,7,3,8,212
+552,11-05,KE,publisher,0,0,0,10
+553,11-05,LK,publisher,8,4,6,198
+554,11-05,MY,publisher,1,8,0,109
+555,11-05,NG,publisher,4,5,6,173
+556,11-05,NZ,publisher,18,14,9,492
+557,11-05,PH,publisher,2,3,1,176
+558,11-05,PK,publisher,14,13,24,209
+559,11-05,SG,publisher,0,1,0,145
+560,11-05,TZ,publisher,0,1,0,3
+561,11-05,US,publisher,78,117,73,3893
+562,11-05,ZA,publisher,15,9,4,664
+563,11-05,AU,top publisher,5,13,12,950
+564,11-05,BD,top publisher,6,5,0,119
+565,11-05,CA,top publisher,40,32,45,2172
+566,11-05,GB,top publisher,132,128,131,4929
+567,11-05,GH,top publisher,4,7,7,100
+568,11-05,IE,top publisher,12,233,17,748
+569,11-05,IN,top publisher,43,24,76,2027
+570,11-05,JM,top publisher,5,4,4,223
+571,11-05,KE,top publisher,0,0,0,6
+572,11-05,NG,top publisher,5,7,8,201
+573,11-05,NZ,top publisher,18,9,11,633
+574,11-05,PH,top publisher,8,6,7,239
+575,11-05,PK,top publisher,5,4,9,206
+576,11-05,SG,top publisher,1,1,1,66
+577,11-05,TZ,top publisher,4,0,1,64
+578,11-05,US,top publisher,136,148,109,4798
+579,11-05,ZA,top publisher,7,12,11,852
+580,11-06,AU,publisher,19,37,16,1063
+581,11-06,CA,publisher,122,147,102,3752
+582,11-06,GB,publisher,40,72,43,2929
+583,11-06,GH,publisher,1,2,0,32
+584,11-06,HK,publisher,0,1,1,50
+585,11-06,IE,publisher,16,15,17,501
+586,11-06,IN,publisher,55,53,67,3505
+587,11-06,JM,publisher,8,2,1,201
+588,11-06,KE,publisher,0,0,0,6
+589,11-06,LK,publisher,6,5,4,170
+590,11-06,MY,publisher,4,9,2,115
+591,11-06,NG,publisher,5,8,9,170
+592,11-06,NZ,publisher,17,7,4,448
+593,11-06,PH,publisher,3,6,3,232
+594,11-06,PK,publisher,11,18,19,290
+595,11-06,SG,publisher,0,4,1,213
+596,11-06,TZ,publisher,0,0,0,5
+597,11-06,US,publisher,85,98,88,3922
+598,11-06,ZA,publisher,13,12,7,674
+599,11-06,AU,top publisher,13,14,8,934
+600,11-06,BD,top publisher,4,1,2,100
+601,11-06,CA,top publisher,62,28,53,2216
+602,11-06,GB,top publisher,107,109,135,4561
+603,11-06,GH,top publisher,8,9,10,138
+604,11-06,IE,top publisher,10,213,7,666
+605,11-06,IN,top publisher,68,29,78,2295
+606,11-06,JM,top publisher,4,2,2,200
+607,11-06,KE,top publisher,0,0,0,11
+608,11-06,NG,top publisher,7,3,9,192
+609,11-06,NZ,top publisher,16,7,11,595
+610,11-06,PH,top publisher,9,4,6,335
+611,11-06,PK,top publisher,3,8,6,190
+612,11-06,SG,top publisher,0,3,4,55
+613,11-06,TZ,top publisher,2,0,2,57
+614,11-06,US,top publisher,136,131,114,5058
+615,11-06,ZA,top publisher,23,13,13,838
+616,11-07,AU,publisher,19,23,5,1052
+617,11-07,BD,publisher,1,0,0,2
+618,11-07,CA,publisher,128,135,122,3814
+619,11-07,GB,publisher,45,53,21,2761
+620,11-07,GH,publisher,0,0,1,14
+621,11-07,HK,publisher,2,0,0,59
+622,11-07,IE,publisher,13,17,13,575
+623,11-07,IN,publisher,66,63,64,3745
+624,11-07,JM,publisher,7,2,4,215
+625,11-07,KE,publisher,2,0,1,7
+626,11-07,LK,publisher,4,5,3,184
+627,11-07,MY,publisher,4,2,0,93
+628,11-07,NG,publisher,10,13,19,201
+629,11-07,NZ,publisher,8,10,4,421
+630,11-07,PH,publisher,4,3,8,157
+631,11-07,PK,publisher,12,9,12,304
+632,11-07,SG,publisher,1,5,0,224
+633,11-07,TZ,publisher,0,0,0,5
+634,11-07,US,publisher,68,106,66,3421
+635,11-07,ZA,publisher,13,14,10,832
+636,11-07,AU,top publisher,16,18,12,995
+637,11-07,BD,top publisher,2,1,0,114
+638,11-07,CA,top publisher,46,36,50,2155
+639,11-07,GB,top publisher,111,127,124,4905
+640,11-07,GH,top publisher,7,5,11,134
+641,11-07,IE,top publisher,17,188,9,664
+642,11-07,IN,top publisher,66,25,97,2418
+643,11-07,JM,top publisher,7,6,3,211
+644,11-07,KE,top publisher,0,2,0,16
+645,11-07,NG,top publisher,3,9,10,206
+646,11-07,NZ,top publisher,19,11,13,601
+647,11-07,PH,top publisher,21,6,4,466
+648,11-07,PK,top publisher,6,10,3,199
+649,11-07,SG,top publisher,2,2,5,75
+650,11-07,TZ,top publisher,3,1,0,68
+651,11-07,US,top publisher,137,127,103,4586
+652,11-07,ZA,top publisher,25,9,16,1007
+653,11-08,AU,publisher,12,32,8,1179
+654,11-08,CA,publisher,129,174,116,4254
+655,11-08,GB,publisher,43,58,28,2857
+656,11-08,GH,publisher,2,3,1,84
+657,11-08,HK,publisher,1,0,1,59
+658,11-08,IE,publisher,16,8,16,643
+659,11-08,IN,publisher,79,60,66,3544
+660,11-08,JM,publisher,6,4,6,140
+661,11-08,KE,publisher,0,0,0,10
+662,11-08,LK,publisher,4,6,10,164
+663,11-08,MY,publisher,2,8,1,89
+664,11-08,NG,publisher,7,8,6,204
+665,11-08,NZ,publisher,16,8,8,501
+666,11-08,PH,publisher,3,2,4,163
+667,11-08,PK,publisher,13,29,27,362
+668,11-08,SG,publisher,1,4,1,260
+669,11-08,TZ,publisher,0,0,0,2
+670,11-08,US,publisher,75,113,70,3692
+671,11-08,ZA,publisher,16,11,10,899
+672,11-08,AU,top publisher,14,19,11,1049
+673,11-08,BD,top publisher,3,3,5,115
+674,11-08,CA,top publisher,43,41,48,2234
+675,11-08,GB,top publisher,116,107,118,4709
+676,11-08,GH,top publisher,12,15,15,165
+677,11-08,IE,top publisher,10,247,12,639
+678,11-08,IN,top publisher,68,33,66,2243
+679,11-08,JM,top publisher,3,0,1,169
+680,11-08,KE,top publisher,1,2,2,63
+681,11-08,NG,top publisher,7,4,4,189
+682,11-08,NZ,top publisher,8,8,9,684
+683,11-08,PH,top publisher,23,11,6,559
+684,11-08,PK,top publisher,6,9,5,177
+685,11-08,SG,top publisher,1,0,5,78
+686,11-08,TZ,top publisher,2,1,1,75
+687,11-08,US,top publisher,138,124,95,4990
+688,11-08,ZA,top publisher,16,7,25,1152
+689,11-09,AU,publisher,11,21,11,1222
+690,11-09,BD,publisher,1,3,2,101
+691,11-09,CA,publisher,132,176,115,4794
+692,11-09,GB,publisher,34,86,31,3246
+693,11-09,GH,publisher,0,0,3,28
+694,11-09,HK,publisher,2,2,0,57
+695,11-09,IE,publisher,12,11,18,566
+696,11-09,IN,publisher,75,65,74,3828
+697,11-09,JM,publisher,4,3,3,205
+698,11-09,KE,publisher,0,3,1,9
+699,11-09,LK,publisher,1,5,4,111
+700,11-09,MY,publisher,1,5,3,109
+701,11-09,NG,publisher,7,10,13,238
+702,11-09,NZ,publisher,19,12,13,476
+703,11-09,PH,publisher,10,3,2,215
+704,11-09,PK,publisher,37,39,55,439
+705,11-09,SG,publisher,2,6,1,275
+706,11-09,TZ,publisher,0,0,0,6
+707,11-09,US,publisher,81,103,77,3610
+708,11-09,ZA,publisher,12,16,6,867
+709,11-09,AU,top publisher,14,19,11,1122
+710,11-09,CA,top publisher,57,52,48,2611
+711,11-09,GB,top publisher,111,119,129,5147
+712,11-09,GH,top publisher,7,7,12,147
+713,11-09,IE,top publisher,12,227,16,719
+714,11-09,IN,top publisher,79,36,72,2651
+715,11-09,JM,top publisher,7,6,8,205
+716,11-09,KE,top publisher,2,1,1,49
+717,11-09,NG,top publisher,2,6,11,202
+718,11-09,NZ,top publisher,17,15,10,675
+719,11-09,PH,top publisher,20,10,10,672
+720,11-09,PK,top publisher,7,7,7,212
+721,11-09,SG,top publisher,1,1,0,69
+722,11-09,TZ,top publisher,1,0,0,90
+723,11-09,US,top publisher,132,132,116,4995
+724,11-09,ZA,top publisher,13,20,24,1202
+725,11-10,AU,publisher,18,31,10,1100
+726,11-10,BD,publisher,4,2,1,119
+727,11-10,CA,publisher,111,154,109,4588
+728,11-10,GB,publisher,52,67,32,2701
+729,11-10,GH,publisher,0,2,3,36
+730,11-10,HK,publisher,1,1,0,48
+731,11-10,IE,publisher,12,26,19,555
+732,11-10,IN,publisher,86,95,68,3356
+733,11-10,JM,publisher,6,2,5,204
+734,11-10,KE,publisher,0,1,0,4
+735,11-10,LK,publisher,3,9,5,248
+736,11-10,MY,publisher,0,15,2,112
+737,11-10,NG,publisher,5,7,7,347
+738,11-10,NZ,publisher,6,18,8,462
+739,11-10,PH,publisher,7,3,5,222
+740,11-10,PK,publisher,42,39,43,465
+741,11-10,SG,publisher,0,1,0,198
+742,11-10,TZ,publisher,0,0,0,10
+743,11-10,US,publisher,61,106,75,3410
+744,11-10,ZA,publisher,18,14,7,877
+745,11-10,AU,top publisher,15,25,12,1164
+746,11-10,CA,top publisher,37,45,42,2556
+747,11-10,GB,top publisher,134,128,103,4705
+748,11-10,GH,top publisher,7,6,14,133
+749,11-10,IE,top publisher,14,206,13,703
+750,11-10,IN,top publisher,54,29,90,2415
+751,11-10,JM,top publisher,8,2,5,207
+752,11-10,KE,top publisher,0,4,0,76
+753,11-10,NG,top publisher,3,2,2,202
+754,11-10,NZ,top publisher,25,14,15,783
+755,11-10,PH,top publisher,21,10,14,551
+756,11-10,PK,top publisher,5,7,7,190
+757,11-10,SG,top publisher,2,1,3,51
+758,11-10,TZ,top publisher,3,0,0,71
+759,11-10,US,top publisher,138,117,115,4774
+760,11-10,ZA,top publisher,41,23,25,1092
+761,11-11,AU,publisher,22,17,13,1127
+762,11-11,BD,publisher,2,2,4,89
+763,11-11,CA,publisher,145,162,110,4863
+764,11-11,GB,publisher,46,76,33,3005
+765,11-11,GH,publisher,1,3,1,48
+766,11-11,HK,publisher,0,0,0,63
+767,11-11,IE,publisher,14,19,12,586
+768,11-11,IN,publisher,65,64,72,2984
+769,11-11,JM,publisher,7,5,3,219
+770,11-11,KE,publisher,0,1,0,9
+771,11-11,LK,publisher,2,6,5,198
+772,11-11,MY,publisher,3,11,0,107
+773,11-11,NG,publisher,2,3,6,301
+774,11-11,NZ,publisher,8,10,8,417
+775,11-11,PH,publisher,6,9,5,136
+776,11-11,PK,publisher,9,11,18,309
+777,11-11,SG,publisher,1,2,0,207
+778,11-11,TZ,publisher,0,0,0,7
+779,11-11,US,publisher,77,96,60,3324
+780,11-11,ZA,publisher,19,20,5,948
+781,11-11,AU,top publisher,13,24,13,831
+782,11-11,CA,top publisher,50,68,60,2960
+783,11-11,GB,top publisher,102,107,100,4211
+784,11-11,GH,top publisher,8,4,6,128
+785,11-11,IE,top publisher,6,188,16,630
+786,11-11,IN,top publisher,35,24,77,2291
+787,11-11,JM,top publisher,2,4,3,177
+788,11-11,KE,top publisher,0,1,1,100
+789,11-11,MY,top publisher,3,1,0,81
+790,11-11,NG,top publisher,2,8,4,201
+791,11-11,NZ,top publisher,23,17,24,753
+792,11-11,PH,top publisher,21,9,12,521
+793,11-11,PK,top publisher,6,3,4,194
+794,11-11,SG,top publisher,1,3,2,54
+795,11-11,TZ,top publisher,3,1,3,72
+796,11-11,US,top publisher,105,132,135,4700
+797,11-11,ZA,top publisher,52,28,20,1067
+798,11-12,AU,publisher,11,16,8,764
+799,11-12,BD,publisher,2,3,1,102
+800,11-12,CA,publisher,113,130,74,4099
+801,11-12,GB,publisher,35,52,30,2380
+802,11-12,GH,publisher,2,1,0,54
+803,11-12,HK,publisher,0,0,1,43
+804,11-12,IE,publisher,13,15,6,422
+805,11-12,IN,publisher,59,62,75,2917
+806,11-12,JM,publisher,7,6,2,197
+807,11-12,KE,publisher,1,0,0,9
+808,11-12,LK,publisher,8,7,7,189
+809,11-12,MY,publisher,2,48,2,118
+810,11-12,NG,publisher,2,4,5,306
+811,11-12,NZ,publisher,10,6,10,347
+812,11-12,PH,publisher,6,1,1,147
+813,11-12,PK,publisher,28,37,46,607
+814,11-12,SG,publisher,3,6,2,236
+815,11-12,TZ,publisher,0,0,0,1
+816,11-12,US,publisher,70,88,79,3241
+817,11-12,ZA,publisher,13,12,9,695
+818,11-12,AU,top publisher,9,10,11,657
+819,11-12,CA,top publisher,71,56,59,2945
+820,11-12,GB,top publisher,92,113,105,3973
+821,11-12,GH,top publisher,8,5,5,117
+822,11-12,IE,top publisher,10,156,18,551
+823,11-12,IN,top publisher,61,37,95,2296
+824,11-12,JM,top publisher,3,1,3,166
+825,11-12,KE,top publisher,2,0,3,78
+826,11-12,MY,top publisher,1,2,7,176
+827,11-12,NG,top publisher,5,7,9,200
+828,11-12,NZ,top publisher,15,11,7,697
+829,11-12,PH,top publisher,17,8,6,412
+830,11-12,PK,top publisher,6,12,5,189
+831,11-12,SG,top publisher,2,0,1,65
+832,11-12,TZ,top publisher,1,1,3,92
+833,11-12,US,top publisher,97,132,121,4654
+834,11-12,ZA,top publisher,47,22,15,862
+835,12-01,AU,publisher,26,31,17,1144
+836,12-01,BD,publisher,3,2,4,157
+837,12-01,CA,publisher,100,123,80,4430
+838,12-01,GB,publisher,57,79,39,3250
+839,12-01,GH,publisher,0,2,4,40
+840,12-01,HK,publisher,3,2,0,51
+841,12-01,IE,publisher,19,11,8,613
+842,12-01,IN,publisher,52,53,58,3270
+843,12-01,JM,publisher,6,7,3,208
+844,12-01,KE,publisher,0,2,0,12
+845,12-01,LK,publisher,10,8,13,236
+846,12-01,MY,publisher,4,143,3,252
+847,12-01,NG,publisher,2,3,7,244
+848,12-01,NZ,publisher,4,9,7,385
+849,12-01,PH,publisher,5,1,2,123
+850,12-01,PK,publisher,46,66,56,858
+851,12-01,SG,publisher,1,6,1,231
+852,12-01,TZ,publisher,0,0,0,3
+853,12-01,US,publisher,88,95,63,3633
+854,12-01,ZA,publisher,19,16,9,804
+855,12-01,AU,top publisher,14,9,9,814
+856,12-01,CA,top publisher,93,72,60,3709
+857,12-01,GB,top publisher,137,122,158,5415
+858,12-01,GH,top publisher,10,9,5,157
+859,12-01,IE,top publisher,14,240,18,798
+860,12-01,IN,top publisher,59,46,95,2617
+861,12-01,JM,top publisher,4,4,3,178
+862,12-01,KE,top publisher,1,0,5,203
+863,12-01,LK,top publisher,0,0,0,1
+864,12-01,MY,top publisher,5,2,3,182
+865,12-01,NG,top publisher,3,5,2,191
+866,12-01,NZ,top publisher,22,17,21,783
+867,12-01,PH,top publisher,13,5,10,453
+868,12-01,PK,top publisher,6,5,6,186
+869,12-01,SG,top publisher,1,2,2,88
+870,12-01,TZ,top publisher,1,5,4,87
+871,12-01,US,top publisher,130,140,116,5204
+872,12-01,ZA,top publisher,14,51,27,1237
+873,12-02,AU,publisher,13,33,18,1199
+874,12-02,BD,publisher,5,5,3,149
+875,12-02,CA,publisher,129,148,114,4442
+876,12-02,GB,publisher,42,59,33,2703
+877,12-02,GH,publisher,1,3,3,16
+878,12-02,HK,publisher,0,1,0,47
+879,12-02,IE,publisher,15,12,17,523
+880,12-02,IN,publisher,54,53,56,2984
+881,12-02,JM,publisher,6,4,2,185
+882,12-02,KE,publisher,0,0,0,14
+883,12-02,LK,publisher,6,9,3,165
+884,12-02,MY,publisher,1,80,0,184
+885,12-02,NG,publisher,6,11,15,318
+886,12-02,NZ,publisher,9,14,8,480
+887,12-02,PH,publisher,3,3,3,154
+888,12-02,PK,publisher,56,49,58,775
+889,12-02,SG,publisher,1,2,0,261
+890,12-02,TZ,publisher,1,2,0,10
+891,12-02,US,publisher,79,91,60,3261
+892,12-02,ZA,publisher,16,15,8,868
+893,12-02,AU,top publisher,17,20,9,944
+894,12-02,CA,top publisher,82,77,66,3621
+895,12-02,GB,top publisher,108,110,123,4689
+896,12-02,GH,top publisher,9,14,12,153
+897,12-02,IE,top publisher,15,206,24,795
+898,12-02,IN,top publisher,40,49,93,2441
+899,12-02,JM,top publisher,4,3,1,199
+900,12-02,KE,top publisher,5,4,1,275
+901,12-02,MY,top publisher,1,3,2,127
+902,12-02,NG,top publisher,6,3,3,200
+903,12-02,NZ,top publisher,22,15,20,793
+904,12-02,PH,top publisher,23,11,13,549
+905,12-02,PK,top publisher,5,9,9,194
+906,12-02,SG,top publisher,2,0,0,93
+907,12-02,TZ,top publisher,2,1,3,74
+908,12-02,US,top publisher,140,124,121,4926
+909,12-02,ZA,top publisher,28,61,26,1353
+910,12-03,AU,publisher,22,22,6,1306
+911,12-03,BD,publisher,3,3,3,140
+912,12-03,CA,publisher,141,175,94,4565
+913,12-03,GB,publisher,45,66,35,2886
+914,12-03,GH,publisher,1,0,1,11
+915,12-03,HK,publisher,2,2,2,120
+916,12-03,IE,publisher,6,16,12,643
+917,12-03,IN,publisher,57,56,63,3082
+918,12-03,JM,publisher,2,4,4,191
+919,12-03,KE,publisher,0,0,0,6
+920,12-03,LK,publisher,7,8,7,146
+921,12-03,MY,publisher,0,123,0,276
+922,12-03,NG,publisher,3,4,5,346
+923,12-03,NZ,publisher,9,10,14,606
+924,12-03,PH,publisher,5,1,3,180
+925,12-03,PK,publisher,51,45,50,769
+926,12-03,SG,publisher,1,5,0,262
+927,12-03,TZ,publisher,0,0,0,14
+928,12-03,US,publisher,67,100,60,3209
+929,12-03,ZA,publisher,16,24,16,1100
+930,12-03,AU,top publisher,9,102,11,1145
+931,12-03,CA,top publisher,117,93,85,4255
+932,12-03,GB,top publisher,118,142,135,5478
+933,12-03,GH,top publisher,7,13,8,203
+934,12-03,IE,top publisher,20,209,19,846
+935,12-03,IN,top publisher,45,48,98,2721
+936,12-03,JM,top publisher,1,2,2,181
+937,12-03,KE,top publisher,7,4,3,271
+938,12-03,LK,top publisher,0,0,0,1
+939,12-03,MY,top publisher,0,0,0,112
+940,12-03,NG,top publisher,8,6,12,196
+941,12-03,NZ,top publisher,20,21,18,883
+942,12-03,PH,top publisher,16,6,15,558
+943,12-03,PK,top publisher,3,5,8,184
+944,12-03,SG,top publisher,1,2,0,88
+945,12-03,TZ,top publisher,2,1,3,102
+946,12-03,US,top publisher,156,133,134,5197
+947,12-03,ZA,top publisher,22,51,15,1378
+948,12-04,AU,publisher,21,50,12,1279
+949,12-04,BD,publisher,1,4,3,145
+950,12-04,CA,publisher,113,143,73,4239
+951,12-04,GB,publisher,46,53,43,2726
+952,12-04,GH,publisher,1,0,0,4
+953,12-04,HK,publisher,0,0,0,44
+954,12-04,IE,publisher,18,19,24,694
+955,12-04,IN,publisher,54,60,54,3029
+956,12-04,JM,publisher,2,4,2,182
+957,12-04,KE,publisher,0,0,0,10
+958,12-04,LK,publisher,5,3,5,96
+959,12-04,MY,publisher,4,138,1,247
+960,12-04,NG,publisher,1,13,7,351
+961,12-04,NZ,publisher,10,16,9,589
+962,12-04,PH,publisher,15,10,10,447
+963,12-04,PK,publisher,50,60,53,772
+964,12-04,SG,publisher,3,3,0,271
+965,12-04,TZ,publisher,0,0,0,9
+966,12-04,US,publisher,64,84,63,2965
+967,12-04,ZA,publisher,24,21,16,1051
+968,12-04,AU,top publisher,21,23,6,1282
+969,12-04,CA,top publisher,87,75,84,4171
+970,12-04,GB,top publisher,114,137,126,5264
+971,12-04,GH,top publisher,6,11,17,162
+972,12-04,IE,top publisher,13,157,19,692
+973,12-04,IN,top publisher,40,29,76,2722
+974,12-04,JM,top publisher,3,4,6,196
+975,12-04,KE,top publisher,8,4,2,291
+976,12-04,MY,top publisher,0,0,0,154
+977,12-04,NG,top publisher,6,12,9,208
+978,12-04,NZ,top publisher,18,16,18,852
+979,12-04,PH,top publisher,10,0,4,325
+980,12-04,PK,top publisher,4,5,6,187
+981,12-04,SG,top publisher,0,1,0,102
+982,12-04,TZ,top publisher,2,0,2,86
+983,12-04,US,top publisher,130,132,107,4943
+984,12-04,ZA,top publisher,18,20,4,1332
+985,12-05,AU,publisher,21,34,9,1391
+986,12-05,BD,publisher,4,6,2,159
+987,12-05,CA,publisher,131,170,98,5081
+988,12-05,GB,publisher,42,79,48,3160
+989,12-05,GH,publisher,0,0,0,8
+990,12-05,HK,publisher,1,2,1,111
+991,12-05,IE,publisher,24,16,17,769
+992,12-05,IN,publisher,71,71,70,3442
+993,12-05,JM,publisher,7,5,5,207
+994,12-05,KE,publisher,2,0,1,29
+995,12-05,LK,publisher,3,5,5,121
+996,12-05,MY,publisher,0,118,3,257
+997,12-05,NG,publisher,4,11,7,404
+998,12-05,NZ,publisher,17,11,9,660
+999,12-05,PH,publisher,26,8,9,581
+1000,12-05,PK,publisher,49,65,63,839
+1001,12-05,SG,publisher,1,3,0,255
+1002,12-05,TZ,publisher,0,0,0,6
+1003,12-05,US,publisher,76,101,69,3468
+1004,12-05,ZA,publisher,23,26,14,1202
+1005,12-05,AU,top publisher,18,28,10,1329
+1006,12-05,CA,top publisher,108,113,97,4830
+1007,12-05,GB,top publisher,152,120,138,5582
+1008,12-05,GH,top publisher,9,13,20,197
+1009,12-05,IE,top publisher,15,210,17,808
+1010,12-05,IN,top publisher,50,35,96,2947
+1011,12-05,JM,top publisher,3,4,2,184
+1012,12-05,KE,top publisher,4,7,5,326
+1013,12-05,MY,top publisher,0,0,0,177
+1014,12-05,NG,top publisher,1,3,7,193
+1015,12-05,NZ,top publisher,19,16,12,992
+1016,12-05,PH,top publisher,6,5,7,454
+1017,12-05,PK,top publisher,4,6,10,183
+1018,12-05,SG,top publisher,0,2,0,79
+1019,12-05,TZ,top publisher,3,2,4,116
+1020,12-05,US,top publisher,151,158,127,5517
+1021,12-05,ZA,top publisher,29,39,12,1702
+1022,12-06,AU,publisher,19,25,8,1343
+1023,12-06,BD,publisher,1,1,2,141
+1024,12-06,CA,publisher,121,179,92,4630
+1025,12-06,GB,publisher,45,68,33,2618
+1026,12-06,GH,publisher,0,0,1,12
+1027,12-06,HK,publisher,1,1,0,68
+1028,12-06,IE,publisher,18,16,15,736
+1029,12-06,IN,publisher,45,41,57,2830
+1030,12-06,JM,publisher,6,3,5,200
+1031,12-06,KE,publisher,0,1,0,29
+1032,12-06,LK,publisher,2,0,4,113
+1033,12-06,MY,publisher,0,145,0,288
+1034,12-06,NG,publisher,6,12,10,367
+1035,12-06,NZ,publisher,12,17,11,662
+1036,12-06,PH,publisher,26,14,22,674
+1037,12-06,PK,publisher,45,57,58,837
+1038,12-06,SG,publisher,3,6,0,308
+1039,12-06,TZ,publisher,0,0,0,6
+1040,12-06,US,publisher,78,83,64,3008
+1041,12-06,ZA,publisher,20,28,15,1201
+1042,12-06,AU,top publisher,17,22,18,1345
+1043,12-06,CA,top publisher,123,80,71,4451
+1044,12-06,GB,top publisher,144,125,129,5098
+1045,12-06,GH,top publisher,9,15,15,156
+1046,12-06,IE,top publisher,12,240,23,877
+1047,12-06,IN,top publisher,41,47,111,3205
+1048,12-06,JM,top publisher,4,6,1,192
+1049,12-06,KE,top publisher,10,3,3,296
+1050,12-06,MY,top publisher,0,0,0,178
+1051,12-06,NG,top publisher,7,5,5,146
+1052,12-06,NZ,top publisher,21,18,23,843
+1053,12-06,PH,top publisher,6,3,4,375
+1054,12-06,PK,top publisher,2,7,6,184
+1055,12-06,SG,top publisher,1,2,1,85
+1056,12-06,TZ,top publisher,3,4,3,106
+1057,12-06,US,top publisher,108,107,131,4871
+1058,12-06,ZA,top publisher,9,50,10,1558
+1059,12-07,AU,publisher,24,31,10,1491
+1060,12-07,BD,publisher,1,1,2,153
+1061,12-07,CA,publisher,104,109,84,4281
+1062,12-07,GB,publisher,44,69,27,2756
+1063,12-07,GH,publisher,0,0,0,10
+1064,12-07,HK,publisher,1,3,0,95
+1065,12-07,IE,publisher,20,18,17,753
+1066,12-07,IN,publisher,46,65,50,2697
+1067,12-07,JM,publisher,13,3,4,235
+1068,12-07,KE,publisher,3,2,1,37
+1069,12-07,LK,publisher,1,3,2,61
+1070,12-07,MY,publisher,5,25,1,142
+1071,12-07,NG,publisher,2,14,8,412
+1072,12-07,NZ,publisher,30,16,11,708
+1073,12-07,PH,publisher,19,8,12,626
+1074,12-07,PK,publisher,57,59,73,890
+1075,12-07,SG,publisher,2,9,0,362
+1076,12-07,TZ,publisher,1,0,0,8
+1077,12-07,US,publisher,63,74,70,3046
+1078,12-07,ZA,publisher,15,23,14,1280
+1079,12-07,AU,top publisher,18,41,25,1531
+1080,12-07,CA,top publisher,109,92,71,4301
+1081,12-07,GB,top publisher,111,126,142,5146
+1082,12-07,GH,top publisher,7,8,11,129
+1083,12-07,IE,top publisher,17,184,32,965
+1084,12-07,IN,top publisher,64,48,110,3457
+1085,12-07,JM,top publisher,6,3,2,207
+1086,12-07,KE,top publisher,6,9,6,336
+1087,12-07,MY,top publisher,0,0,0,200
+1088,12-07,NG,top publisher,3,4,10,205
+1089,12-07,NZ,top publisher,31,15,14,1033
+1090,12-07,PH,top publisher,13,10,3,432
+1091,12-07,PK,top publisher,0,14,5,187
+1092,12-07,SG,top publisher,4,4,1,101
+1093,12-07,TZ,top publisher,2,2,0,134
+1094,12-07,US,top publisher,126,118,115,5005
+1095,12-07,ZA,top publisher,8,53,2,1629
+1096,12-08,AU,publisher,13,35,13,1337
+1097,12-08,BD,publisher,2,1,1,126
+1098,12-08,CA,publisher,87,125,79,4336
+1099,12-08,GB,publisher,38,61,40,2778
+1100,12-08,GH,publisher,3,8,5,201
+1101,12-08,HK,publisher,1,2,2,81
+1102,12-08,IE,publisher,18,26,15,820
+1103,12-08,IN,publisher,53,44,49,2632
+1104,12-08,JM,publisher,4,7,3,191
+1105,12-08,KE,publisher,1,0,1,47
+1106,12-08,LK,publisher,0,0,0,42
+1107,12-08,MY,publisher,0,21,0,124
+1108,12-08,NG,publisher,8,8,9,431
+1109,12-08,NZ,publisher,28,15,13,754
+1110,12-08,PH,publisher,6,5,2,218
+1111,12-08,PK,publisher,40,41,48,804
+1112,12-08,SG,publisher,2,1,8,272
+1113,12-08,TZ,publisher,2,0,0,8
+1114,12-08,US,publisher,79,72,62,2964
+1115,12-08,ZA,publisher,28,25,17,1530
+1116,12-08,AU,top publisher,9,165,11,1614
+1117,12-08,CA,top publisher,101,82,82,4283
+1118,12-08,GB,top publisher,142,129,133,5159
+1119,12-08,GH,top publisher,4,6,9,123
+1120,12-08,IE,top publisher,19,188,17,855
+1121,12-08,IN,top publisher,53,48,82,3291
+1122,12-08,JM,top publisher,4,3,8,212
+1123,12-08,KE,top publisher,3,4,6,299
+1124,12-08,LK,top publisher,4,0,1,76
+1125,12-08,MY,top publisher,0,0,0,194
+1126,12-08,NG,top publisher,5,8,8,198
+1127,12-08,NZ,top publisher,22,24,20,1090
+1128,12-08,PH,top publisher,28,11,11,801
+1129,12-08,PK,top publisher,10,9,5,184
+1130,12-08,SG,top publisher,0,0,2,77
+1131,12-08,TZ,top publisher,2,0,4,109
+1132,12-08,US,top publisher,146,171,131,5205
+1133,12-08,ZA,top publisher,15,59,8,1558
+1134,12-09,AU,publisher,13,32,14,1308
+1135,12-09,BD,publisher,4,2,4,165
+1136,12-09,CA,publisher,104,162,71,4174
+1137,12-09,GB,publisher,39,58,33,2522
+1138,12-09,GH,publisher,4,4,6,169
+1139,12-09,HK,publisher,0,2,2,69
+1140,12-09,IE,publisher,25,19,22,783
+1141,12-09,IN,publisher,49,39,39,2381
+1142,12-09,JM,publisher,6,5,2,226
+1143,12-09,KE,publisher,3,1,3,91
+1144,12-09,LK,publisher,0,3,1,66
+1145,12-09,MY,publisher,1,94,2,199
+1146,12-09,NG,publisher,3,12,10,470
+1147,12-09,NZ,publisher,21,18,9,722
+1148,12-09,PH,publisher,6,2,3,196
+1149,12-09,PK,publisher,52,53,63,847
+1150,12-09,SG,publisher,2,3,2,253
+1151,12-09,TZ,publisher,0,0,0,10
+1152,12-09,US,publisher,75,64,64,2896
+1153,12-09,ZA,publisher,28,21,28,1298
+1154,12-09,AU,top publisher,15,192,16,1454
+1155,12-09,CA,top publisher,93,76,88,4266
+1156,12-09,GB,top publisher,106,125,111,4766
+1157,12-09,GH,top publisher,9,8,10,162
+1158,12-09,IE,top publisher,23,17,14,614
+1159,12-09,IN,top publisher,52,38,109,3125
+1160,12-09,JM,top publisher,2,5,3,200
+1161,12-09,KE,top publisher,5,8,8,350
+1162,12-09,LK,top publisher,1,1,1,15
+1163,12-09,MY,top publisher,0,0,1,207
+1164,12-09,NG,top publisher,3,9,4,195
+1165,12-09,NZ,top publisher,24,23,18,1045
+1166,12-09,PH,top publisher,25,13,20,955
+1167,12-09,PK,top publisher,1,9,5,199
+1168,12-09,SG,top publisher,1,1,0,65
+1169,12-09,TZ,top publisher,2,3,2,136
+1170,12-09,US,top publisher,117,131,125,4873
+1171,12-09,ZA,top publisher,11,44,13,1372
+1172,12-10,AU,publisher,21,40,21,1608
+1173,12-10,BD,publisher,4,4,0,129
+1174,12-10,CA,publisher,140,157,97,4516
+1175,12-10,GB,publisher,48,71,35,2851
+1176,12-10,GH,publisher,9,2,6,202
+1177,12-10,HK,publisher,2,1,2,82
+1178,12-10,IE,publisher,27,26,22,827
+1179,12-10,IN,publisher,61,49,57,2769
+1180,12-10,JM,publisher,3,6,7,221
+1181,12-10,KE,publisher,5,4,2,275
+1182,12-10,LK,publisher,0,0,1,60
+1183,12-10,MY,publisher,4,153,0,281
+1184,12-10,NG,publisher,5,16,14,509
+1185,12-10,NZ,publisher,6,7,10,618
+1186,12-10,PH,publisher,2,5,3,221
+1187,12-10,PK,publisher,54,51,53,877
+1188,12-10,SG,publisher,6,5,6,402
+1189,12-10,US,publisher,80,79,45,3050
+1190,12-10,ZA,publisher,27,30,24,1492
+1191,12-10,AU,top publisher,18,214,13,1468
+1192,12-10,CA,top publisher,102,90,78,4365
+1193,12-10,GB,top publisher,130,136,137,5187
+1194,12-10,GH,top publisher,7,7,6,188
+1195,12-10,IE,top publisher,16,9,21,803
+1196,12-10,IN,top publisher,47,49,98,3214
+1197,12-10,JM,top publisher,4,7,5,194
+1198,12-10,KE,top publisher,4,8,5,380
+1199,12-10,LK,top publisher,1,2,0,72
+1200,12-10,MY,top publisher,1,0,1,227
+1201,12-10,NG,top publisher,3,5,4,188
+1202,12-10,NZ,top publisher,27,16,13,972
+1203,12-10,PH,top publisher,21,9,25,880
+1204,12-10,PK,top publisher,5,9,7,185
+1205,12-10,SG,top publisher,1,2,1,69
+1206,12-10,TZ,top publisher,2,1,2,134
+1207,12-10,US,top publisher,127,127,127,5022
+1208,12-10,ZA,top publisher,9,55,10,1646
+1209,12-11,AU,publisher,21,39,12,1601
+1210,12-11,BD,publisher,2,4,1,144
+1211,12-11,CA,publisher,150,215,102,5183
+1212,12-11,GB,publisher,49,78,47,3034
+1213,12-11,GH,publisher,4,6,5,185
+1214,12-11,HK,publisher,0,3,2,69
+1215,12-11,IE,publisher,24,25,24,855
+1216,12-11,IN,publisher,46,54,46,2585
+1217,12-11,JM,publisher,6,6,4,205
+1218,12-11,KE,publisher,4,6,7,321
+1219,12-11,LK,publisher,2,4,6,69
+1220,12-11,MY,publisher,3,128,3,233
+1221,12-11,NG,publisher,8,17,11,534
+1222,12-11,NZ,publisher,15,13,7,607
+1223,12-11,PH,publisher,9,3,7,382
+1224,12-11,PK,publisher,53,40,64,668
+1225,12-11,SG,publisher,4,11,2,407
+1226,12-11,TZ,publisher,0,0,0,1
+1227,12-11,US,publisher,63,64,57,2892
+1228,12-11,ZA,publisher,28,15,15,1307
+1229,12-11,AU,top publisher,10,140,14,1150
+1230,12-11,CA,top publisher,122,85,80,4633
+1231,12-11,GB,top publisher,129,120,134,5195
+1232,12-11,GH,top publisher,9,7,10,190
+1233,12-11,IE,top publisher,21,15,23,856
+1234,12-11,IN,top publisher,50,34,94,2720
+1235,12-11,JM,top publisher,0,0,1,197
+1236,12-11,KE,top publisher,5,10,3,369
+1237,12-11,LK,top publisher,1,1,0,5
+1238,12-11,MY,top publisher,0,1,0,196
+1239,12-11,NG,top publisher,3,7,8,189
+1240,12-11,NZ,top publisher,20,14,18,1093
+1241,12-11,PH,top publisher,13,10,17,796
+1242,12-11,PK,top publisher,3,8,4,181
+1243,12-11,SG,top publisher,1,2,0,55
+1244,12-11,TZ,top publisher,2,3,2,126
+1245,12-11,US,top publisher,127,140,142,4699
+1246,12-11,ZA,top publisher,11,62,10,1498
+1247,12-12,AU,publisher,17,25,10,1272
+1248,12-12,BD,publisher,3,7,3,156
+1249,12-12,CA,publisher,98,136,73,3791
+1250,12-12,GB,publisher,31,55,47,2321
+1251,12-12,GH,publisher,4,3,2,140
+1252,12-12,HK,publisher,1,1,1,65
+1253,12-12,IE,publisher,23,9,11,617
+1254,12-12,IN,publisher,48,41,36,2492
+1255,12-12,JM,publisher,1,1,1,223
+1256,12-12,KE,publisher,5,9,8,382
+1257,12-12,LK,publisher,1,2,2,43
+1258,12-12,MY,publisher,3,121,0,218
+1259,12-12,NG,publisher,3,15,12,493
+1260,12-12,NZ,publisher,12,18,4,520
+1261,12-12,PH,publisher,14,6,12,496
+1262,12-12,PK,publisher,44,52,57,703
+1263,12-12,SG,publisher,3,9,0,311
+1264,12-12,TZ,publisher,0,0,0,3
+1265,12-12,US,publisher,81,84,57,2891
+1266,12-12,ZA,publisher,14,12,13,845
+1267,12-12,AU,top publisher,12,35,12,947
+1268,12-12,CA,top publisher,87,67,73,4181
+1269,12-12,GB,top publisher,88,96,98,4454
+1270,12-12,GH,top publisher,6,5,7,135
+1271,12-12,IE,top publisher,17,20,30,759
+1272,12-12,IN,top publisher,53,42,98,3075
+1273,12-12,JM,top publisher,1,1,1,219
+1274,12-12,KE,top publisher,6,8,4,311
+1275,12-12,LK,top publisher,0,0,0,15
+1276,12-12,MY,top publisher,4,0,2,244
+1277,12-12,NG,top publisher,5,5,12,207
+1278,12-12,NZ,top publisher,16,14,11,861
+1279,12-12,PH,top publisher,10,7,2,493
+1280,12-12,PK,top publisher,3,11,8,206
+1281,12-12,SG,top publisher,3,0,1,40
+1282,12-12,TZ,top publisher,4,0,0,142
+1283,12-12,US,top publisher,111,125,132,4848
+1284,12-12,ZA,top publisher,11,39,2,1020
+1285,13-01,AU,publisher,29,44,16,1895
+1286,13-01,BD,publisher,5,6,9,195
+1287,13-01,CA,publisher,89,120,72,4111
+1288,13-01,GB,publisher,54,65,39,3028
+1289,13-01,GH,publisher,4,1,3,188
+1290,13-01,HK,publisher,0,3,1,80
+1291,13-01,IE,publisher,23,29,26,900
+1292,13-01,IN,publisher,30,38,54,2633
+1293,13-01,JM,publisher,2,3,3,196
+1294,13-01,KE,publisher,6,12,9,468
+1295,13-01,LK,publisher,5,3,3,104
+1296,13-01,MY,publisher,2,134,2,240
+1297,13-01,NG,publisher,7,12,23,554
+1298,13-01,NZ,publisher,11,10,5,270
+1299,13-01,PH,publisher,10,5,5,225
+1300,13-01,PK,publisher,45,55,49,695
+1301,13-01,SG,publisher,3,4,3,400
+1302,13-01,TZ,publisher,0,0,0,14
+1303,13-01,US,publisher,73,91,60,3316
+1304,13-01,ZA,publisher,13,23,12,1216
+1305,13-01,AU,top publisher,19,19,17,1121
+1306,13-01,BD,top publisher,1,0,1,73
+1307,13-01,CA,top publisher,100,72,90,4659
+1308,13-01,GB,top publisher,123,147,134,5710
+1309,13-01,GH,top publisher,11,5,5,176
+1310,13-01,IE,top publisher,37,82,34,1245
+1311,13-01,IN,top publisher,43,59,100,3183
+1312,13-01,JM,top publisher,1,1,0,202
+1313,13-01,KE,top publisher,3,7,3,421
+1314,13-01,MY,top publisher,0,0,1,213
+1315,13-01,NG,top publisher,4,8,6,194
+1316,13-01,NZ,top publisher,27,29,28,1388
+1317,13-01,PH,top publisher,29,15,15,822
+1318,13-01,PK,top publisher,3,8,3,176
+1319,13-01,SG,top publisher,1,0,2,66
+1320,13-01,TZ,top publisher,4,4,6,179
+1321,13-01,US,top publisher,107,125,98,5145
+1322,13-01,ZA,top publisher,10,54,10,1510
+1323,13-02,AU,publisher,24,48,12,1620
+1324,13-02,BD,publisher,6,7,2,151
+1325,13-02,CA,publisher,77,120,56,3871
+1326,13-02,GB,publisher,39,71,32,2672
+1327,13-02,GH,publisher,5,4,2,156
+1328,13-02,HK,publisher,2,1,0,71
+1329,13-02,IE,publisher,28,26,17,930
+1330,13-02,IN,publisher,33,44,43,2168
+1331,13-02,JM,publisher,5,4,0,169
+1332,13-02,KE,publisher,5,4,13,275
+1333,13-02,LK,publisher,1,2,0,63
+1334,13-02,MY,publisher,1,129,2,224
+1335,13-02,NG,publisher,10,17,14,487
+1336,13-02,NZ,publisher,7,7,2,250
+1337,13-02,PH,publisher,7,6,2,219
+1338,13-02,PK,publisher,35,40,49,714
+1339,13-02,SG,publisher,7,11,1,395
+1340,13-02,TZ,publisher,0,0,0,6
+1341,13-02,US,publisher,70,72,59,2916
+1342,13-02,ZA,publisher,17,27,11,1300
+1343,13-02,AU,top publisher,12,22,17,1186
+1344,13-02,BD,top publisher,0,2,2,97
+1345,13-02,CA,top publisher,96,88,77,4561
+1346,13-02,GB,top publisher,124,119,103,5036
+1347,13-02,GH,top publisher,6,5,14,194
+1348,13-02,IE,top publisher,32,188,26,1294
+1349,13-02,IN,top publisher,40,50,67,2779
+1350,13-02,JM,top publisher,1,0,0,169
+1351,13-02,KE,top publisher,4,5,4,332
+1352,13-02,LK,top publisher,0,0,0,1
+1353,13-02,MY,top publisher,1,1,0,176
+1354,13-02,NG,top publisher,4,6,9,171
+1355,13-02,NZ,top publisher,22,24,21,1069
+1356,13-02,PH,top publisher,16,16,14,771
+1357,13-02,PK,top publisher,10,11,7,173
+1358,13-02,SG,top publisher,1,1,1,57
+1359,13-02,TZ,top publisher,6,0,2,156
+1360,13-02,US,top publisher,118,117,93,4548
+1361,13-02,ZA,top publisher,7,19,8,1582
+1362,13-03,AU,publisher,37,45,18,1811
+1363,13-03,BD,publisher,7,6,3,59
+1364,13-03,CA,publisher,67,129,65,4004
+1365,13-03,GB,publisher,46,46,38,2725
+1366,13-03,GH,publisher,4,4,1,166
+1367,13-03,HK,publisher,1,0,1,109
+1368,13-03,IE,publisher,28,24,31,1158
+1369,13-03,IN,publisher,37,47,43,2254
+1370,13-03,JM,publisher,2,4,4,202
+1371,13-03,KE,publisher,5,8,6,364
+1372,13-03,LK,publisher,1,0,6,110
+1373,13-03,MY,publisher,5,161,2,318
+1374,13-03,NG,publisher,8,24,21,585
+1375,13-03,NZ,publisher,11,9,2,425
+1376,13-03,PH,publisher,8,6,2,298
+1377,13-03,PK,publisher,34,34,39,672
+1378,13-03,SG,publisher,5,10,1,473
+1379,13-03,TZ,publisher,0,0,0,14
+1380,13-03,US,publisher,72,67,50,3231
+1381,13-03,ZA,publisher,24,23,22,1501
+1382,13-03,AU,top publisher,13,28,18,1351
+1383,13-03,BD,top publisher,3,3,3,130
+1384,13-03,CA,top publisher,103,98,90,4583
+1385,13-03,GB,top publisher,108,126,134,5257
+1386,13-03,GH,top publisher,11,5,11,196
+1387,13-03,IE,top publisher,40,191,56,1943
+1388,13-03,IN,top publisher,53,56,88,3258
+1389,13-03,JM,top publisher,0,0,0,196
+1390,13-03,KE,top publisher,5,2,6,411
+1391,13-03,MY,top publisher,0,1,1,215
+1392,13-03,NG,top publisher,2,4,11,189
+1393,13-03,NZ,top publisher,22,22,14,1080
+1394,13-03,PH,top publisher,24,10,14,945
+1395,13-03,PK,top publisher,2,7,5,179
+1396,13-03,SG,top publisher,2,2,2,86
+1397,13-03,TZ,top publisher,2,2,4,172
+1398,13-03,US,top publisher,110,135,104,4927
+1399,13-03,ZA,top publisher,15,37,19,1946
+1400,13-04,AU,publisher,33,44,18,2092
+1401,13-04,BD,publisher,7,4,1,74
+1402,13-04,CA,publisher,88,119,48,3857
+1403,13-04,GB,publisher,45,64,39,2684
+1404,13-04,GH,publisher,10,4,5,183
+1405,13-04,HK,publisher,2,2,1,99
+1406,13-04,IE,publisher,28,16,19,1091
+1407,13-04,IN,publisher,27,32,43,2026
+1408,13-04,JM,publisher,3,7,5,217
+1409,13-04,KE,publisher,8,6,13,410
+1410,13-04,LK,publisher,1,1,2,125
+1411,13-04,MY,publisher,1,61,1,213
+1412,13-04,NG,publisher,14,16,21,612
+1413,13-04,NZ,publisher,17,13,12,615
+1414,13-04,PH,publisher,11,3,4,376
+1415,13-04,PK,publisher,43,60,49,757
+1416,13-04,SG,publisher,6,5,6,628
+1417,13-04,TZ,publisher,2,0,0,18
+1418,13-04,US,publisher,67,94,47,3073
+1419,13-04,ZA,publisher,28,27,20,1659
+1420,13-04,AU,top publisher,23,70,24,1507
+1421,13-04,BD,top publisher,3,1,2,126
+1422,13-04,CA,top publisher,90,76,75,4289
+1423,13-04,GB,top publisher,107,116,108,4763
+1424,13-04,GH,top publisher,7,11,9,194
+1425,13-04,IE,top publisher,46,154,40,1657
+1426,13-04,IN,top publisher,41,41,79,3544
+1427,13-04,JM,top publisher,1,0,1,195
+1428,13-04,KE,top publisher,4,10,4,404
+1429,13-04,MY,top publisher,2,0,1,209
+1430,13-04,NG,top publisher,6,5,9,197
+1431,13-04,NZ,top publisher,26,25,28,1127
+1432,13-04,PH,top publisher,26,19,18,1132
+1433,13-04,PK,top publisher,7,8,4,193
+1434,13-04,SG,top publisher,0,1,1,95
+1435,13-04,TZ,top publisher,4,3,1,193
+1436,13-04,US,top publisher,100,125,93,4427
+1437,13-04,ZA,top publisher,15,26,19,1963
+1438,13-05,AU,publisher,36,54,16,2495
+1439,13-05,BD,publisher,12,8,12,255
+1440,13-05,CA,publisher,86,118,66,4052
+1441,13-05,GB,publisher,51,91,35,2887
+1442,13-05,GH,publisher,9,1,4,179
+1443,13-05,HK,publisher,4,7,2,169
+1444,13-05,IE,publisher,28,24,26,1279
+1445,13-05,IN,publisher,56,40,47,2255
+1446,13-05,JM,publisher,6,2,7,217
+1447,13-05,KE,publisher,10,9,12,413
+1448,13-05,LK,publisher,1,2,3,115
+1449,13-05,MY,publisher,3,85,4,277
+1450,13-05,NG,publisher,5,27,28,745
+1451,13-05,NZ,publisher,28,23,12,746
+1452,13-05,PH,publisher,13,2,7,394
+1453,13-05,PK,publisher,46,53,41,779
+1454,13-05,SG,publisher,8,19,2,763
+1455,13-05,TZ,publisher,0,0,0,18
+1456,13-05,US,publisher,83,103,64,3447
+1457,13-05,ZA,publisher,34,32,21,1648
+1458,13-05,AU,top publisher,25,64,17,1763
+1459,13-05,BD,top publisher,2,1,2,124
+1460,13-05,CA,top publisher,103,76,100,4834
+1461,13-05,GB,top publisher,137,140,116,5316
+1462,13-05,GH,top publisher,9,10,7,208
+1463,13-05,IE,top publisher,60,171,57,2127
+1464,13-05,IN,top publisher,48,58,89,3912
+1465,13-05,JM,top publisher,1,1,1,202
+1466,13-05,KE,top publisher,9,7,6,437
+1467,13-05,MY,top publisher,0,0,1,226
+1468,13-05,NG,top publisher,5,5,9,189
+1469,13-05,NZ,top publisher,23,30,18,1153
+1470,13-05,PH,top publisher,17,13,21,1102
+1471,13-05,PK,top publisher,5,4,6,203
+1472,13-05,SG,top publisher,5,1,1,125
+1473,13-05,TZ,top publisher,6,7,0,209
+1474,13-05,US,top publisher,125,128,101,4899
+1475,13-05,ZA,top publisher,14,67,12,2160
+1476,13-06,AU,publisher,33,41,19,2063
+1477,13-06,BD,publisher,12,18,11,283
+1478,13-06,CA,publisher,89,111,47,3537
+1479,13-06,GB,publisher,51,63,41,2533
+1480,13-06,GH,publisher,10,4,6,226
+1481,13-06,HK,publisher,1,3,1,88
+1482,13-06,IE,publisher,21,25,18,935
+1483,13-06,IN,publisher,27,41,32,1646
+1484,13-06,JM,publisher,7,7,6,207
+1485,13-06,KE,publisher,2,10,6,375
+1486,13-06,LK,publisher,3,3,5,144
+1487,13-06,MY,publisher,7,116,4,320
+1488,13-06,NG,publisher,15,29,31,709
+1489,13-06,NZ,publisher,20,21,13,857
+1490,13-06,PH,publisher,18,2,4,397
+1491,13-06,PK,publisher,39,50,43,704
+1492,13-06,SG,publisher,4,20,1,664
+1493,13-06,TZ,publisher,0,0,1,11
+1494,13-06,US,publisher,81,77,48,2825
+1495,13-06,ZA,publisher,20,26,26,1505
+1496,13-06,AU,top publisher,32,31,19,1721
+1497,13-06,BD,top publisher,2,2,1,118
+1498,13-06,CA,top publisher,106,67,77,4149
+1499,13-06,GB,top publisher,119,114,105,4420
+1500,13-06,GH,top publisher,9,8,7,168
+1501,13-06,IE,top publisher,58,201,58,2100
+1502,13-06,IN,top publisher,42,46,45,3216
+1503,13-06,JM,top publisher,0,1,1,174
+1504,13-06,KE,top publisher,7,6,6,416
+1505,13-06,MY,top publisher,1,2,1,302
+1506,13-06,NG,top publisher,2,7,10,174
+1507,13-06,NZ,top publisher,16,18,13,837
+1508,13-06,PH,top publisher,39,10,14,1120
+1509,13-06,PK,top publisher,7,7,4,176
+1510,13-06,SG,top publisher,2,1,1,154
+1511,13-06,TZ,top publisher,2,3,5,186
+1512,13-06,US,top publisher,113,124,75,4121
+1513,13-06,ZA,top publisher,14,46,12,2023
+1514,13-07,AU,publisher,39,54,13,2230
+1515,13-07,BD,publisher,33,20,17,399
+1516,13-07,CA,publisher,64,116,57,3276
+1517,13-07,GB,publisher,46,61,34,2672
+1518,13-07,GH,publisher,10,3,9,289
+1519,13-07,HK,publisher,2,2,4,136
+1520,13-07,IE,publisher,31,30,23,971
+1521,13-07,IN,publisher,23,34,24,1733
+1522,13-07,JM,publisher,6,4,3,187
+1523,13-07,KE,publisher,17,10,11,440
+1524,13-07,LK,publisher,4,1,1,134
+1525,13-07,MY,publisher,5,80,4,325
+1526,13-07,NG,publisher,19,19,24,812
+1527,13-07,NZ,publisher,20,22,14,952
+1528,13-07,PH,publisher,14,7,9,659
+1529,13-07,PK,publisher,43,40,45,769
+1530,13-07,SG,publisher,8,10,4,622
+1531,13-07,TZ,publisher,0,0,0,11
+1532,13-07,US,publisher,54,60,44,2652
+1533,13-07,ZA,publisher,42,22,13,1614
+1534,13-07,AU,top publisher,29,45,18,1797
+1535,13-07,BD,top publisher,1,1,2,128
+1536,13-07,CA,top publisher,99,71,61,4027
+1537,13-07,GB,top publisher,112,106,109,4775
+1538,13-07,GH,top publisher,9,7,9,228
+1539,13-07,IE,top publisher,63,199,58,2395
+1540,13-07,IN,top publisher,36,42,61,3435
+1541,13-07,JM,top publisher,0,0,3,206
+1542,13-07,KE,top publisher,7,7,2,426
+1543,13-07,LK,top publisher,0,0,0,8
+1544,13-07,MY,top publisher,8,4,7,461
+1545,13-07,NG,top publisher,8,10,14,209
+1546,13-07,NZ,top publisher,27,16,20,1032
+1547,13-07,PH,top publisher,32,12,27,1209
+1548,13-07,PK,top publisher,8,12,5,190
+1549,13-07,SG,top publisher,2,2,2,112
+1550,13-07,TZ,top publisher,4,7,3,206
+1551,13-07,US,top publisher,96,108,87,3909
+1552,13-07,ZA,top publisher,13,74,17,2093
+1553,13-08,AU,publisher,29,41,17,1977
+1554,13-08,BD,publisher,30,32,25,359
+1555,13-08,CA,publisher,62,106,47,3159
+1556,13-08,GB,publisher,42,46,27,2383
+1557,13-08,GH,publisher,4,8,4,283
+1558,13-08,HK,publisher,2,11,1,135
+1559,13-08,IE,publisher,31,21,23,1199
+1560,13-08,IN,publisher,28,42,28,1597
+1561,13-08,JM,publisher,2,3,2,196
+1562,13-08,KE,publisher,7,3,9,346
+1563,13-08,LK,publisher,4,1,1,134
+1564,13-08,MY,publisher,11,128,9,511
+1565,13-08,NG,publisher,16,21,23,760
+1566,13-08,NZ,publisher,12,10,7,517
+1567,13-08,PH,publisher,16,5,9,654
+1568,13-08,PK,publisher,36,35,49,720
+1569,13-08,SG,publisher,5,6,4,617
+1570,13-08,TZ,publisher,0,0,0,14
+1571,13-08,US,publisher,73,81,60,2972
+1572,13-08,ZA,publisher,23,31,17,1650
+1573,13-08,AU,top publisher,28,32,14,1820
+1574,13-08,BD,top publisher,4,3,1,130
+1575,13-08,CA,top publisher,100,88,86,4543
+1576,13-08,GB,top publisher,154,137,127,5794
+1577,13-08,GH,top publisher,5,13,11,199
+1578,13-08,IE,top publisher,70,251,62,2749
+1579,13-08,IN,top publisher,61,42,50,3699
+1580,13-08,JM,top publisher,1,0,1,186
+1581,13-08,KE,top publisher,7,5,4,386
+1582,13-08,MY,top publisher,6,2,4,440
+1583,13-08,NG,top publisher,7,8,12,198
+1584,13-08,NZ,top publisher,8,9,11,517
+1585,13-08,PH,top publisher,18,11,21,1024
+1586,13-08,PK,top publisher,4,7,9,196
+1587,13-08,SG,top publisher,0,0,0,14
+1588,13-08,TZ,top publisher,5,4,3,189
+1589,13-08,US,top publisher,123,133,112,4658
+1590,13-08,ZA,top publisher,15,53,13,2153
+1591,13-09,AU,publisher,28,49,23,1946
+1592,13-09,BD,publisher,34,13,20,350
+1593,13-09,CA,publisher,63,129,53,3317
+1594,13-09,GB,publisher,54,69,30,2449
+1595,13-09,GH,publisher,7,3,7,282
+1596,13-09,HK,publisher,3,2,4,163
+1597,13-09,IE,publisher,34,23,17,1130
+1598,13-09,IN,publisher,35,30,26,1777
+1599,13-09,JM,publisher,6,2,6,213
+1600,13-09,KE,publisher,8,7,7,275
+1601,13-09,LK,publisher,0,0,2,82
+1602,13-09,MY,publisher,9,156,8,502
+1603,13-09,NG,publisher,17,22,26,794
+1604,13-09,NZ,publisher,21,15,15,705
+1605,13-09,PH,publisher,12,3,13,662
+1606,13-09,PK,publisher,36,45,32,703
+1607,13-09,SG,publisher,9,14,5,822
+1608,13-09,TZ,publisher,0,0,0,12
+1609,13-09,US,publisher,64,65,55,2885
+1610,13-09,ZA,publisher,24,30,15,1648
+1611,13-09,AU,top publisher,29,48,33,2010
+1612,13-09,BD,top publisher,3,2,1,129
+1613,13-09,CA,top publisher,95,94,69,4892
+1614,13-09,GB,top publisher,156,120,119,5340
+1615,13-09,GH,top publisher,5,19,12,209
+1616,13-09,IE,top publisher,58,184,58,2481
+1617,13-09,IN,top publisher,55,60,37,3761
+1618,13-09,JM,top publisher,0,0,0,207
+1619,13-09,KE,top publisher,7,10,5,355
+1620,13-09,MY,top publisher,6,4,2,433
+1621,13-09,NG,top publisher,6,5,10,194
+1622,13-09,NZ,top publisher,24,15,22,739
+1623,13-09,PH,top publisher,27,19,25,1164
+1624,13-09,PK,top publisher,6,4,5,166
+1625,13-09,SG,top publisher,1,0,0,19
+1626,13-09,TZ,top publisher,8,2,1,199
+1627,13-09,US,top publisher,118,124,102,4456
+1628,13-09,ZA,top publisher,22,78,22,1969
+1629,13-10,AU,publisher,18,42,16,1839
+1630,13-10,BD,publisher,31,34,30,398
+1631,13-10,CA,publisher,74,104,47,3411
+1632,13-10,GB,publisher,35,53,31,2313
+1633,13-10,GH,publisher,0,3,4,145
+1634,13-10,HK,publisher,4,2,2,135
+1635,13-10,IE,publisher,24,30,25,1291
+1636,13-10,IN,publisher,25,43,31,1735
+1637,13-10,JM,publisher,7,4,2,210
+1638,13-10,KE,publisher,7,7,6,225
+1639,13-10,LK,publisher,0,0,1,80
+1640,13-10,MY,publisher,6,157,3,481
+1641,13-10,NG,publisher,12,30,24,864
+1642,13-10,NZ,publisher,14,18,11,717
+1643,13-10,PH,publisher,18,15,21,749
+1644,13-10,PK,publisher,33,51,55,583
+1645,13-10,SG,publisher,6,13,1,804
+1646,13-10,TZ,publisher,0,0,0,19
+1647,13-10,US,publisher,65,85,46,2894
+1648,13-10,ZA,publisher,37,40,26,2057
+1649,13-10,AU,top publisher,32,45,31,2107
+1650,13-10,BD,top publisher,3,1,1,84
+1651,13-10,CA,top publisher,92,102,84,5674
+1652,13-10,GB,top publisher,135,122,127,5663
+1653,13-10,GH,top publisher,7,12,18,216
+1654,13-10,IE,top publisher,88,215,87,3277
+1655,13-10,IN,top publisher,47,46,50,3789
+1656,13-10,JM,top publisher,1,2,0,199
+1657,13-10,KE,top publisher,9,5,4,398
+1658,13-10,MY,top publisher,4,2,3,436
+1659,13-10,NG,top publisher,6,7,7,188
+1660,13-10,NZ,top publisher,13,10,19,698
+1661,13-10,PH,top publisher,31,14,21,1194
+1662,13-10,PK,top publisher,6,10,7,187
+1663,13-10,SG,top publisher,0,1,0,17
+1664,13-10,TZ,top publisher,4,5,0,176
+1665,13-10,US,top publisher,117,102,124,4308
+1666,13-10,ZA,top publisher,16,76,15,2521
+1667,13-11,AU,publisher,23,49,23,2066
+1668,13-11,BD,publisher,27,28,21,401
+1669,13-11,CA,publisher,67,102,43,3387
+1670,13-11,GB,publisher,38,58,24,2378
+1671,13-11,GH,publisher,3,0,1,94
+1672,13-11,HK,publisher,4,1,3,136
+1673,13-11,IE,publisher,22,18,20,1121
+1674,13-11,IN,publisher,28,33,13,1348
+1675,13-11,JM,publisher,5,4,1,239
+1676,13-11,KE,publisher,9,6,11,261
+1677,13-11,LK,publisher,1,2,1,88
+1678,13-11,MY,publisher,12,163,8,558
+1679,13-11,NG,publisher,9,15,22,758
+1680,13-11,NZ,publisher,13,12,14,665
+1681,13-11,PH,publisher,14,5,7,661
+1682,13-11,PK,publisher,29,34,31,613
+1683,13-11,SG,publisher,9,11,7,750
+1684,13-11,TZ,publisher,0,0,0,17
+1685,13-11,US,publisher,57,67,35,2618
+1686,13-11,ZA,publisher,26,19,9,1722
+1687,13-11,AU,top publisher,32,40,32,2026
+1688,13-11,CA,top publisher,88,90,63,5375
+1689,13-11,GB,top publisher,147,138,148,5407
+1690,13-11,GH,top publisher,3,3,6,212
+1691,13-11,IE,top publisher,71,253,69,3231
+1692,13-11,IN,top publisher,29,31,46,3053
+1693,13-11,JM,top publisher,1,3,1,199
+1694,13-11,KE,top publisher,10,11,5,392
+1695,13-11,MY,top publisher,4,3,1,431
+1696,13-11,NG,top publisher,5,10,12,188
+1697,13-11,NZ,top publisher,15,16,14,673
+1698,13-11,PH,top publisher,30,12,18,1156
+1699,13-11,PK,top publisher,5,10,10,178
+1700,13-11,SG,top publisher,0,0,0,18
+1701,13-11,TZ,top publisher,3,2,3,198
+1702,13-11,US,top publisher,113,118,98,4252
+1703,13-11,ZA,top publisher,34,94,11,2186
+1704,13-12,AU,publisher,28,30,22,1863
+1705,13-12,BD,publisher,31,27,24,400
+1706,13-12,CA,publisher,74,82,52,3321
+1707,13-12,GB,publisher,33,47,21,2110
+1708,13-12,GH,publisher,0,3,1,80
+1709,13-12,HK,publisher,3,3,2,109
+1710,13-12,IE,publisher,31,22,21,947
+1711,13-12,IN,publisher,30,37,20,1544
+1712,13-12,JM,publisher,4,2,1,203
+1713,13-12,KE,publisher,12,5,5,205
+1714,13-12,LK,publisher,0,0,0,70
+1715,13-12,MY,publisher,11,151,4,506
+1716,13-12,NG,publisher,19,15,17,727
+1717,13-12,NZ,publisher,22,14,9,644
+1718,13-12,PH,publisher,11,6,9,739
+1719,13-12,PK,publisher,35,46,56,791
+1720,13-12,SG,publisher,9,7,1,696
+1721,13-12,TZ,publisher,0,0,0,10
+1722,13-12,US,publisher,46,51,47,2657
+1723,13-12,ZA,publisher,19,20,21,1393
+1724,13-12,AU,top publisher,30,38,29,1875
+1725,13-12,CA,top publisher,95,88,71,5297
+1726,13-12,GB,top publisher,146,133,139,5225
+1727,13-12,GH,top publisher,9,8,13,258
+1728,13-12,IE,top publisher,65,170,86,2701
+1729,13-12,IN,top publisher,51,66,50,3586
+1730,13-12,JM,top publisher,1,0,1,207
+1731,13-12,KE,top publisher,5,10,2,339
+1732,13-12,MY,top publisher,4,3,3,407
+1733,13-12,NG,top publisher,6,5,14,181
+1734,13-12,NZ,top publisher,6,8,11,494
+1735,13-12,PH,top publisher,25,14,21,1122
+1736,13-12,PK,top publisher,1,7,4,180
+1737,13-12,SG,top publisher,0,0,1,13
+1738,13-12,TZ,top publisher,4,1,6,161
+1739,13-12,US,top publisher,131,105,92,4412
+1740,13-12,ZA,top publisher,59,53,34,1567
+1741,14-01,AU,publisher,26,37,20,1974
+1742,14-01,BD,publisher,6,6,3,293
+1743,14-01,CA,publisher,80,110,74,3925
+1744,14-01,GB,publisher,40,43,31,2606
+1745,14-01,GH,publisher,2,0,2,98
+1746,14-01,HK,publisher,0,0,1,139
+1747,14-01,IE,publisher,25,20,22,1119
+1748,14-01,IN,publisher,33,36,33,1582
+1749,14-01,JM,publisher,5,6,8,250
+1750,14-01,KE,publisher,13,9,13,269
+1751,14-01,LK,publisher,0,3,3,91
+1752,14-01,MY,publisher,13,168,7,588
+1753,14-01,NG,publisher,18,19,27,814
+1754,14-01,NZ,publisher,12,4,1,346
+1755,14-01,PH,publisher,18,10,7,836
+1756,14-01,PK,publisher,55,69,84,945
+1757,14-01,SG,publisher,6,9,3,823
+1758,14-01,TZ,publisher,0,0,0,17
+1759,14-01,US,publisher,70,79,42,3048
+1760,14-01,ZA,publisher,31,31,28,1840
+1761,14-01,AU,top publisher,24,34,30,2019
+1762,14-01,CA,top publisher,98,73,60,5369
+1763,14-01,GB,top publisher,148,132,139,6070
+1764,14-01,GH,top publisher,11,8,11,267
+1765,14-01,IE,top publisher,64,213,103,3295
+1766,14-01,IN,top publisher,32,38,44,3505
+1767,14-01,JM,top publisher,0,0,0,212
+1768,14-01,KE,top publisher,1,6,2,363
+1769,14-01,MY,top publisher,5,4,5,489
+1770,14-01,NG,top publisher,7,10,16,205
+1771,14-01,NZ,top publisher,22,16,10,895
+1772,14-01,PH,top publisher,26,20,23,1492
+1773,14-01,PK,top publisher,2,9,5,184
+1774,14-01,SG,top publisher,0,0,0,16
+1775,14-01,TZ,top publisher,3,4,3,188
+1776,14-01,US,top publisher,119,128,94,4994
+1777,14-01,ZA,top publisher,11,66,7,1003
+1778,14-02,AU,publisher,20,59,23,2125
+1779,14-02,BD,publisher,4,7,3,175
+1780,14-02,CA,publisher,57,100,65,3470
+1781,14-02,GB,publisher,24,51,22,2301
+1782,14-02,GH,publisher,1,2,2,131
+1783,14-02,HK,publisher,2,1,0,138
+1784,14-02,IE,publisher,22,32,22,1153
+1785,14-02,IN,publisher,36,38,22,1493
+1786,14-02,JM,publisher,5,3,2,215
+1787,14-02,KE,publisher,3,13,6,243
+1788,14-02,LK,publisher,2,1,4,119
+1789,14-02,MY,publisher,5,135,3,476
+1790,14-02,NG,publisher,10,22,34,708
+1791,14-02,NZ,publisher,4,2,2,317
+1792,14-02,PH,publisher,14,8,6,871
+1793,14-02,PK,publisher,32,29,40,617
+1794,14-02,SG,publisher,4,7,4,655
+1795,14-02,TZ,publisher,0,0,0,20
+1796,14-02,US,publisher,56,62,46,2710
+1797,14-02,ZA,publisher,21,32,17,1923
+1798,14-02,AU,top publisher,23,42,24,1818
+1799,14-02,CA,top publisher,96,85,66,5067
+1800,14-02,GB,top publisher,147,155,134,5392
+1801,14-02,GH,top publisher,5,9,9,242
+1802,14-02,IE,top publisher,80,222,77,3159
+1803,14-02,IN,top publisher,47,36,55,3510
+1804,14-02,JM,top publisher,0,0,0,178
+1805,14-02,KE,top publisher,9,7,3,358
+1806,14-02,MY,top publisher,2,5,5,396
+1807,14-02,NG,top publisher,10,8,10,182
+1808,14-02,NZ,top publisher,24,20,17,1050
+1809,14-02,PH,top publisher,22,12,14,1094
+1810,14-02,PK,top publisher,37,44,30,422
+1811,14-02,SG,top publisher,0,1,0,26
+1812,14-02,TZ,top publisher,3,1,2,147
+1813,14-02,US,top publisher,98,112,74,4222
+1814,14-02,ZA,top publisher,17,51,12,841
+1815,14-03,AU,publisher,36,67,25,2202
+1816,14-03,BD,publisher,3,3,5,169
+1817,14-03,CA,publisher,79,85,38,3176
+1818,14-03,GB,publisher,44,60,34,2438
+1819,14-03,GH,publisher,9,4,8,291
+1820,14-03,HK,publisher,4,1,2,162
+1821,14-03,IE,publisher,30,28,25,1271
+1822,14-03,IN,publisher,38,51,32,1739
+1823,14-03,JM,publisher,6,3,5,216
+1824,14-03,KE,publisher,9,14,6,233
+1825,14-03,LK,publisher,3,1,1,121
+1826,14-03,MY,publisher,9,135,4,487
+1827,14-03,NG,publisher,16,35,27,767
+1828,14-03,NZ,publisher,19,14,11,856
+1829,14-03,PH,publisher,32,10,11,1022
+1830,14-03,PK,publisher,24,34,35,566
+1831,14-03,SG,publisher,7,9,8,921
+1832,14-03,TZ,publisher,0,0,0,16
+1833,14-03,US,publisher,70,84,48,2923
+1834,14-03,ZA,publisher,35,26,12,1864
+1835,14-03,AU,top publisher,34,64,30,2109
+1836,14-03,BD,top publisher,2,1,2,96
+1837,14-03,CA,top publisher,122,92,81,5674
+1838,14-03,GB,top publisher,154,139,133,5757
+1839,14-03,GH,top publisher,12,15,5,248
+1840,14-03,IE,top publisher,88,201,77,3478
+1841,14-03,IN,top publisher,49,33,41,3616
+1842,14-03,JM,top publisher,0,0,0,211
+1843,14-03,KE,top publisher,5,2,2,354
+1844,14-03,LK,top publisher,0,1,0,12
+1845,14-03,MY,top publisher,1,8,3,442
+1846,14-03,NG,top publisher,12,23,17,305
+1847,14-03,NZ,top publisher,9,17,8,583
+1848,14-03,PH,top publisher,21,9,12,1073
+1849,14-03,PK,top publisher,41,50,41,509
+1850,14-03,SG,top publisher,0,0,0,30
+1851,14-03,TZ,top publisher,6,6,2,188
+1852,14-03,US,top publisher,111,135,82,4353
+1853,14-03,ZA,top publisher,32,68,22,1416
+1854,14-04,AU,publisher,30,44,18,1979
+1855,14-04,BD,publisher,7,2,2,187
+1856,14-04,CA,publisher,58,73,43,3088
+1857,14-04,GB,publisher,38,62,32,2286
+1858,14-04,GH,publisher,8,3,5,270
+1859,14-04,HK,publisher,1,3,1,189
+1860,14-04,IE,publisher,31,35,32,1287
+1861,14-04,IN,publisher,44,52,42,1805
+1862,14-04,JM,publisher,3,4,4,254
+1863,14-04,KE,publisher,1,9,7,208
+1864,14-04,LK,publisher,3,3,2,130
+1865,14-04,MY,publisher,14,149,8,610
+1866,14-04,NG,publisher,23,25,36,747
+1867,14-04,NZ,publisher,25,12,8,705
+1868,14-04,PH,publisher,19,22,10,958
+1869,14-04,PK,publisher,23,24,31,473
+1870,14-04,SG,publisher,12,9,7,791
+1871,14-04,TZ,publisher,0,1,0,26
+1872,14-04,US,publisher,67,88,60,2921
+1873,14-04,ZA,publisher,27,30,24,1911
+1874,14-04,AU,top publisher,32,53,39,2320
+1875,14-04,BD,top publisher,3,1,2,111
+1876,14-04,CA,top publisher,102,91,80,5326
+1877,14-04,GB,top publisher,120,139,121,5279
+1878,14-04,GH,top publisher,6,10,12,248
+1879,14-04,IE,top publisher,84,197,67,3215
+1880,14-04,IN,top publisher,41,34,52,3631
+1881,14-04,JM,top publisher,0,0,0,194
+1882,14-04,KE,top publisher,6,7,3,377
+1883,14-04,LK,top publisher,0,0,0,3
+1884,14-04,MY,top publisher,4,4,6,430
+1885,14-04,NG,top publisher,3,14,11,328
+1886,14-04,NZ,top publisher,5,14,7,516
+1887,14-04,PH,top publisher,17,8,8,1032
+1888,14-04,PK,top publisher,28,46,41,508
+1889,14-04,SG,top publisher,0,1,0,29
+1890,14-04,TZ,top publisher,3,4,2,108
+1891,14-04,US,top publisher,96,104,67,4237
+1892,14-04,ZA,top publisher,42,78,44,2179
+1893,14-05,AU,publisher,30,47,20,2182
+1894,14-05,BD,publisher,6,4,5,159
+1895,14-05,CA,publisher,67,90,45,3129
+1896,14-05,GB,publisher,39,68,38,2449
+1897,14-05,GH,publisher,7,5,10,337
+1898,14-05,HK,publisher,2,3,1,199
+1899,14-05,IE,publisher,47,48,58,1468
+1900,14-05,IN,publisher,42,33,32,1615
+1901,14-05,JM,publisher,2,6,5,245
+1902,14-05,KE,publisher,6,4,2,201
+1903,14-05,LK,publisher,1,0,3,120
+1904,14-05,MY,publisher,11,125,6,608
+1905,14-05,NG,publisher,34,25,45,703
+1906,14-05,NZ,publisher,12,8,13,788
+1907,14-05,PH,publisher,25,12,15,923
+1908,14-05,PK,publisher,25,28,27,474
+1909,14-05,SG,publisher,12,21,4,921
+1910,14-05,TZ,publisher,1,1,0,25
+1911,14-05,US,publisher,73,85,50,3023
+1912,14-05,ZA,publisher,27,26,16,2010
+1913,14-05,AU,top publisher,39,55,45,2452
+1914,14-05,BD,top publisher,3,1,1,110
+1915,14-05,CA,top publisher,104,89,91,5895
+1916,14-05,GB,top publisher,126,145,147,6033
+1917,14-05,GH,top publisher,13,12,12,244
+1918,14-05,IE,top publisher,82,228,82,3566
+1919,14-05,IN,top publisher,53,30,47,3466
+1920,14-05,JM,top publisher,0,1,2,207
+1921,14-05,KE,top publisher,7,4,0,366
+1922,14-05,LK,top publisher,0,1,0,3
+1923,14-05,MY,top publisher,7,8,2,401
+1924,14-05,NG,top publisher,7,20,21,351
+1925,14-05,NZ,top publisher,16,11,12,446
+1926,14-05,PH,top publisher,16,15,13,1064
+1927,14-05,PK,top publisher,22,34,33,447
+1928,14-05,SG,top publisher,0,1,0,38
+1929,14-05,TZ,top publisher,3,4,4,153
+1930,14-05,US,top publisher,124,122,83,4666
+1931,14-05,ZA,top publisher,60,110,51,2546
+1932,14-06,AU,publisher,26,50,14,1986
+1933,14-06,BD,publisher,2,0,0,59
+1934,14-06,CA,publisher,52,59,39,3052
+1935,14-06,GB,publisher,42,54,31,2206
+1936,14-06,GH,publisher,5,6,9,331
+1937,14-06,HK,publisher,2,1,0,176
+1938,14-06,IE,publisher,47,48,52,1465
+1939,14-06,IN,publisher,28,31,28,1341
+1940,14-06,JM,publisher,3,2,1,170
+1941,14-06,KE,publisher,10,5,9,215
+1942,14-06,LK,publisher,1,2,1,153
+1943,14-06,MY,publisher,10,30,9,622
+1944,14-06,NG,publisher,16,19,26,584
+1945,14-06,NZ,publisher,19,15,17,810
+1946,14-06,PH,publisher,36,12,10,1066
+1947,14-06,PK,publisher,18,21,28,507
+1948,14-06,SG,publisher,20,20,14,1109
+1949,14-06,TZ,publisher,0,2,0,18
+1950,14-06,US,publisher,55,86,40,2690
+1951,14-06,ZA,publisher,35,38,21,1955
+1952,14-06,AU,top publisher,38,43,36,2238
+1953,14-06,BD,top publisher,2,2,2,122
+1954,14-06,CA,top publisher,108,86,60,5704
+1955,14-06,GB,top publisher,141,151,132,5562
+1956,14-06,GH,top publisher,7,11,7,253
+1957,14-06,IE,top publisher,80,232,79,3699
+1958,14-06,IN,top publisher,58,31,31,3329
+1959,14-06,JM,top publisher,0,0,0,178
+1960,14-06,KE,top publisher,2,3,3,350
+1961,14-06,LK,top publisher,0,0,0,1
+1962,14-06,MY,top publisher,5,1,6,432
+1963,14-06,NG,top publisher,9,14,11,315
+1964,14-06,NZ,top publisher,12,9,9,462
+1965,14-06,PH,top publisher,20,9,14,1055
+1966,14-06,PK,top publisher,22,38,33,444
+1967,14-06,SG,top publisher,1,0,0,48
+1968,14-06,TZ,top publisher,3,3,1,162
+1969,14-06,US,top publisher,131,107,89,4397
+1970,14-06,ZA,top publisher,70,99,43,2581
+1971,14-07,AU,publisher,23,56,18,1977
+1972,14-07,BD,publisher,4,3,3,106
+1973,14-07,CA,publisher,55,91,37,3170
+1974,14-07,GB,publisher,37,68,34,2393
+1975,14-07,GH,publisher,16,6,4,336
+1976,14-07,HK,publisher,3,0,1,187
+1977,14-07,IE,publisher,56,46,48,1661
+1978,14-07,IN,publisher,19,42,25,1204
+1979,14-07,JM,publisher,4,5,3,232
+1980,14-07,KE,publisher,8,11,8,227
+1981,14-07,LK,publisher,1,1,2,174
+1982,14-07,MY,publisher,7,36,5,653
+1983,14-07,NG,publisher,11,20,17,661
+1984,14-07,NZ,publisher,15,12,10,642
+1985,14-07,PH,publisher,25,17,23,1170
+1986,14-07,PK,publisher,27,33,34,570
+1987,14-07,SG,publisher,11,21,9,1003
+1988,14-07,TZ,publisher,0,0,0,13
+1989,14-07,US,publisher,48,83,42,2766
+1990,14-07,ZA,publisher,41,39,33,2208
+1991,14-07,AU,top publisher,47,55,35,2558
+1992,14-07,BD,top publisher,0,2,3,122
+1993,14-07,CA,top publisher,99,99,77,5557
+1994,14-07,GB,top publisher,147,160,154,5976
+1995,14-07,GH,top publisher,13,12,10,259
+1996,14-07,IE,top publisher,106,268,115,3954
+1997,14-07,IN,top publisher,83,39,40,3750
+1998,14-07,JM,top publisher,1,0,0,198
+1999,14-07,KE,top publisher,12,8,3,387
+2000,14-07,MY,top publisher,6,2,8,420
+2001,14-07,NG,top publisher,10,23,30,341
+2002,14-07,NZ,top publisher,18,19,12,889
+2003,14-07,PH,top publisher,19,8,8,1097
+2004,14-07,PK,top publisher,31,38,35,463
+2005,14-07,SG,top publisher,0,1,0,365
+2006,14-07,TZ,top publisher,4,1,3,143
+2007,14-07,US,top publisher,124,117,72,4596
+2008,14-07,ZA,top publisher,94,111,48,3093
+2009,14-08,AU,publisher,26,47,12,1648
+2010,14-08,BD,publisher,1,2,3,113
+2011,14-08,CA,publisher,72,74,43,3048
+2012,14-08,GB,publisher,31,38,24,1803
+2013,14-08,GH,publisher,7,4,4,312
+2014,14-08,HK,publisher,1,2,2,148
+2015,14-08,IE,publisher,37,39,44,1308
+2016,14-08,IN,publisher,31,23,21,972
+2017,14-08,JM,publisher,5,4,8,204
+2018,14-08,KE,publisher,10,8,5,188
+2019,14-08,LK,publisher,2,2,2,142
+2020,14-08,MY,publisher,7,118,8,629
+2021,14-08,NG,publisher,11,15,11,616
+2022,14-08,NZ,publisher,15,8,4,501
+2023,14-08,PH,publisher,30,23,19,1097
+2024,14-08,PK,publisher,16,26,26,476
+2025,14-08,SG,publisher,8,14,6,798
+2026,14-08,TZ,publisher,0,0,0,28
+2027,14-08,US,publisher,51,75,44,2735
+2028,14-08,ZA,publisher,29,38,22,1970
+2029,14-08,AU,top publisher,60,57,37,2482
+2030,14-08,BD,top publisher,4,1,0,115
+2031,14-08,CA,top publisher,83,86,73,5135
+2032,14-08,GB,top publisher,135,152,148,5605
+2033,14-08,GH,top publisher,9,6,12,292
+2034,14-08,IE,top publisher,74,213,63,3282
+2035,14-08,IN,top publisher,90,29,38,3317
+2036,14-08,JM,top publisher,0,1,0,195
+2037,14-08,KE,top publisher,4,4,2,319
+2038,14-08,LK,top publisher,1,1,3,44
+2039,14-08,MY,top publisher,4,3,7,407
+2040,14-08,NG,top publisher,13,21,17,317
+2041,14-08,NZ,top publisher,20,13,11,892
+2042,14-08,PH,top publisher,22,9,16,1155
+2043,14-08,PK,top publisher,35,36,31,470
+2044,14-08,SG,top publisher,0,3,0,459
+2045,14-08,TZ,top publisher,5,3,3,140
+2046,14-08,US,top publisher,108,125,84,4385
+2047,14-08,ZA,top publisher,88,108,54,2930
+2048,14-09,AU,publisher,24,36,20,1756
+2049,14-09,BD,publisher,5,2,3,224
+2050,14-09,CA,publisher,68,104,42,3342
+2051,14-09,GB,publisher,28,42,21,1789
+2052,14-09,GH,publisher,7,3,2,287
+2053,14-09,HK,publisher,0,1,1,144
+2054,14-09,IE,publisher,30,31,42,1376
+2055,14-09,IN,publisher,40,35,27,1340
+2056,14-09,JM,publisher,6,3,3,225
+2057,14-09,KE,publisher,10,9,7,247
+2058,14-09,LK,publisher,2,3,3,161
+2059,14-09,MY,publisher,8,157,12,780
+2060,14-09,NG,publisher,14,13,22,675
+2061,14-09,NZ,publisher,25,14,7,630
+2062,14-09,PH,publisher,25,17,10,1236
+2063,14-09,PK,publisher,17,30,28,456
+2064,14-09,SG,publisher,11,14,18,1018
+2065,14-09,TZ,publisher,0,1,0,46
+2066,14-09,US,publisher,58,74,53,2685
+2067,14-09,ZA,publisher,30,46,20,2238
+2068,14-09,AU,top publisher,48,61,36,2798
+2069,14-09,BD,top publisher,3,4,2,105
+2070,14-09,CA,top publisher,92,82,73,5246
+2071,14-09,GB,top publisher,151,175,156,6217
+2072,14-09,GH,top publisher,3,8,7,281
+2073,14-09,IE,top publisher,92,223,79,3612
+2074,14-09,IN,top publisher,69,28,35,3457
+2075,14-09,JM,top publisher,0,0,0,193
+2076,14-09,KE,top publisher,9,11,6,400
+2077,14-09,LK,top publisher,2,2,5,95
+2078,14-09,MY,top publisher,8,3,5,435
+2079,14-09,NG,top publisher,14,15,18,341
+2080,14-09,NZ,top publisher,29,14,19,1076
+2081,14-09,PH,top publisher,19,3,9,901
+2082,14-09,PK,top publisher,30,21,28,449
+2083,14-09,SG,top publisher,4,0,6,525
+2084,14-09,TZ,top publisher,3,1,3,143
+2085,14-09,US,top publisher,123,116,86,4588
+2086,14-09,ZA,top publisher,64,131,62,2990
+2087,14-10,AU,publisher,17,34,15,1663
+2088,14-10,BD,publisher,3,7,7,225
+2089,14-10,CA,publisher,83,100,45,3626
+2090,14-10,GB,publisher,19,43,18,1713
+2091,14-10,GH,publisher,12,6,6,328
+2092,14-10,HK,publisher,1,1,0,169
+2093,14-10,IE,publisher,27,34,42,1469
+2094,14-10,IN,publisher,25,27,30,1122
+2095,14-10,JM,publisher,5,5,5,223
+2096,14-10,KE,publisher,13,10,12,273
+2097,14-10,LK,publisher,4,2,3,195
+2098,14-10,MY,publisher,10,128,13,757
+2099,14-10,NG,publisher,14,15,22,571
+2100,14-10,NZ,publisher,12,10,5,534
+2101,14-10,PH,publisher,32,16,16,1442
+2102,14-10,PK,publisher,23,25,23,458
+2103,14-10,SG,publisher,14,10,8,1184
+2104,14-10,TZ,publisher,0,0,0,50
+2105,14-10,US,publisher,52,66,39,2707
+2106,14-10,ZA,publisher,38,35,35,2555
+2107,14-10,AU,top publisher,38,61,51,2894
+2108,14-10,BD,top publisher,6,0,0,131
+2109,14-10,CA,top publisher,107,83,88,5435
+2110,14-10,GB,top publisher,173,180,163,6558
+2111,14-10,GH,top publisher,9,9,12,296
+2112,14-10,HK,top publisher,0,0,1,2
+2113,14-10,IE,top publisher,92,312,99,4340
+2114,14-10,IN,top publisher,75,29,41,3402
+2115,14-10,JM,top publisher,0,0,0,195
+2116,14-10,KE,top publisher,6,6,2,411
+2117,14-10,LK,top publisher,1,4,6,123
+2118,14-10,MY,top publisher,7,5,3,458
+2119,14-10,NG,top publisher,13,14,21,350
+2120,14-10,NZ,top publisher,32,19,18,1211
+2121,14-10,PH,top publisher,17,7,6,1181
+2122,14-10,PK,top publisher,20,25,36,471
+2123,14-10,SG,top publisher,2,1,8,667
+2124,14-10,TZ,top publisher,1,3,3,138
+2125,14-10,US,top publisher,114,141,104,4842
+2126,14-10,ZA,top publisher,69,127,71,3165
+2127,14-11,AU,publisher,24,47,13,1699
+2128,14-11,BD,publisher,8,10,2,177
+2129,14-11,CA,publisher,80,89,61,3706
+2130,14-11,GB,publisher,25,42,20,1613
+2131,14-11,GH,publisher,5,6,8,321
+2132,14-11,HK,publisher,3,0,2,164
+2133,14-11,IE,publisher,39,48,45,1337
+2134,14-11,IN,publisher,27,29,25,1056
+2135,14-11,JM,publisher,3,5,2,207
+2136,14-11,KE,publisher,9,10,9,334
+2137,14-11,LK,publisher,2,3,0,143
+2138,14-11,MY,publisher,10,128,7,724
+2139,14-11,NG,publisher,6,19,23,566
+2140,14-11,NZ,publisher,8,6,8,485
+2141,14-11,PH,publisher,30,16,19,1316
+2142,14-11,PK,publisher,20,25,22,538
+2143,14-11,SG,publisher,16,9,9,1063
+2144,14-11,TZ,publisher,1,1,0,43
+2145,14-11,US,publisher,64,58,52,2325
+2146,14-11,ZA,publisher,36,35,32,2394
+2147,14-11,AU,top publisher,60,59,47,2728
+2148,14-11,BD,top publisher,3,6,2,128
+2149,14-11,CA,top publisher,89,76,74,5160
+2150,14-11,GB,top publisher,154,160,153,6126
+2151,14-11,GH,top publisher,6,11,17,314
+2152,14-11,IE,top publisher,90,229,117,4569
+2153,14-11,IN,top publisher,55,46,47,3288
+2154,14-11,JM,top publisher,0,0,0,182
+2155,14-11,KE,top publisher,8,3,1,322
+2156,14-11,LK,top publisher,0,5,6,106
+2157,14-11,MY,top publisher,4,3,5,379
+2158,14-11,NG,top publisher,6,10,11,183
+2159,14-11,NZ,top publisher,20,21,21,1009
+2160,14-11,PH,top publisher,22,8,6,1047
+2161,14-11,PK,top publisher,18,13,25,387
+2162,14-11,SG,top publisher,1,1,2,495
+2163,14-11,TZ,top publisher,2,4,1,141
+2164,14-11,US,top publisher,122,111,83,4312
+2165,14-11,ZA,top publisher,73,103,45,2425
+2166,14-12,AU,publisher,23,47,24,1613
+2167,14-12,BD,publisher,5,5,3,215
+2168,14-12,CA,publisher,89,90,56,4042
+2169,14-12,GB,publisher,23,44,24,1774
+2170,14-12,GH,publisher,3,6,9,422
+2171,14-12,HK,publisher,0,2,0,144
+2172,14-12,IE,publisher,31,32,49,1426
+2173,14-12,IN,publisher,33,25,31,1074
+2174,14-12,JM,publisher,6,3,7,224
+2175,14-12,KE,publisher,12,16,14,491
+2176,14-12,LK,publisher,4,3,5,168
+2177,14-12,MY,publisher,10,151,13,756
+2178,14-12,NG,publisher,19,16,19,585
+2179,14-12,NZ,publisher,20,14,7,498
+2180,14-12,PH,publisher,38,25,26,1547
+2181,14-12,PK,publisher,18,32,25,623
+2182,14-12,SG,publisher,20,15,17,981
+2183,14-12,TZ,publisher,1,2,0,53
+2184,14-12,US,publisher,55,72,45,2948
+2185,14-12,ZA,publisher,32,32,27,1998
+2186,14-12,AU,top publisher,38,55,38,2821
+2187,14-12,BD,top publisher,2,0,2,107
+2188,14-12,CA,top publisher,87,74,60,5472
+2189,14-12,GB,top publisher,157,161,148,6313
+2190,14-12,GH,top publisher,11,8,9,271
+2191,14-12,HK,top publisher,0,0,0,2
+2192,14-12,IE,top publisher,101,234,103,4763
+2193,14-12,IN,top publisher,50,100,45,3788
+2194,14-12,JM,top publisher,1,1,0,189
+2195,14-12,KE,top publisher,6,2,2,222
+2196,14-12,LK,top publisher,1,3,2,89
+2197,14-12,MY,top publisher,5,2,5,438
+2198,14-12,NG,top publisher,9,8,12,280
+2199,14-12,NZ,top publisher,30,12,16,1113
+2200,14-12,PH,top publisher,19,9,9,1060
+2201,14-12,PK,top publisher,16,15,16,463
+2202,14-12,SG,top publisher,2,1,3,565
+2203,14-12,TZ,top publisher,2,4,1,147
+2204,14-12,US,top publisher,145,137,117,5494
+2205,14-12,ZA,top publisher,89,66,51,2315
+2206,15-01,AU,publisher,20,34,19,1328
+2207,15-01,BD,publisher,7,5,7,213
+2208,15-01,CA,publisher,66,108,61,3554
+2209,15-01,GB,publisher,30,36,15,1512
+2210,15-01,GH,publisher,10,16,10,489
+2211,15-01,HK,publisher,2,3,2,198
+2212,15-01,IE,publisher,31,33,38,1491
+2213,15-01,IN,publisher,18,16,20,827
+2214,15-01,JM,publisher,5,5,2,242
+2215,15-01,KE,publisher,13,9,11,483
+2216,15-01,LK,publisher,3,4,4,176
+2217,15-01,MY,publisher,9,152,5,715
+2218,15-01,NG,publisher,8,21,18,542
+2219,15-01,NZ,publisher,10,4,10,574
+2220,15-01,PH,publisher,36,20,26,1527
+2221,15-01,PK,publisher,18,26,27,574
+2222,15-01,SG,publisher,19,17,10,1247
+2223,15-01,TZ,publisher,0,0,0,74
+2224,15-01,US,publisher,48,60,40,2259
+2225,15-01,ZA,publisher,32,37,27,2374
+2226,15-01,AU,top publisher,35,49,35,2302
+2227,15-01,BD,top publisher,2,1,0,136
+2228,15-01,CA,top publisher,94,69,55,4992
+2229,15-01,GB,top publisher,164,159,163,6223
+2230,15-01,GH,top publisher,8,12,14,306
+2231,15-01,HK,top publisher,0,0,0,2
+2232,15-01,IE,top publisher,83,319,94,4513
+2233,15-01,IN,top publisher,56,33,46,3618
+2234,15-01,JM,top publisher,0,0,0,204
+2235,15-01,KE,top publisher,1,0,1,248
+2236,15-01,LK,top publisher,2,3,2,129
+2237,15-01,MY,top publisher,12,4,6,422
+2238,15-01,NG,top publisher,4,13,17,240
+2239,15-01,NZ,top publisher,24,19,19,930
+2240,15-01,PH,top publisher,21,12,10,934
+2241,15-01,PK,top publisher,12,22,20,559
+2242,15-01,SG,top publisher,2,2,3,926
+2243,15-01,TZ,top publisher,4,1,2,194
+2244,15-01,US,top publisher,134,101,90,4750
+2245,15-01,ZA,top publisher,20,50,27,2524
+2246,15-02,AU,publisher,24,36,15,1471
+2247,15-02,BD,publisher,6,2,3,208
+2248,15-02,CA,publisher,59,105,41,3201
+2249,15-02,GB,publisher,26,29,16,1465
+2250,15-02,GH,publisher,12,17,12,487
+2251,15-02,HK,publisher,3,3,2,176
+2252,15-02,IE,publisher,38,34,23,1326
+2253,15-02,IN,publisher,20,25,16,771
+2254,15-02,JM,publisher,3,3,2,201
+2255,15-02,KE,publisher,13,10,6,441
+2256,15-02,LK,publisher,2,2,2,163
+2257,15-02,MY,publisher,4,138,8,649
+2258,15-02,NG,publisher,12,15,17,554
+2259,15-02,NZ,publisher,15,10,2,585
+2260,15-02,PH,publisher,40,22,28,1715
+2261,15-02,PK,publisher,19,33,23,569
+2262,15-02,SG,publisher,14,19,6,1351
+2263,15-02,TZ,publisher,1,0,0,58
+2264,15-02,US,publisher,50,44,40,2097
+2265,15-02,ZA,publisher,32,40,38,2395
+2266,15-02,AU,top publisher,37,58,34,2643
+2267,15-02,BD,top publisher,2,2,1,111
+2268,15-02,CA,top publisher,64,82,55,4979
+2269,15-02,GB,top publisher,181,155,143,5917
+2270,15-02,GH,top publisher,9,9,11,233
+2271,15-02,HK,top publisher,0,0,0,3
+2272,15-02,IE,top publisher,90,308,88,4137
+2273,15-02,IN,top publisher,34,22,39,3195
+2274,15-02,JM,top publisher,0,0,0,181
+2275,15-02,KE,top publisher,1,6,3,208
+2276,15-02,LK,top publisher,3,2,3,120
+2277,15-02,MY,top publisher,11,3,2,356
+2278,15-02,NG,top publisher,15,15,13,249
+2279,15-02,NZ,top publisher,28,18,8,1160
+2280,15-02,PH,top publisher,22,10,8,926
+2281,15-02,PK,top publisher,27,17,16,542
+2282,15-02,SG,top publisher,6,6,1,964
+2283,15-02,TZ,top publisher,5,4,1,194
+2284,15-02,US,top publisher,125,99,124,4686
+2285,15-02,ZA,top publisher,26,85,23,2497
+2286,15-03,AU,publisher,26,35,11,1468
+2287,15-03,BD,publisher,1,8,2,208
+2288,15-03,CA,publisher,54,123,56,3719
+2289,15-03,GB,publisher,39,35,25,2134
+2290,15-03,GH,publisher,11,7,6,612
+2291,15-03,HK,publisher,5,4,4,302
+2292,15-03,IE,publisher,37,43,30,1594
+2293,15-03,IN,publisher,24,18,16,923
+2294,15-03,JM,publisher,5,3,2,249
+2295,15-03,KE,publisher,10,11,11,575
+2296,15-03,LK,publisher,2,2,4,226
+2297,15-03,MY,publisher,6,125,15,737
+2298,15-03,NG,publisher,13,17,18,553
+2299,15-03,NZ,publisher,12,10,11,653
+2300,15-03,PH,publisher,43,20,31,2014
+2301,15-03,PK,publisher,15,19,27,586
+2302,15-03,SG,publisher,34,30,16,1865
+2303,15-03,TZ,publisher,1,0,1,85
+2304,15-03,US,publisher,52,66,40,2432
+2305,15-03,ZA,publisher,43,46,55,2834
+2306,15-03,AU,top publisher,56,80,48,2856
+2307,15-03,BD,top publisher,2,1,2,128
+2308,15-03,CA,top publisher,103,84,85,5750
+2309,15-03,GB,top publisher,177,148,154,6136
+2310,15-03,GH,top publisher,10,10,13,278
+2311,15-03,HK,top publisher,0,0,0,8
+2312,15-03,IE,top publisher,78,309,102,4445
+2313,15-03,IN,top publisher,34,29,46,3710
+2314,15-03,JM,top publisher,0,0,0,188
+2315,15-03,KE,top publisher,10,7,0,271
+2316,15-03,LK,top publisher,7,2,11,253
+2317,15-03,MY,top publisher,5,3,6,422
+2318,15-03,NG,top publisher,2,11,10,253
+2319,15-03,NZ,top publisher,26,18,10,1160
+2320,15-03,PH,top publisher,21,6,4,1193
+2321,15-03,PK,top publisher,12,23,23,561
+2322,15-03,SG,top publisher,7,10,6,1060
+2323,15-03,TZ,top publisher,10,4,4,208
+2324,15-03,US,top publisher,122,133,106,5529
+2325,15-03,ZA,top publisher,39,82,26,3163
+2326,15-04,AU,publisher,17,25,11,1275
+2327,15-04,BD,publisher,5,6,0,193
+2328,15-04,CA,publisher,69,118,60,3429
+2329,15-04,GB,publisher,42,55,30,2100
+2330,15-04,GH,publisher,6,8,8,570
+2331,15-04,HK,publisher,3,5,3,252
+2332,15-04,IE,publisher,42,52,60,1900
+2333,15-04,IN,publisher,18,18,22,985
+2334,15-04,JM,publisher,5,4,3,214
+2335,15-04,KE,publisher,17,16,7,504
+2336,15-04,LK,publisher,3,3,4,227
+2337,15-04,MY,publisher,6,145,6,724
+2338,15-04,NG,publisher,13,14,16,450
+2339,15-04,NZ,publisher,15,23,14,721
+2340,15-04,PH,publisher,36,29,23,1722
+2341,15-04,PK,publisher,20,33,20,589
+2342,15-04,SG,publisher,35,36,24,2228
+2343,15-04,TZ,publisher,0,4,0,95
+2344,15-04,US,publisher,66,71,37,2232
+2345,15-04,ZA,publisher,43,52,55,2634
+2346,15-04,AU,top publisher,50,65,48,2613
+2347,15-04,BD,top publisher,2,2,6,87
+2348,15-04,CA,top publisher,72,88,49,5036
+2349,15-04,GB,top publisher,177,162,159,5863
+2350,15-04,GH,top publisher,6,3,8,252
+2351,15-04,HK,top publisher,1,1,0,122
+2352,15-04,IE,top publisher,68,296,89,3756
+2353,15-04,IN,top publisher,42,27,44,3520
+2354,15-04,JM,top publisher,0,0,0,198
+2355,15-04,KE,top publisher,8,8,4,280
+2356,15-04,LK,top publisher,14,2,3,198
+2357,15-04,MY,top publisher,6,5,6,399
+2358,15-04,NG,top publisher,6,10,8,168
+2359,15-04,NZ,top publisher,18,18,13,970
+2360,15-04,PH,top publisher,15,9,7,1361
+2361,15-04,PK,top publisher,15,19,22,469
+2362,15-04,SG,top publisher,5,2,6,823
+2363,15-04,TZ,top publisher,5,5,3,202
+2364,15-04,US,top publisher,134,152,105,5218
+2365,15-04,ZA,top publisher,38,68,33,3131
+2366,15-05,AU,publisher,24,36,13,1388
+2367,15-05,BD,publisher,8,5,4,210
+2368,15-05,CA,publisher,64,108,47,3231
+2369,15-05,GB,publisher,40,45,31,1880
+2370,15-05,GH,publisher,11,9,7,491
+2371,15-05,HK,publisher,4,4,5,306
+2372,15-05,IE,publisher,42,47,53,1689
+2373,15-05,IN,publisher,16,16,21,816
+2374,15-05,JM,publisher,3,8,10,232
+2375,15-05,KE,publisher,23,17,14,512
+2376,15-05,LK,publisher,4,7,8,305
+2377,15-05,MY,publisher,10,136,12,684
+2378,15-05,NG,publisher,9,12,12,551
+2379,15-05,NZ,publisher,9,10,12,679
+2380,15-05,PH,publisher,41,22,20,1543
+2381,15-05,PK,publisher,31,25,30,527
+2382,15-05,SG,publisher,35,37,26,2528
+2383,15-05,TZ,publisher,2,2,0,69
+2384,15-05,US,publisher,49,58,49,2132
+2385,15-05,ZA,publisher,51,57,48,2536
+2386,15-05,AU,top publisher,58,62,57,2758
+2387,15-05,BD,top publisher,2,1,0,107
+2388,15-05,CA,top publisher,80,66,66,4829
+2389,15-05,GB,top publisher,164,159,159,5959
+2390,15-05,GH,top publisher,6,10,7,222
+2391,15-05,HK,top publisher,2,1,0,129
+2392,15-05,IE,top publisher,89,311,71,3884
+2393,15-05,IN,top publisher,37,30,43,3425
+2394,15-05,JM,top publisher,0,0,0,197
+2395,15-05,KE,top publisher,9,6,5,251
+2396,15-05,LK,top publisher,2,6,10,196
+2397,15-05,MY,top publisher,3,5,5,398
+2398,15-05,NG,top publisher,12,17,20,194
+2399,15-05,NZ,top publisher,25,21,25,990
+2400,15-05,PH,top publisher,21,9,14,1216
+2401,15-05,PK,top publisher,24,23,32,604
+2402,15-05,SG,top publisher,4,4,5,1062
+2403,15-05,TZ,top publisher,5,5,2,174
+2404,15-05,US,top publisher,153,129,147,5026
+2405,15-05,ZA,top publisher,34,65,32,3245
+2406,15-06,AU,publisher,22,35,16,1270
+2407,15-06,BD,publisher,4,0,2,213
+2408,15-06,CA,publisher,102,150,68,3894
+2409,15-06,GB,publisher,26,43,31,1639
+2410,15-06,GH,publisher,7,11,7,418
+2411,15-06,HK,publisher,4,3,1,340
+2412,15-06,IE,publisher,30,35,40,1525
+2413,15-06,IN,publisher,19,16,22,800
+2414,15-06,JM,publisher,5,7,6,237
+2415,15-06,KE,publisher,21,18,18,658
+2416,15-06,LK,publisher,5,2,5,279
+2417,15-06,MY,publisher,13,132,6,619
+2418,15-06,NG,publisher,18,19,19,572
+2419,15-06,NZ,publisher,21,17,18,878
+2420,15-06,PH,publisher,39,31,22,1911
+2421,15-06,PK,publisher,11,21,15,540
+2422,15-06,SG,publisher,44,48,23,2572
+2423,15-06,TZ,publisher,3,3,0,84
+2424,15-06,US,publisher,63,59,47,2225
+2425,15-06,ZA,publisher,46,53,39,2480
+2426,15-06,AU,top publisher,55,49,43,2795
+2427,15-06,BD,top publisher,2,1,1,99
+2428,15-06,CA,top publisher,75,81,54,5081
+2429,15-06,GB,top publisher,202,178,146,6408
+2430,15-06,GH,top publisher,8,7,6,222
+2431,15-06,HK,top publisher,2,0,0,140
+2432,15-06,IE,top publisher,65,311,77,3629
+2433,15-06,IN,top publisher,41,33,35,3444
+2434,15-06,JM,top publisher,0,0,0,190
+2435,15-06,KE,top publisher,13,7,1,279
+2436,15-06,LK,top publisher,7,3,10,170
+2437,15-06,MY,top publisher,6,5,4,324
+2438,15-06,NG,top publisher,2,4,6,125
+2439,15-06,NZ,top publisher,18,15,16,1047
+2440,15-06,PH,top publisher,24,13,8,1377
+2441,15-06,PK,top publisher,13,26,16,512
+2442,15-06,SG,top publisher,8,3,6,705
+2443,15-06,TZ,top publisher,4,0,1,195
+2444,15-06,US,top publisher,128,130,118,5204
+2445,15-06,ZA,top publisher,25,67,22,3137
+2446,15-07,AU,publisher,10,30,12,1144
+2447,15-07,BD,publisher,3,2,3,205
+2448,15-07,CA,publisher,71,110,55,3745
+2449,15-07,GB,publisher,32,40,14,1691
+2450,15-07,GH,publisher,8,7,10,440
+2451,15-07,HK,publisher,11,7,1,322
+2452,15-07,IE,publisher,38,51,45,1496
+2453,15-07,IN,publisher,15,13,24,711
+2454,15-07,JM,publisher,2,5,5,233
+2455,15-07,KE,publisher,13,18,24,646
+2456,15-07,LK,publisher,5,11,11,366
+2457,15-07,MY,publisher,5,119,7,606
+2458,15-07,NG,publisher,12,17,18,594
+2459,15-07,NZ,publisher,13,16,11,692
+2460,15-07,PH,publisher,49,30,23,1822
+2461,15-07,PK,publisher,17,25,16,509
+2462,15-07,SG,publisher,51,52,34,2806
+2463,15-07,TZ,publisher,3,2,0,83
+2464,15-07,US,publisher,55,72,45,2281
+2465,15-07,ZA,publisher,48,52,42,2699
+2466,15-07,AU,top publisher,51,45,38,2596
+2467,15-07,BD,top publisher,1,0,1,74
+2468,15-07,CA,top publisher,66,47,47,4597
+2469,15-07,GB,top publisher,176,154,157,6353
+2470,15-07,GH,top publisher,4,5,8,244
+2471,15-07,HK,top publisher,0,2,0,116
+2472,15-07,IE,top publisher,53,254,104,3692
+2473,15-07,IN,top publisher,32,35,37,3379
+2474,15-07,JM,top publisher,0,0,0,201
+2475,15-07,KE,top publisher,3,12,2,268
+2476,15-07,LK,top publisher,8,5,9,132
+2477,15-07,MY,top publisher,7,2,5,357
+2478,15-07,NG,top publisher,6,2,5,83
+2479,15-07,NZ,top publisher,14,23,21,793
+2480,15-07,PH,top publisher,35,18,10,1322
+2481,15-07,PK,top publisher,14,12,22,519
+2482,15-07,SG,top publisher,6,6,6,929
+2483,15-07,TZ,top publisher,3,2,6,208
+2484,15-07,US,top publisher,125,108,118,5234
+2485,15-07,ZA,top publisher,46,73,28,3596
+2486,15-08,AU,publisher,14,22,6,862
+2487,15-08,BD,publisher,2,4,8,236
+2488,15-08,CA,publisher,55,100,40,3008
+2489,15-08,GB,publisher,45,29,24,1634
+2490,15-08,GH,publisher,5,10,7,506
+2491,15-08,HK,publisher,1,6,1,227
+2492,15-08,IE,publisher,26,29,44,1496
+2493,15-08,IN,publisher,14,13,25,730
+2494,15-08,JM,publisher,10,4,9,203
+2495,15-08,KE,publisher,21,39,24,714
+2496,15-08,LK,publisher,6,9,4,352
+2497,15-08,MY,publisher,9,140,6,631
+2498,15-08,NG,publisher,8,16,11,543
+2499,15-08,NZ,publisher,13,9,1,472
+2500,15-08,PH,publisher,36,17,16,1491
+2501,15-08,PK,publisher,22,24,30,549
+2502,15-08,SG,publisher,57,44,28,2700
+2503,15-08,TZ,publisher,0,2,0,86
+2504,15-08,US,publisher,56,49,41,2040
+2505,15-08,ZA,publisher,45,53,32,2433
+2506,15-08,AU,top publisher,41,53,31,2664
+2507,15-08,BD,top publisher,1,2,1,86
+2508,15-08,CA,top publisher,63,67,44,3838
+2509,15-08,GB,top publisher,119,137,106,5241
+2510,15-08,GH,top publisher,9,9,12,233
+2511,15-08,HK,top publisher,0,0,0,96
+2512,15-08,IE,top publisher,48,228,63,3321
+2513,15-08,IN,top publisher,28,29,53,3478
+2514,15-08,JM,top publisher,0,0,0,196
+2515,15-08,KE,top publisher,5,15,2,265
+2516,15-08,LK,top publisher,5,0,2,94
+2517,15-08,MY,top publisher,2,1,4,333
+2518,15-08,NG,top publisher,3,2,2,160
+2519,15-08,NZ,top publisher,5,15,11,485
+2520,15-08,PH,top publisher,26,15,14,1390
+2521,15-08,PK,top publisher,16,18,21,520
+2522,15-08,SG,top publisher,2,2,1,733
+2523,15-08,TZ,top publisher,4,2,1,178
+2524,15-08,US,top publisher,158,137,110,5037
+2525,15-08,ZA,top publisher,33,67,17,3391
+2526,15-09,AU,publisher,6,17,11,853
+2527,15-09,BD,publisher,2,7,4,214
+2528,15-09,CA,publisher,42,84,29,2989
+2529,15-09,GB,publisher,30,42,22,1723
+2530,15-09,GH,publisher,8,5,13,492
+2531,15-09,HK,publisher,1,3,2,189
+2532,15-09,IE,publisher,43,50,48,1669
+2533,15-09,IN,publisher,12,14,10,623
+2534,15-09,JM,publisher,6,6,7,322
+2535,15-09,KE,publisher,18,16,19,705
+2536,15-09,LK,publisher,6,5,5,365
+2537,15-09,MY,publisher,8,129,4,684
+2538,15-09,NG,publisher,13,7,21,511
+2539,15-09,NZ,publisher,7,7,6,433
+2540,15-09,PH,publisher,46,27,18,1610
+2541,15-09,PK,publisher,20,26,20,460
+2542,15-09,SG,publisher,37,38,27,2638
+2543,15-09,TZ,publisher,11,6,6,312
+2544,15-09,US,publisher,61,53,39,2134
+2545,15-09,ZA,publisher,47,54,32,2487
+2546,15-09,AU,top publisher,33,57,35,2429
+2547,15-09,BD,top publisher,2,0,0,94
+2548,15-09,CA,top publisher,55,63,47,3795
+2549,15-09,GB,top publisher,150,149,140,5423
+2550,15-09,GH,top publisher,9,6,12,303
+2551,15-09,HK,top publisher,0,0,0,151
+2552,15-09,IE,top publisher,53,210,55,2808
+2553,15-09,IN,top publisher,25,23,48,3210
+2554,15-09,JM,top publisher,0,0,0,185
+2555,15-09,KE,top publisher,4,9,2,240
+2556,15-09,LK,top publisher,1,6,6,218
+2557,15-09,MY,top publisher,2,2,8,281
+2558,15-09,NG,top publisher,13,23,19,320
+2559,15-09,NZ,top publisher,8,12,5,546
+2560,15-09,PH,top publisher,27,25,23,1703
+2561,15-09,PK,top publisher,12,18,19,503
+2562,15-09,SG,top publisher,4,6,15,940
+2563,15-09,TZ,top publisher,3,1,3,156
+2564,15-09,US,top publisher,150,142,123,5142
+2565,15-09,ZA,top publisher,33,64,22,3221
+2566,15-10,AU,publisher,31,58,35,2714
+2567,15-10,BD,publisher,5,3,6,259
+2568,15-10,CA,publisher,82,160,72,4936
+2569,15-10,GB,publisher,66,84,62,4035
+2570,15-10,GH,publisher,13,6,14,554
+2571,15-10,HK,publisher,3,4,4,251
+2572,15-10,IE,publisher,82,93,94,3083
+2573,15-10,IN,publisher,20,17,17,645
+2574,15-10,JM,publisher,11,5,5,383
+2575,15-10,KE,publisher,26,24,18,732
+2576,15-10,LK,publisher,7,8,15,482
+2577,15-10,MY,publisher,5,133,5,653
+2578,15-10,NG,publisher,9,10,12,509
+2579,15-10,NZ,publisher,7,7,6,415
+2580,15-10,PH,publisher,40,31,32,1708
+2581,15-10,PK,publisher,16,19,15,537
+2582,15-10,SG,publisher,49,43,27,2994
+2583,15-10,TZ,publisher,8,6,3,342
+2584,15-10,US,publisher,85,100,65,3693
+2585,15-10,ZA,publisher,51,50,48,2445
+2586,15-10,AU,top publisher,61,79,48,3961
+2587,15-10,BD,top publisher,3,2,1,109
+2588,15-10,CA,top publisher,83,87,63,6173
+2589,15-10,GB,top publisher,187,157,168,6985
+2590,15-10,GH,top publisher,6,8,10,303
+2591,15-10,HK,top publisher,0,0,0,111
+2592,15-10,IE,top publisher,98,388,92,4499
+2593,15-10,IN,top publisher,42,28,42,3648
+2594,15-10,JM,top publisher,0,0,0,194
+2595,15-10,KE,top publisher,13,10,8,287
+2596,15-10,LK,top publisher,7,14,17,545
+2597,15-10,MY,top publisher,3,2,3,316
+2598,15-10,NG,top publisher,22,19,21,339
+2599,15-10,NZ,top publisher,9,13,5,549
+2600,15-10,PH,top publisher,34,24,23,1816
+2601,15-10,PK,top publisher,18,21,19,532
+2602,15-10,SG,top publisher,17,17,10,1219
+2603,15-10,TZ,top publisher,3,7,3,169
+2604,15-10,US,top publisher,201,182,179,7279
+2605,15-10,ZA,top publisher,52,102,47,3105
+2606,15-11,AU,publisher,58,87,39,4845
+2607,15-11,BD,publisher,7,4,2,232
+2608,15-11,CA,publisher,117,232,104,7231
+2609,15-11,GB,publisher,95,154,105,6899
+2610,15-11,GH,publisher,12,10,6,526
+2611,15-11,HK,publisher,10,2,6,345
+2612,15-11,IE,publisher,116,121,167,4393
+2613,15-11,IN,publisher,156,160,142,7004
+2614,15-11,JM,publisher,10,9,17,518
+2615,15-11,KE,publisher,16,20,19,763
+2616,15-11,LK,publisher,7,5,14,538
+2617,15-11,MY,publisher,15,109,6,604
+2618,15-11,NG,publisher,11,14,18,502
+2619,15-11,NZ,publisher,36,40,25,1778
+2620,15-11,PH,publisher,82,49,46,2697
+2621,15-11,PK,publisher,10,20,18,528
+2622,15-11,SG,publisher,41,56,52,4246
+2623,15-11,TZ,publisher,5,7,6,368
+2624,15-11,US,publisher,165,151,110,5885
+2625,15-11,ZA,publisher,89,85,71,4469
+2626,15-11,AU,top publisher,92,77,80,4985
+2627,15-11,BD,top publisher,1,1,1,110
+2628,15-11,CA,top publisher,89,152,70,7632
+2629,15-11,GB,top publisher,214,208,203,8538
+2630,15-11,GH,top publisher,4,9,10,337
+2631,15-11,HK,top publisher,0,0,0,106
+2632,15-11,IE,top publisher,113,515,142,6233
+2633,15-11,IN,top publisher,85,76,100,5794
+2634,15-11,JM,top publisher,0,0,0,196
+2635,15-11,KE,top publisher,3,7,6,255
+2636,15-11,LK,top publisher,3,4,10,242
+2637,15-11,MY,top publisher,3,1,7,271
+2638,15-11,NG,top publisher,15,11,19,326
+2639,15-11,NZ,top publisher,20,22,17,1286
+2640,15-11,PH,top publisher,44,21,26,2126
+2641,15-11,PK,top publisher,18,26,16,525
+2642,15-11,SG,top publisher,14,17,22,1552
+2643,15-11,TZ,top publisher,9,2,2,184
+2644,15-11,US,top publisher,292,247,207,10207
+2645,15-11,ZA,top publisher,120,120,81,4296
+2646,15-12,AU,publisher,85,114,55,5162
+2647,15-12,BD,publisher,16,21,14,399
+2648,15-12,CA,publisher,127,205,91,7260
+2649,15-12,GB,publisher,86,132,101,6901
+2650,15-12,GH,publisher,11,11,10,548
+2651,15-12,HK,publisher,9,12,9,583
+2652,15-12,IE,publisher,96,128,131,4158
+2653,15-12,IN,publisher,150,143,164,6715
+2654,15-12,JM,publisher,15,8,18,628
+2655,15-12,KE,publisher,39,23,19,823
+2656,15-12,LK,publisher,9,11,13,655
+2657,15-12,MY,publisher,7,128,8,602
+2658,15-12,NG,publisher,6,12,13,584
+2659,15-12,NZ,publisher,71,63,56,3523
+2660,15-12,PH,publisher,109,52,77,3526
+2661,15-12,PK,publisher,17,23,27,723
+2662,15-12,SG,publisher,83,81,49,6674
+2663,15-12,TZ,publisher,16,11,8,495
+2664,15-12,US,publisher,154,143,89,5971
+2665,15-12,ZA,publisher,127,123,95,4966
+2666,15-12,AU,top publisher,84,120,79,5367
+2667,15-12,BD,top publisher,3,1,3,102
+2668,15-12,CA,top publisher,85,87,63,6590
+2669,15-12,GB,top publisher,199,220,181,8904
+2670,15-12,GH,top publisher,13,11,10,437
+2671,15-12,HK,top publisher,0,0,0,172
+2672,15-12,IE,top publisher,150,622,155,7623
+2673,15-12,IN,top publisher,111,84,115,6839
+2674,15-12,JM,top publisher,0,0,0,252
+2675,15-12,KE,top publisher,6,7,2,343
+2676,15-12,LK,top publisher,10,11,10,652
+2677,15-12,MY,top publisher,4,4,4,307
+2678,15-12,NG,top publisher,14,9,22,530
+2679,15-12,NZ,top publisher,40,34,49,1751
+2680,15-12,PH,top publisher,66,33,25,3196
+2681,15-12,PK,top publisher,20,14,28,683
+2682,15-12,SG,top publisher,27,20,15,2433
+2683,15-12,TZ,top publisher,7,7,1,206
+2684,15-12,US,top publisher,261,229,227,10821
+2685,15-12,ZA,top publisher,110,110,90,4724
+2686,16-01,AU,publisher,61,81,52,4328
+2687,16-01,BD,publisher,99,95,102,2391
+2688,16-01,CA,publisher,132,157,80,6160
+2689,16-01,GB,publisher,151,148,150,7406
+2690,16-01,GH,publisher,52,31,43,2187
+2691,16-01,HK,publisher,14,20,18,1021
+2692,16-01,IE,publisher,105,101,97,4088
+2693,16-01,IN,publisher,267,242,263,9527
+2694,16-01,JM,publisher,34,23,39,1229
+2695,16-01,KE,publisher,100,74,69,2233
+2696,16-01,LK,publisher,12,22,17,1234
+2697,16-01,MY,publisher,79,604,63,5236
+2698,16-01,NG,publisher,69,431,100,3897
+2699,16-01,NZ,publisher,117,99,80,5477
+2700,16-01,PH,publisher,108,65,61,4537
+2701,16-01,PK,publisher,215,198,235,6980
+2702,16-01,SG,publisher,93,79,72,5523
+2703,16-01,TZ,publisher,13,10,11,617
+2704,16-01,US,publisher,140,202,127,6603
+2705,16-01,ZA,publisher,79,85,59,4317
+2706,16-01,AU,top publisher,93,101,85,5076
+2707,16-01,BD,top publisher,19,8,6,645
+2708,16-01,CA,top publisher,92,80,60,6129
+2709,16-01,GB,top publisher,265,223,219,8718
+2710,16-01,GH,top publisher,71,84,94,3677
+2711,16-01,HK,top publisher,0,0,7,194
+2712,16-01,IE,top publisher,203,734,164,8084
+2713,16-01,IN,top publisher,148,90,177,8812
+2714,16-01,JM,top publisher,0,0,0,701
+2715,16-01,KE,top publisher,38,25,28,1826
+2716,16-01,LK,top publisher,31,31,46,1138
+2717,16-01,MY,top publisher,49,42,43,2836
+2718,16-01,NG,top publisher,102,98,124,4057
+2719,16-01,NZ,top publisher,48,59,46,2822
+2720,16-01,PH,top publisher,89,64,62,5205
+2721,16-01,PK,top publisher,119,123,139,4131
+2722,16-01,SG,top publisher,24,30,20,2957
+2723,16-01,TZ,top publisher,6,5,4,233
+2724,16-01,US,top publisher,259,377,188,9547
+2725,16-01,ZA,top publisher,129,83,98,5307
+2726,16-02,AU,publisher,70,98,77,4678
+2727,16-02,BD,publisher,115,119,89,1994
+2728,16-02,CA,publisher,105,113,60,5440
+2729,16-02,GB,publisher,131,150,122,7328
+2730,16-02,GH,publisher,61,53,46,2813
+2731,16-02,HK,publisher,48,26,27,1319
+2732,16-02,IE,publisher,147,175,130,4953
+2733,16-02,IN,publisher,338,289,340,9811
+2734,16-02,JM,publisher,18,21,16,684
+2735,16-02,KE,publisher,36,29,31,939
+2736,16-02,LK,publisher,24,32,32,1382
+2737,16-02,MY,publisher,71,784,71,5295
+2738,16-02,NG,publisher,50,64,90,2500
+2739,16-02,NZ,publisher,136,133,91,6679
+2740,16-02,PH,publisher,59,32,37,2236
+2741,16-02,PK,publisher,397,380,446,8667
+2742,16-02,SG,publisher,76,44,50,3683
+2743,16-02,TZ,publisher,5,7,3,276
+2744,16-02,US,publisher,172,141,107,6597
+2745,16-02,ZA,publisher,89,101,108,5954
+2746,16-02,AU,top publisher,79,102,107,4782
+2747,16-02,BD,top publisher,36,20,23,1305
+2748,16-02,CA,top publisher,61,101,63,5920
+2749,16-02,GB,top publisher,181,199,171,6985
+2750,16-02,GH,top publisher,54,43,72,2402
+2751,16-02,HK,top publisher,0,9,0,341
+2752,16-02,IE,top publisher,160,959,181,9223
+2753,16-02,IN,top publisher,166,102,135,9334
+2754,16-02,JM,top publisher,0,0,0,352
+2755,16-02,KE,top publisher,14,12,13,666
+2756,16-02,LK,top publisher,23,34,33,1075
+2757,16-02,MY,top publisher,33,31,23,3263
+2758,16-02,NG,top publisher,64,64,80,3066
+2759,16-02,NZ,top publisher,78,40,43,2836
+2760,16-02,PH,top publisher,45,36,26,2585
+2761,16-02,PK,top publisher,184,171,206,5409
+2762,16-02,SG,top publisher,12,21,15,1699
+2763,16-02,TZ,top publisher,1,2,1,53
+2764,16-02,US,top publisher,247,159,181,8530
+2765,16-02,ZA,top publisher,146,98,111,5657
+2766,16-03,AU,publisher,172,164,101,7816
+2767,16-03,BD,publisher,2,1,1,268
+2768,16-03,CA,publisher,243,206,143,9694
+2769,16-03,GB,publisher,250,256,236,13544
+2770,16-03,GH,publisher,55,55,57,2973
+2771,16-03,HK,publisher,38,37,29,1064
+2772,16-03,IE,publisher,235,486,224,8697
+2773,16-03,IN,publisher,437,441,414,13354
+2774,16-03,JM,publisher,5,2,2,142
+2775,16-03,KE,publisher,88,84,80,2493
+2776,16-03,LK,publisher,13,18,9,791
+2777,16-03,MY,publisher,105,82,104,5249
+2778,16-03,NG,publisher,248,300,324,7914
+2779,16-03,NZ,publisher,141,131,101,7240
+2780,16-03,PH,publisher,102,57,66,4388
+2781,16-03,PK,publisher,635,520,608,9494
+2782,16-03,SG,publisher,140,116,97,8281
+2783,16-03,TZ,publisher,11,12,8,414
+2784,16-03,US,publisher,243,240,177,10117
+2785,16-03,ZA,publisher,109,108,125,8673
+2786,16-03,AU,top publisher,185,182,153,8815
+2787,16-03,BD,top publisher,26,21,20,1131
+2788,16-03,CA,top publisher,134,181,106,12472
+2789,16-03,GB,top publisher,281,300,266,11874
+2790,16-03,GH,top publisher,114,76,104,4342
+2791,16-03,HK,top publisher,0,1,0,259
+2792,16-03,IE,top publisher,236,2107,238,14650
+2793,16-03,IN,top publisher,445,179,209,17599
+2794,16-03,JM,top publisher,0,0,0,470
+2795,16-03,KE,top publisher,51,36,27,1941
+2796,16-03,LK,top publisher,32,27,28,1050
+2797,16-03,MY,top publisher,62,48,54,6075
+2798,16-03,NG,top publisher,137,130,182,5794
+2799,16-03,NZ,top publisher,90,88,69,4977
+2800,16-03,PH,top publisher,121,75,59,6395
+2801,16-03,PK,top publisher,134,160,156,4356
+2802,16-03,SG,top publisher,28,31,30,4037
+2803,16-03,TZ,top publisher,2,0,3,100
+2804,16-03,US,top publisher,419,307,297,14960
+2805,16-03,ZA,top publisher,163,125,119,7118
+2806,16-04,AU,publisher,159,216,100,8922
+2807,16-04,BD,publisher,1,2,3,212
+2808,16-04,CA,publisher,212,199,142,10126
+2809,16-04,GB,publisher,224,246,183,11904
+2810,16-04,GH,publisher,61,44,48,2363
+2811,16-04,HK,publisher,14,12,14,636
+2812,16-04,IE,publisher,222,756,178,9393
+2813,16-04,IN,publisher,432,420,433,13308
+2814,16-04,JM,publisher,1,4,3,124
+2815,16-04,KE,publisher,73,71,62,2446
+2816,16-04,LK,publisher,9,11,11,564
+2817,16-04,MY,publisher,72,74,62,4635
+2818,16-04,NG,publisher,155,163,176,5437
+2819,16-04,NZ,publisher,150,115,101,6613
+2820,16-04,PH,publisher,115,54,59,4276
+2821,16-04,PK,publisher,369,326,371,6448
+2822,16-04,SG,publisher,98,109,93,6382
+2823,16-04,TZ,publisher,15,6,3,424
+2824,16-04,US,publisher,239,225,220,9915
+2825,16-04,ZA,publisher,96,119,118,5658
+2826,16-04,AU,top publisher,187,206,182,9667
+2827,16-04,BD,top publisher,27,25,13,922
+2828,16-04,CA,top publisher,169,211,106,13572
+2829,16-04,GB,top publisher,265,267,264,11360
+2830,16-04,GH,top publisher,83,69,97,3456
+2831,16-04,HK,top publisher,11,10,11,477
+2832,16-04,IE,top publisher,216,2005,221,14359
+2833,16-04,IN,top publisher,253,168,170,19390
+2834,16-04,JM,top publisher,0,0,0,387
+2835,16-04,KE,top publisher,44,246,26,13249
+2836,16-04,LK,top publisher,14,15,17,590
+2837,16-04,MY,top publisher,52,43,40,4530
+2838,16-04,NG,top publisher,211,215,281,6403
+2839,16-04,NZ,top publisher,80,94,84,4813
+2840,16-04,PH,top publisher,120,61,62,5828
+2841,16-04,PK,top publisher,81,89,117,3221
+2842,16-04,SG,top publisher,14,14,16,3041
+2843,16-04,TZ,top publisher,1,0,0,17
+2844,16-04,US,top publisher,401,288,279,14756
+2845,16-04,ZA,top publisher,175,108,134,6777
+2846,16-05,AU,publisher,137,178,107,8073
+2847,16-05,BD,publisher,4,4,3,253
+2848,16-05,CA,publisher,190,148,108,9674
+2849,16-05,GB,publisher,179,237,178,10343
+2850,16-05,GH,publisher,49,38,35,1751
+2851,16-05,HK,publisher,1,8,5,439
+2852,16-05,IE,publisher,221,733,216,9036
+2853,16-05,IN,publisher,464,458,454,14053
+2854,16-05,JM,publisher,2,2,3,125
+2855,16-05,KE,publisher,123,79,66,2975
+2856,16-05,LK,publisher,4,6,7,661
+2857,16-05,MY,publisher,77,77,70,5090
+2858,16-05,NG,publisher,311,179,174,6927
+2859,16-05,NZ,publisher,145,141,95,6467
+2860,16-05,PH,publisher,134,44,56,4007
+2861,16-05,PK,publisher,230,258,347,7417
+2862,16-05,SG,publisher,105,117,107,7307
+2863,16-05,TZ,publisher,9,10,3,501
+2864,16-05,US,publisher,227,190,167,9554
+2865,16-05,ZA,publisher,147,144,127,6270
+2866,16-05,AU,top publisher,175,199,165,10275
+2867,16-05,BD,top publisher,17,7,18,927
+2868,16-05,CA,top publisher,156,211,77,12450
+2869,16-05,GB,top publisher,239,257,217,10568
+2870,16-05,GH,top publisher,85,61,105,3579
+2871,16-05,HK,top publisher,42,35,37,825
+2872,16-05,IE,top publisher,193,1992,232,13630
+2873,16-05,IN,top publisher,206,337,196,21085
+2874,16-05,JM,top publisher,0,0,0,545
+2875,16-05,KE,top publisher,35,84,21,6455
+2876,16-05,LK,top publisher,27,14,21,664
+2877,16-05,MY,top publisher,56,42,54,5096
+2878,16-05,NG,top publisher,141,177,247,7060
+2879,16-05,NZ,top publisher,86,84,251,5246
+2880,16-05,PH,top publisher,97,50,43,5102
+2881,16-05,PK,top publisher,174,141,239,5929
+2882,16-05,SG,top publisher,19,14,19,3762
+2883,16-05,US,top publisher,400,290,289,14326
+2884,16-05,ZA,top publisher,175,129,142,8118
+2885,16-06,AU,publisher,91,145,76,6615
+2886,16-06,BD,publisher,8,2,2,205
+2887,16-06,CA,publisher,172,186,137,9344
+2888,16-06,GB,publisher,154,227,136,9716
+2889,16-06,GH,publisher,48,45,32,1653
+2890,16-06,HK,publisher,1,8,4,341
+2891,16-06,IE,publisher,213,534,174,7945
+2892,16-06,IN,publisher,432,405,442,14822
+2893,16-06,JM,publisher,0,2,2,88
+2894,16-06,KE,publisher,89,54,60,2153
+2895,16-06,LK,publisher,12,13,15,759
+2896,16-06,MY,publisher,69,60,61,4286
+2897,16-06,NG,publisher,146,106,124,4411
+2898,16-06,NZ,publisher,116,113,72,5695
+2899,16-06,PH,publisher,90,56,53,3487
+2900,16-06,PK,publisher,164,191,235,6471
+2901,16-06,SG,publisher,103,108,90,6633
+2902,16-06,TZ,publisher,10,10,6,378
+2903,16-06,US,publisher,186,137,135,7640
+2904,16-06,ZA,publisher,92,106,66,5352
+2905,16-06,AU,top publisher,166,227,167,9650
+2906,16-06,BD,top publisher,31,18,20,895
+2907,16-06,CA,top publisher,124,171,82,10327
+2908,16-06,GB,top publisher,175,178,187,8907
+2909,16-06,GH,top publisher,50,49,62,2379
+2910,16-06,HK,top publisher,37,13,33,568
+2911,16-06,IE,top publisher,177,2005,185,12056
+2912,16-06,IN,top publisher,242,230,264,14881
+2913,16-06,JM,top publisher,0,0,0,414
+2914,16-06,KE,top publisher,15,14,8,1110
+2915,16-06,LK,top publisher,8,14,13,502
+2916,16-06,MY,top publisher,49,38,43,4206
+2917,16-06,NG,top publisher,242,229,274,5983
+2918,16-06,NZ,top publisher,79,72,66,4537
+2919,16-06,PH,top publisher,115,60,51,5205
+2920,16-06,PK,top publisher,153,122,209,5595
+2921,16-06,SG,top publisher,33,27,33,3511
+2922,16-06,US,top publisher,335,251,314,12966
+2923,16-06,ZA,top publisher,144,107,102,6093
+2924,16-07,AU,publisher,131,158,87,8066
+2925,16-07,BD,publisher,8,16,7,357
+2926,16-07,CA,publisher,123,149,111,7957
+2927,16-07,GB,publisher,157,221,157,10016
+2928,16-07,GH,publisher,64,49,56,1723
+2929,16-07,HK,publisher,5,11,3,329
+2930,16-07,IE,publisher,165,553,147,7471
+2931,16-07,IN,publisher,364,389,396,13090
+2932,16-07,JM,publisher,8,2,4,114
+2933,16-07,KE,publisher,66,54,73,1893
+2934,16-07,LK,publisher,14,11,8,645
+2935,16-07,MY,publisher,61,62,59,3283
+2936,16-07,NG,publisher,90,77,113,3618
+2937,16-07,NZ,publisher,134,109,68,5768
+2938,16-07,PH,publisher,57,35,44,2524
+2939,16-07,PK,publisher,129,144,178,4623
+2940,16-07,SG,publisher,74,62,47,3627
+2941,16-07,TZ,publisher,6,9,4,369
+2942,16-07,US,publisher,163,130,145,7379
+2943,16-07,ZA,publisher,99,108,66,4815
+2944,16-07,AU,top publisher,188,196,165,11065
+2945,16-07,BD,top publisher,16,13,9,563
+2946,16-07,CA,top publisher,147,180,95,10702
+2947,16-07,GB,top publisher,165,164,184,8063
+2948,16-07,GH,top publisher,47,39,73,2121
+2949,16-07,HK,top publisher,19,7,12,468
+2950,16-07,IE,top publisher,183,1904,170,11758
+2951,16-07,IN,top publisher,281,167,233,19232
+2952,16-07,JM,top publisher,0,0,0,473
+2953,16-07,KE,top publisher,17,10,14,925
+2954,16-07,LK,top publisher,19,20,13,590
+2955,16-07,MY,top publisher,16,23,27,2097
+2956,16-07,NG,top publisher,157,177,228,5317
+2957,16-07,NZ,top publisher,92,77,76,5122
+2958,16-07,PH,top publisher,75,47,56,4003
+2959,16-07,PK,top publisher,92,92,125,3217
+2960,16-07,SG,top publisher,40,35,45,3820
+2961,16-07,TZ,top publisher,0,1,1,20
+2962,16-07,US,top publisher,335,230,255,12854
+2963,16-07,ZA,top publisher,157,111,96,5497
+2964,16-08,AU,publisher,152,201,135,9681
+2965,16-08,BD,publisher,8,7,7,246
+2966,16-08,CA,publisher,188,143,97,9613
+2967,16-08,GB,publisher,160,231,156,11327
+2968,16-08,GH,publisher,154,106,109,4459
+2969,16-08,HK,publisher,1,14,3,510
+2970,16-08,IE,publisher,241,619,221,9813
+2971,16-08,IN,publisher,359,379,358,11932
+2972,16-08,JM,publisher,10,2,11,241
+2973,16-08,KE,publisher,98,78,101,3309
+2974,16-08,LK,publisher,13,23,27,1210
+2975,16-08,MY,publisher,112,69,114,7604
+2976,16-08,NG,publisher,198,206,286,9924
+2977,16-08,NZ,publisher,140,126,103,6345
+2978,16-08,PH,publisher,191,189,160,11230
+2979,16-08,PK,publisher,286,283,337,8066
+2980,16-08,SG,publisher,91,87,87,6016
+2981,16-08,TZ,publisher,15,10,10,474
+2982,16-08,US,publisher,216,161,158,8635
+2983,16-08,ZA,publisher,167,164,130,7844
+2984,16-08,AU,top publisher,163,164,185,11528
+2985,16-08,BD,top publisher,52,29,23,1575
+2986,16-08,CA,top publisher,199,215,124,14010
+2987,16-08,GB,top publisher,268,253,259,10799
+2988,16-08,GH,top publisher,63,57,90,2746
+2989,16-08,HK,top publisher,33,19,21,980
+2990,16-08,IE,top publisher,187,2141,173,12874
+2991,16-08,IN,top publisher,303,146,301,21563
+2992,16-08,JM,top publisher,0,0,0,676
+2993,16-08,KE,top publisher,51,33,29,2248
+2994,16-08,LK,top publisher,26,23,25,987
+2995,16-08,MY,top publisher,12,6,11,1647
+2996,16-08,NG,top publisher,363,371,555,11209
+2997,16-08,NZ,top publisher,154,131,176,8481
+2998,16-08,PH,top publisher,133,64,93,6434
+2999,16-08,PK,top publisher,185,177,206,8443
+3000,16-08,SG,top publisher,71,45,64,7019
+3001,16-08,US,top publisher,337,253,331,14770
+3002,16-08,ZA,top publisher,217,155,188,8333
+3003,16-09,AU,publisher,141,181,109,8853
+3004,16-09,BD,publisher,8,7,7,248
+3005,16-09,CA,publisher,224,182,137,9619
+3006,16-09,GB,publisher,145,213,138,10408
+3007,16-09,GH,publisher,86,74,95,3674
+3008,16-09,HK,publisher,4,6,0,374
+3009,16-09,IE,publisher,260,674,194,10378
+3010,16-09,IN,publisher,316,362,326,11264
+3011,16-09,JM,publisher,13,8,18,377
+3012,16-09,KE,publisher,101,77,119,3448
+3013,16-09,LK,publisher,15,17,12,1100
+3014,16-09,MY,publisher,70,75,89,6923
+3015,16-09,NG,publisher,321,312,395,11706
+3016,16-09,NZ,publisher,120,144,82,6004
+3017,16-09,PH,publisher,107,50,88,4599
+3018,16-09,PK,publisher,229,237,256,6129
+3019,16-09,SG,publisher,85,94,92,6440
+3020,16-09,TZ,publisher,10,7,4,345
+3021,16-09,US,publisher,207,169,159,7954
+3022,16-09,ZA,publisher,179,146,132,8040
+3023,16-09,AU,top publisher,178,195,140,11806
+3024,16-09,BD,top publisher,35,23,23,1384
+3025,16-09,CA,top publisher,171,205,109,12827
+3026,16-09,GB,top publisher,273,242,249,10563
+3027,16-09,GH,top publisher,93,81,135,3559
+3028,16-09,HK,top publisher,40,22,28,919
+3029,16-09,IE,top publisher,194,1845,135,12181
+3030,16-09,IN,top publisher,247,154,242,19550
+3031,16-09,JM,top publisher,0,0,0,591
+3032,16-09,KE,top publisher,53,48,37,2886
+3033,16-09,LK,top publisher,20,31,18,875
+3034,16-09,MY,top publisher,9,11,11,1977
+3035,16-09,NG,top publisher,312,289,408,10023
+3036,16-09,NZ,top publisher,150,155,168,8536
+3037,16-09,PH,top publisher,143,66,84,6572
+3038,16-09,PK,top publisher,136,154,175,6967
+3039,16-09,SG,top publisher,86,63,65,7309
+3040,16-09,US,top publisher,335,257,327,14425
+3041,16-09,ZA,top publisher,184,129,149,8670
+3042,16-10,AU,publisher,168,216,98,9376
+3043,16-10,BD,publisher,7,8,7,226
+3044,16-10,CA,publisher,222,191,143,10425
+3045,16-10,GB,publisher,174,252,150,11504
+3046,16-10,GH,publisher,83,76,83,3665
+3047,16-10,HK,publisher,4,11,1,419
+3048,16-10,IE,publisher,233,594,184,10702
+3049,16-10,IN,publisher,368,397,368,13008
+3050,16-10,JM,publisher,8,8,11,264
+3051,16-10,KE,publisher,84,75,108,3064
+3052,16-10,LK,publisher,20,12,17,1124
+3053,16-10,MY,publisher,108,70,121,6511
+3054,16-10,NG,publisher,282,262,352,12426
+3055,16-10,NZ,publisher,129,112,97,6526
+3056,16-10,PH,publisher,96,56,59,4842
+3057,16-10,PK,publisher,216,214,255,5506
+3058,16-10,SG,publisher,92,88,80,6354
+3059,16-10,TZ,publisher,6,3,4,292
+3060,16-10,US,publisher,243,187,162,10134
+3061,16-10,ZA,publisher,176,156,139,7552
+3062,16-10,AU,top publisher,207,244,148,13084
+3063,16-10,BD,top publisher,54,27,19,1554
+3064,16-10,CA,top publisher,154,199,112,12478
+3065,16-10,GB,top publisher,303,260,267,11291
+3066,16-10,GH,top publisher,128,97,152,4420
+3067,16-10,HK,top publisher,41,19,31,1008
+3068,16-10,IE,top publisher,141,1995,138,12211
+3069,16-10,IN,top publisher,308,178,261,17724
+3070,16-10,JM,top publisher,0,0,0,554
+3071,16-10,KE,top publisher,47,43,41,2637
+3072,16-10,LK,top publisher,17,20,18,685
+3073,16-10,MY,top publisher,15,17,18,2702
+3074,16-10,NG,top publisher,325,272,352,9911
+3075,16-10,NZ,top publisher,179,172,128,9485
+3076,16-10,PH,top publisher,136,68,96,6091
+3077,16-10,PK,top publisher,226,177,227,8091
+3078,16-10,SG,top publisher,68,57,58,6765
+3079,16-10,US,top publisher,405,281,331,15436
+3080,16-10,ZA,top publisher,212,152,144,8343
+3081,16-11,AU,publisher,143,190,90,8533
+3082,16-11,BD,publisher,6,11,11,341
+3083,16-11,CA,publisher,219,188,130,10825
+3084,16-11,GB,publisher,218,304,197,12812
+3085,16-11,GH,publisher,80,57,80,3991
+3086,16-11,HK,publisher,4,21,3,488
+3087,16-11,IE,publisher,185,540,170,9621
+3088,16-11,IN,publisher,329,435,350,12134
+3089,16-11,JM,publisher,14,8,13,478
+3090,16-11,KE,publisher,113,87,103,3614
+3091,16-11,LK,publisher,13,16,13,1236
+3092,16-11,MY,publisher,92,80,115,6364
+3093,16-11,NG,publisher,343,301,403,12265
+3094,16-11,NZ,publisher,170,149,89,7480
+3095,16-11,PH,publisher,141,56,68,5209
+3096,16-11,PK,publisher,221,238,302,5884
+3097,16-11,SG,publisher,73,98,66,5750
+3098,16-11,TZ,publisher,2,0,0,135
+3099,16-11,US,publisher,199,159,163,9386
+3100,16-11,ZA,publisher,140,127,144,6648
+3101,16-11,AU,top publisher,182,198,151,11542
+3102,16-11,BD,top publisher,42,24,19,1382
+3103,16-11,CA,top publisher,106,187,67,11959
+3104,16-11,GB,top publisher,296,255,274,11082
+3105,16-11,GH,top publisher,133,93,133,4566
+3106,16-11,HK,top publisher,48,31,34,1108
+3107,16-11,IE,top publisher,159,1916,191,12524
+3108,16-11,IN,top publisher,248,618,359,16599
+3109,16-11,JM,top publisher,0,0,0,585
+3110,16-11,KE,top publisher,57,55,50,3086
+3111,16-11,LK,top publisher,10,19,25,765
+3112,16-11,MY,top publisher,15,13,26,2576
+3113,16-11,NG,top publisher,283,252,375,8836
+3114,16-11,NZ,top publisher,136,255,110,7634
+3115,16-11,PH,top publisher,168,72,90,6709
+3116,16-11,PK,top publisher,221,153,231,7731
+3117,16-11,SG,top publisher,66,47,53,6460
+3118,16-11,US,top publisher,376,265,318,14833
+3119,16-11,ZA,top publisher,177,103,122,7254
+3120,16-12,AU,publisher,134,167,93,8665
+3121,16-12,BD,publisher,7,4,6,229
+3122,16-12,CA,publisher,221,158,103,10599
+3123,16-12,GB,publisher,200,279,180,12184
+3124,16-12,GH,publisher,65,43,53,3510
+3125,16-12,HK,publisher,7,8,0,465
+3126,16-12,IE,publisher,191,511,132,8767
+3127,16-12,IN,publisher,458,403,427,13624
+3128,16-12,JM,publisher,11,13,20,598
+3129,16-12,KE,publisher,102,83,95,3397
+3130,16-12,LK,publisher,15,23,24,1213
+3131,16-12,MY,publisher,89,85,79,5840
+3132,16-12,NG,publisher,249,257,294,10891
+3133,16-12,NZ,publisher,137,143,95,6958
+3134,16-12,PH,publisher,124,60,75,5519
+3135,16-12,PK,publisher,257,300,366,7491
+3136,16-12,SG,publisher,71,65,65,5307
+3137,16-12,TZ,publisher,0,0,0,100
+3138,16-12,US,publisher,216,206,169,10179
+3139,16-12,ZA,publisher,152,135,107,6300
+3140,16-12,AU,top publisher,204,235,146,11366
+3141,16-12,BD,top publisher,29,19,17,1194
+3142,16-12,CA,top publisher,78,141,45,10661
+3143,16-12,GB,top publisher,297,255,226,11127
+3144,16-12,GH,top publisher,101,70,109,3656
+3145,16-12,HK,top publisher,36,14,23,900
+3146,16-12,IE,top publisher,143,1812,188,12249
+3147,16-12,IN,top publisher,268,182,252,16470
+3148,16-12,JM,top publisher,0,0,0,633
+3149,16-12,KE,top publisher,64,44,45,2986
+3150,16-12,LK,top publisher,20,22,21,848
+3151,16-12,MY,top publisher,62,49,56,4965
+3152,16-12,NG,top publisher,386,374,430,10279
+3153,16-12,NZ,top publisher,119,121,179,6587
+3154,16-12,PH,top publisher,132,84,110,6669
+3155,16-12,PK,top publisher,186,163,210,7312
+3156,16-12,SG,top publisher,60,50,52,5963
+3157,16-12,US,top publisher,395,283,360,15878
+3158,16-12,ZA,top publisher,166,127,133,7147
+3159,17-01,AU,publisher,146,176,133,8126
+3160,17-01,BD,publisher,4,8,4,277
+3161,17-01,CA,publisher,240,183,154,10678
+3162,17-01,GB,publisher,253,317,240,12702
+3163,17-01,GH,publisher,102,70,107,4222
+3164,17-01,HK,publisher,3,14,3,395
+3165,17-01,IE,publisher,217,535,178,9096
+3166,17-01,IN,publisher,435,342,464,12408
+3167,17-01,JM,publisher,6,11,13,472
+3168,17-01,KE,publisher,130,99,118,3786
+3169,17-01,LK,publisher,13,19,23,981
+3170,17-01,MY,publisher,99,92,108,5836
+3171,17-01,NG,publisher,262,250,298,9391
+3172,17-01,NZ,publisher,157,155,127,6760
+3173,17-01,PH,publisher,105,56,70,5040
+3174,17-01,PK,publisher,204,250,316,6095
+3175,17-01,SG,publisher,105,118,99,6447
+3176,17-01,TZ,publisher,0,0,0,96
+3177,17-01,US,publisher,256,204,228,10122
+3178,17-01,ZA,publisher,181,152,136,6348
+3179,17-01,AU,top publisher,166,229,144,10770
+3180,17-01,BD,top publisher,26,18,17,940
+3181,17-01,CA,top publisher,85,119,64,10164
+3182,17-01,GB,top publisher,286,283,300,11110
+3183,17-01,GH,top publisher,127,103,147,4169
+3184,17-01,HK,top publisher,16,21,18,784
+3185,17-01,IE,top publisher,195,1912,239,14168
+3186,17-01,IN,top publisher,282,160,242,14691
+3187,17-01,JM,top publisher,0,0,1,482
+3188,17-01,KE,top publisher,81,51,53,2752
+3189,17-01,LK,top publisher,14,22,33,838
+3190,17-01,MY,top publisher,71,62,58,5143
+3191,17-01,NG,top publisher,402,388,548,9728
+3192,17-01,NZ,top publisher,138,136,101,6115
+3193,17-01,PH,top publisher,150,72,82,6369
+3194,17-01,PK,top publisher,157,174,259,7916
+3195,17-01,SG,top publisher,81,50,80,6205
+3196,17-01,US,top publisher,395,319,358,15565
+3197,17-01,ZA,top publisher,184,129,178,7579
+3198,17-02,AU,publisher,127,146,95,7791
+3199,17-02,BD,publisher,11,7,4,274
+3200,17-02,CA,publisher,212,188,124,10501
+3201,17-02,GB,publisher,210,279,198,12832
+3202,17-02,GH,publisher,85,70,98,4693
+3203,17-02,HK,publisher,2,10,0,413
+3204,17-02,IE,publisher,98,226,64,4397
+3205,17-02,IN,publisher,392,326,339,10886
+3206,17-02,JM,publisher,20,15,16,541
+3207,17-02,KE,publisher,79,75,86,3149
+3208,17-02,LK,publisher,14,22,11,985
+3209,17-02,MY,publisher,146,103,115,6106
+3210,17-02,NG,publisher,177,161,233,6402
+3211,17-02,NZ,publisher,120,111,61,5735
+3212,17-02,PH,publisher,76,53,48,3564
+3213,17-02,PK,publisher,79,96,127,3237
+3214,17-02,SG,publisher,115,109,98,6235
+3215,17-02,TZ,publisher,1,2,0,160
+3216,17-02,US,publisher,247,162,158,10130
+3217,17-02,ZA,publisher,123,80,77,5199
+3218,17-02,AU,top publisher,178,178,161,9986
+3219,17-02,BD,top publisher,18,15,18,710
+3220,17-02,CA,top publisher,79,141,47,9769
+3221,17-02,GB,top publisher,263,235,222,10266
+3222,17-02,GH,top publisher,76,91,109,3778
+3223,17-02,HK,top publisher,44,31,36,966
+3224,17-02,IE,top publisher,59,827,70,6223
+3225,17-02,IN,top publisher,261,138,145,11492
+3226,17-02,JM,top publisher,0,0,0,532
+3227,17-02,KE,top publisher,54,40,29,2924
+3228,17-02,LK,top publisher,19,16,18,765
+3229,17-02,MY,top publisher,64,66,61,5408
+3230,17-02,NG,top publisher,257,219,279,6518
+3231,17-02,NZ,top publisher,93,142,96,5975
+3232,17-02,PH,top publisher,99,63,64,4188
+3233,17-02,PK,top publisher,103,108,106,4268
+3234,17-02,SG,top publisher,53,45,50,5491
+3235,17-02,US,top publisher,351,290,253,14216
+3236,17-02,ZA,top publisher,100,90,93,5277
+3237,17-03,AU,publisher,183,199,120,10205
+3238,17-03,BD,publisher,5,6,7,346
+3239,17-03,CA,publisher,319,279,193,14846
+3240,17-03,GB,publisher,244,313,231,15524
+3241,17-03,GH,publisher,121,84,130,4364
+3242,17-03,HK,publisher,5,8,0,488
+3243,17-03,IE,publisher,226,493,192,10939
+3244,17-03,IN,publisher,463,405,475,14241
+3245,17-03,JM,publisher,28,31,40,1127
+3246,17-03,KE,publisher,120,82,107,3674
+3247,17-03,LK,publisher,15,16,15,896
+3248,17-03,MY,publisher,136,130,156,7925
+3249,17-03,NG,publisher,265,258,389,9781
+3250,17-03,NZ,publisher,172,169,101,7877
+3251,17-03,PH,publisher,150,86,85,6146
+3252,17-03,PK,publisher,184,212,279,5890
+3253,17-03,SG,publisher,126,124,112,7488
+3254,17-03,TZ,publisher,1,1,0,100
+3255,17-03,US,publisher,262,194,203,12194
+3256,17-03,ZA,publisher,174,201,133,8611
+3257,17-03,AU,top publisher,205,247,220,11700
+3258,17-03,BD,top publisher,26,14,11,899
+3259,17-03,CA,top publisher,110,122,50,12265
+3260,17-03,GB,top publisher,295,301,261,12566
+3261,17-03,GH,top publisher,33,29,43,2436
+3262,17-03,HK,top publisher,49,28,37,1068
+3263,17-03,IE,top publisher,139,2109,163,13917
+3264,17-03,IN,top publisher,301,158,281,14031
+3265,17-03,JM,top publisher,0,0,0,1071
+3266,17-03,KE,top publisher,91,63,60,3087
+3267,17-03,LK,top publisher,20,33,23,943
+3268,17-03,MY,top publisher,78,63,90,6654
+3269,17-03,NG,top publisher,506,405,658,11764
+3270,17-03,NZ,top publisher,181,139,119,9413
+3271,17-03,PH,top publisher,169,81,92,7862
+3272,17-03,PK,top publisher,258,241,292,8832
+3273,17-03,SG,top publisher,117,85,109,8299
+3274,17-03,US,top publisher,399,276,325,15339
+3275,17-03,ZA,top publisher,127,109,138,7369
+3276,17-04,AU,publisher,161,149,105,8881
+3277,17-04,BD,publisher,5,3,3,280
+3278,17-04,CA,publisher,300,244,170,13227
+3279,17-04,GB,publisher,210,303,218,14103
+3280,17-04,GH,publisher,76,77,110,3648
+3281,17-04,HK,publisher,4,5,2,434
+3282,17-04,IE,publisher,193,437,142,9762
+3283,17-04,IN,publisher,456,386,409,15051
+3284,17-04,JM,publisher,23,31,42,1101
+3285,17-04,KE,publisher,104,77,99,3499
+3286,17-04,LK,publisher,7,6,5,579
+3287,17-04,MY,publisher,110,105,121,6691
+3288,17-04,NG,publisher,261,257,340,8340
+3289,17-04,NZ,publisher,149,124,68,6158
+3290,17-04,PH,publisher,110,59,63,4389
+3291,17-04,PK,publisher,173,186,224,5203
+3292,17-04,SG,publisher,104,92,77,6385
+3293,17-04,TZ,publisher,3,0,0,64
+3294,17-04,US,publisher,245,193,189,10888
+3295,17-04,ZA,publisher,181,152,134,7469
+3296,17-04,AU,top publisher,172,175,126,9507
+3297,17-04,BD,top publisher,17,16,10,782
+3298,17-04,CA,top publisher,102,154,83,12720
+3299,17-04,GB,top publisher,230,206,206,10604
+3300,17-04,GH,top publisher,28,16,28,1551
+3301,17-04,HK,top publisher,36,37,33,925
+3302,17-04,IE,top publisher,93,1924,149,11606
+3303,17-04,IN,top publisher,296,149,204,14306
+3304,17-04,JM,top publisher,0,0,0,656
+3305,17-04,KE,top publisher,39,42,38,2436
+3306,17-04,LK,top publisher,17,22,19,852
+3307,17-04,MY,top publisher,89,74,90,6809
+3308,17-04,NG,top publisher,400,385,517,9599
+3309,17-04,NZ,top publisher,143,170,111,8503
+3310,17-04,PH,top publisher,133,60,65,6871
+3311,17-04,PK,top publisher,118,114,124,4460
+3312,17-04,SG,top publisher,86,52,81,7078
+3313,17-04,US,top publisher,395,300,319,14476
+3314,17-04,ZA,top publisher,211,138,158,8527
+3315,17-05,AU,publisher,148,193,116,9235
+3316,17-05,BD,publisher,6,7,9,406
+3317,17-05,CA,publisher,333,275,174,14075
+3318,17-05,GB,publisher,195,274,194,14005
+3319,17-05,GH,publisher,125,95,116,3529
+3320,17-05,HK,publisher,9,4,0,477
+3321,17-05,IE,publisher,244,550,199,11735
+3322,17-05,IN,publisher,488,369,425,16177
+3323,17-05,JM,publisher,27,33,34,1274
+3324,17-05,KE,publisher,77,69,69,2706
+3325,17-05,LK,publisher,2,5,5,593
+3326,17-05,MY,publisher,103,87,144,6987
+3327,17-05,NG,publisher,251,195,294,8262
+3328,17-05,NZ,publisher,161,190,90,7314
+3329,17-05,PH,publisher,138,87,95,5920
+3330,17-05,PK,publisher,232,309,312,5934
+3331,17-05,SG,publisher,160,149,111,8349
+3332,17-05,TZ,publisher,1,0,0,96
+3333,17-05,US,publisher,262,207,200,11089
+3334,17-05,ZA,publisher,197,161,135,8786
+3335,17-05,AU,top publisher,201,217,173,11152
+3336,17-05,BD,top publisher,23,10,14,839
+3337,17-05,CA,top publisher,145,174,87,16205
+3338,17-05,GB,top publisher,250,276,223,11712
+3339,17-05,GH,top publisher,75,41,53,2386
+3340,17-05,HK,top publisher,54,32,38,1347
+3341,17-05,IE,top publisher,135,2146,159,13503
+3342,17-05,IN,top publisher,288,146,181,15999
+3343,17-05,KE,top publisher,90,69,48,3583
+3344,17-05,LK,top publisher,31,42,34,1138
+3345,17-05,MY,top publisher,89,216,70,10747
+3346,17-05,NG,top publisher,374,368,483,12791
+3347,17-05,NZ,top publisher,204,202,126,10962
+3348,17-05,PH,top publisher,98,62,54,7944
+3349,17-05,PK,top publisher,121,129,150,4577
+3350,17-05,SG,top publisher,58,53,69,8174
+3351,17-05,US,top publisher,385,316,374,15294
+3352,17-05,ZA,top publisher,174,154,160,9302
+3353,17-06,AU,publisher,135,178,102,8102
+3354,17-06,BD,publisher,5,6,3,266
+3355,17-06,CA,publisher,225,190,119,10457
+3356,17-06,GB,publisher,201,232,165,12200
+3357,17-06,GH,publisher,70,52,80,2916
+3358,17-06,HK,publisher,5,2,2,482
+3359,17-06,IE,publisher,220,456,167,10565
+3360,17-06,IN,publisher,363,273,319,12822
+3361,17-06,JM,publisher,28,29,42,1244
+3362,17-06,KE,publisher,99,75,84,2648
+3363,17-06,LK,publisher,4,3,2,569
+3364,17-06,MY,publisher,99,70,109,6331
+3365,17-06,NG,publisher,189,227,313,7905
+3366,17-06,NZ,publisher,146,138,74,6226
+3367,17-06,PH,publisher,160,80,92,6016
+3368,17-06,PK,publisher,248,252,278,5769
+3369,17-06,SG,publisher,130,108,100,7254
+3370,17-06,TZ,publisher,0,0,0,96
+3371,17-06,US,publisher,217,189,185,9199
+3372,17-06,ZA,publisher,185,178,138,8860
+3373,17-06,AU,top publisher,188,187,160,9691
+3374,17-06,BD,top publisher,20,12,16,782
+3375,17-06,CA,top publisher,103,133,70,13407
+3376,17-06,GB,top publisher,213,200,180,10201
+3377,17-06,GH,top publisher,47,29,51,2145
+3378,17-06,HK,top publisher,62,37,59,1527
+3379,17-06,IE,top publisher,104,1885,139,11781
+3380,17-06,IN,top publisher,353,171,188,13726
+3381,17-06,KE,top publisher,109,78,96,4057
+3382,17-06,LK,top publisher,20,32,23,1113
+3383,17-06,MY,top publisher,88,435,63,13115
+3384,17-06,NG,top publisher,325,307,409,12170
+3385,17-06,NZ,top publisher,134,157,102,6834
+3386,17-06,PH,top publisher,81,51,53,7096
+3387,17-06,PK,top publisher,158,156,188,5003
+3388,17-06,SG,top publisher,65,47,63,9082
+3389,17-06,US,top publisher,404,269,320,14360
+3390,17-06,ZA,top publisher,180,142,175,8219
+3391,17-07,AU,publisher,156,186,123,7896
+3392,17-07,BD,publisher,4,2,7,264
+3393,17-07,CA,publisher,237,178,120,10401
+3394,17-07,GB,publisher,241,225,204,13727
+3395,17-07,GH,publisher,46,63,85,2196
+3396,17-07,HK,publisher,2,6,1,377
+3397,17-07,IE,publisher,211,543,185,11224
+3398,17-07,IN,publisher,408,369,370,14934
+3399,17-07,JM,publisher,60,33,46,1578
+3400,17-07,KE,publisher,62,56,72,2530
+3401,17-07,LK,publisher,2,11,5,758
+3402,17-07,MY,publisher,75,65,114,6581
+3403,17-07,NG,publisher,188,228,262,8453
+3404,17-07,NZ,publisher,143,128,75,6787
+3405,17-07,PH,publisher,178,70,81,5722
+3406,17-07,PK,publisher,219,232,294,6047
+3407,17-07,SG,publisher,142,99,99,6990
+3408,17-07,TZ,publisher,3,1,0,98
+3409,17-07,US,publisher,265,233,238,12021
+3410,17-07,ZA,publisher,213,208,126,9292
+3411,17-07,AU,top publisher,164,144,183,9206
+3412,17-07,BD,top publisher,18,20,8,962
+3413,17-07,CA,top publisher,121,118,69,15001
+3414,17-07,GB,top publisher,248,244,249,12073
+3415,17-07,GH,top publisher,16,12,16,1510
+3416,17-07,HK,top publisher,29,11,23,1251
+3417,17-07,IE,top publisher,125,2011,115,12840
+3418,17-07,IN,top publisher,474,281,207,15571
+3419,17-07,KE,top publisher,116,96,88,3995
+3420,17-07,LK,top publisher,14,24,32,1026
+3421,17-07,MY,top publisher,115,510,92,15300
+3422,17-07,NG,top publisher,265,257,366,10524
+3423,17-07,NZ,top publisher,141,134,109,7414
+3424,17-07,PH,top publisher,77,38,32,6976
+3425,17-07,PK,top publisher,148,173,223,5943
+3426,17-07,SG,top publisher,79,58,76,10460
+3427,17-07,US,top publisher,401,297,359,16629
+3428,17-07,ZA,top publisher,186,135,157,7773
+3429,17-08,AU,publisher,185,176,139,8302
+3430,17-08,BD,publisher,5,1,4,204
+3431,17-08,CA,publisher,242,219,162,11732
+3432,17-08,GB,publisher,195,198,171,12826
+3433,17-08,GH,publisher,42,46,61,1842
+3434,17-08,HK,publisher,3,4,1,391
+3435,17-08,IE,publisher,242,532,168,11583
+3436,17-08,IN,publisher,475,440,420,15858
+3437,17-08,JM,publisher,46,35,39,1431
+3438,17-08,KE,publisher,40,44,76,2049
+3439,17-08,LK,publisher,4,10,6,839
+3440,17-08,MY,publisher,123,86,129,6958
+3441,17-08,NG,publisher,189,226,276,8296
+3442,17-08,NZ,publisher,162,177,75,7858
+3443,17-08,PH,publisher,138,67,71,5092
+3444,17-08,PK,publisher,233,206,242,4712
+3445,17-08,SG,publisher,120,99,82,6910
+3446,17-08,TZ,publisher,2,1,1,102
+3447,17-08,US,publisher,302,226,228,11891
+3448,17-08,ZA,publisher,196,158,138,8533
+3449,17-08,AU,top publisher,167,191,192,9288
+3450,17-08,BD,top publisher,13,10,10,698
+3451,17-08,CA,top publisher,126,153,79,16886
+3452,17-08,GB,top publisher,245,189,214,11251
+3453,17-08,GH,top publisher,42,31,24,2080
+3454,17-08,HK,top publisher,13,7,20,1129
+3455,17-08,IE,top publisher,122,2232,101,12767
+3456,17-08,IN,top publisher,242,202,244,17011
+3457,17-08,KE,top publisher,90,72,74,4157
+3458,17-08,LK,top publisher,13,25,21,989
+3459,17-08,MY,top publisher,73,296,76,14719
+3460,17-08,NG,top publisher,347,289,378,10684
+3461,17-08,NZ,top publisher,191,218,152,9951
+3462,17-08,PH,top publisher,70,27,41,6961
+3463,17-08,PK,top publisher,183,180,241,6225
+3464,17-08,SG,top publisher,57,43,59,9805
+3465,17-08,US,top publisher,484,311,386,16018
+3466,17-08,ZA,top publisher,186,141,137,8385
+3467,17-09,AU,publisher,153,198,110,8533
+3468,17-09,BD,publisher,1,3,4,140
+3469,17-09,CA,publisher,266,235,151,12706
+3470,17-09,GB,publisher,180,236,120,12640
+3471,17-09,GH,publisher,44,36,42,1842
+3472,17-09,HK,publisher,3,4,1,402
+3473,17-09,IE,publisher,237,533,171,11923
+3474,17-09,IN,publisher,520,499,511,16725
+3475,17-09,JM,publisher,42,44,42,1673
+3476,17-09,KE,publisher,68,46,66,2206
+3477,17-09,LK,publisher,4,3,7,868
+3478,17-09,MY,publisher,118,104,130,6949
+3479,17-09,NG,publisher,179,186,235,7886
+3480,17-09,NZ,publisher,144,137,84,7257
+3481,17-09,PH,publisher,139,72,74,5058
+3482,17-09,PK,publisher,213,225,244,5186
+3483,17-09,SG,publisher,101,121,130,7044
+3484,17-09,TZ,publisher,4,6,1,175
+3485,17-09,US,publisher,277,259,186,12448
+3486,17-09,ZA,publisher,179,174,107,8478
+3487,17-09,AU,top publisher,204,221,181,10538
+3488,17-09,BD,top publisher,10,8,9,561
+3489,17-09,CA,top publisher,121,151,76,16716
+3490,17-09,GB,top publisher,242,239,207,11787
+3491,17-09,GH,top publisher,54,50,43,2763
+3492,17-09,HK,top publisher,24,15,7,1235
+3493,17-09,IE,top publisher,144,2001,112,12946
+3494,17-09,IN,top publisher,189,137,149,16110
+3495,17-09,KE,top publisher,107,75,79,2960
+3496,17-09,LK,top publisher,12,19,18,913
+3497,17-09,MY,top publisher,108,710,82,18186
+3498,17-09,NG,top publisher,276,271,373,10653
+3499,17-09,NZ,top publisher,194,184,141,8986
+3500,17-09,PH,top publisher,94,27,37,6439
+3501,17-09,PK,top publisher,183,185,242,6009
+3502,17-09,SG,top publisher,80,74,52,9709
+3503,17-09,US,top publisher,425,319,318,15519
+3504,17-09,ZA,top publisher,206,171,152,9165
+3505,17-10,AU,publisher,219,194,164,9928
+3506,17-10,BD,publisher,4,4,7,379
+3507,17-10,CA,publisher,271,241,189,13414
+3508,17-10,GB,publisher,212,255,169,14318
+3509,17-10,GH,publisher,108,114,111,4981
+3510,17-10,HK,publisher,1,0,0,437
+3511,17-10,IE,publisher,239,401,192,13065
+3512,17-10,IN,publisher,581,435,475,17100
+3513,17-10,JM,publisher,45,34,39,1658
+3514,17-10,KE,publisher,77,64,83,2507
+3515,17-10,LK,publisher,9,8,7,842
+3516,17-10,MY,publisher,136,109,147,7563
+3517,17-10,NG,publisher,191,219,319,8555
+3518,17-10,NZ,publisher,164,138,79,7570
+3519,17-10,PH,publisher,128,75,93,5082
+3520,17-10,PK,publisher,222,269,295,6886
+3521,17-10,SG,publisher,144,132,137,8459
+3522,17-10,TZ,publisher,2,0,1,87
+3523,17-10,US,publisher,280,257,197,12825
+3524,17-10,ZA,publisher,234,189,121,9653
+3525,17-10,AU,top publisher,277,233,229,11482
+3526,17-10,BD,top publisher,5,6,7,317
+3527,17-10,CA,top publisher,144,160,102,17386
+3528,17-10,GB,top publisher,288,230,262,13228
+3529,17-10,GH,top publisher,49,50,56,2491
+3530,17-10,HK,top publisher,23,10,13,1205
+3531,17-10,IE,top publisher,261,1229,166,11766
+3532,17-10,IN,top publisher,176,153,146,17037
+3533,17-10,KE,top publisher,76,68,59,3115
+3534,17-10,LK,top publisher,9,25,22,989
+3535,17-10,MY,top publisher,96,488,63,14020
+3536,17-10,NG,top publisher,324,279,465,12407
+3537,17-10,NZ,top publisher,214,168,127,9421
+3538,17-10,PH,top publisher,94,61,50,7034
+3539,17-10,PK,top publisher,132,94,123,3819
+3540,17-10,SG,top publisher,72,40,70,9029
+3541,17-10,US,top publisher,455,320,374,17144
+3542,17-10,ZA,top publisher,218,161,157,9362
+3543,17-11,AU,publisher,200,180,192,8583
+3544,17-11,BD,publisher,10,7,8,606
+3545,17-11,CA,publisher,269,224,161,12281
+3546,17-11,GB,publisher,207,233,166,12706
+3547,17-11,GH,publisher,122,106,144,5063
+3548,17-11,HK,publisher,4,10,3,430
+3549,17-11,IE,publisher,212,475,174,11913
+3550,17-11,IN,publisher,489,484,487,16652
+3551,17-11,JM,publisher,28,21,31,1328
+3552,17-11,KE,publisher,67,56,75,2455
+3553,17-11,LK,publisher,8,13,8,856
+3554,17-11,MY,publisher,135,89,101,7182
+3555,17-11,NG,publisher,187,199,297,7904
+3556,17-11,NZ,publisher,163,143,90,6734
+3557,17-11,PH,publisher,108,62,98,4969
+3558,17-11,PK,publisher,89,87,104,4260
+3559,17-11,SG,publisher,158,117,121,8846
+3560,17-11,TZ,publisher,20,11,14,518
+3561,17-11,US,publisher,305,247,227,12572
+3562,17-11,ZA,publisher,147,145,97,7294
+3563,17-11,AU,top publisher,228,245,202,10154
+3564,17-11,BD,top publisher,5,3,5,164
+3565,17-11,CA,top publisher,119,153,79,15903
+3566,17-11,GB,top publisher,240,244,238,11860
+3567,17-11,GH,top publisher,101,78,88,3750
+3568,17-11,HK,top publisher,22,14,14,1244
+3569,17-11,IE,top publisher,107,1971,112,10313
+3570,17-11,IN,top publisher,163,126,144,15242
+3571,17-11,KE,top publisher,86,87,58,3269
+3572,17-11,LK,top publisher,8,18,23,865
+3573,17-11,MY,top publisher,69,488,38,12750
+3574,17-11,NG,top publisher,263,209,325,10420
+3575,17-11,NZ,top publisher,215,223,125,9634
+3576,17-11,PH,top publisher,53,37,37,6212
+3577,17-11,PK,top publisher,93,111,119,2801
+3578,17-11,SG,top publisher,140,87,96,9845
+3579,17-11,US,top publisher,496,342,392,17327
+3580,17-11,ZA,top publisher,170,148,133,7794
+3581,17-12,AU,publisher,191,169,125,7630
+3582,17-12,BD,publisher,9,7,14,616
+3583,17-12,CA,publisher,201,202,125,10353
+3584,17-12,GB,publisher,164,230,138,11102
+3585,17-12,GH,publisher,116,73,79,3693
+3586,17-12,HK,publisher,4,2,0,284
+3587,17-12,IE,publisher,151,384,109,8919
+3588,17-12,IN,publisher,535,445,480,17587
+3589,17-12,JM,publisher,33,24,22,1071
+3590,17-12,KE,publisher,54,46,72,2058
+3591,17-12,LK,publisher,7,5,7,649
+3592,17-12,MY,publisher,90,69,105,5608
+3593,17-12,NG,publisher,177,173,221,6788
+3594,17-12,NZ,publisher,110,117,63,5252
+3595,17-12,PH,publisher,103,59,61,3541
+3596,17-12,PK,publisher,79,70,87,3758
+3597,17-12,SG,publisher,121,106,97,6865
+3598,17-12,TZ,publisher,4,5,3,221
+3599,17-12,US,publisher,261,213,193,11068
+3600,17-12,ZA,publisher,94,100,70,5284
+3601,17-12,AU,top publisher,170,191,151,8591
+3602,17-12,BD,top publisher,7,2,2,133
+3603,17-12,CA,top publisher,78,129,58,13107
+3604,17-12,GB,top publisher,223,219,170,10156
+3605,17-12,GH,top publisher,123,93,122,4583
+3606,17-12,HK,top publisher,3,8,4,724
+3607,17-12,IE,top publisher,77,1751,80,8155
+3608,17-12,IN,top publisher,162,157,132,13322
+3609,17-12,KE,top publisher,88,75,76,4017
+3610,17-12,LK,top publisher,11,12,15,782
+3611,17-12,MY,top publisher,74,641,34,17591
+3612,17-12,NG,top publisher,268,208,257,10145
+3613,17-12,NZ,top publisher,152,214,131,8772
+3614,17-12,PH,top publisher,49,27,25,5382
+3615,17-12,PK,top publisher,53,54,58,2368
+3616,17-12,SG,top publisher,114,68,75,7929
+3617,17-12,US,top publisher,429,323,352,15322
+3618,17-12,ZA,top publisher,173,99,98,6445
+3619,18-01,AU,publisher,163,140,104,6634
+3620,18-01,BD,publisher,11,3,5,482
+3621,18-01,CA,publisher,245,167,138,11277
+3622,18-01,GB,publisher,123,167,111,9398
+3623,18-01,GH,publisher,71,52,66,2890
+3624,18-01,HK,publisher,3,3,1,215
+3625,18-01,IE,publisher,201,420,136,10734
+3626,18-01,IN,publisher,347,375,331,15080
+3627,18-01,JM,publisher,9,12,12,601
+3628,18-01,KE,publisher,63,40,57,1917
+3629,18-01,LK,publisher,3,5,5,473
+3630,18-01,MY,publisher,112,85,110,6012
+3631,18-01,NG,publisher,133,126,222,5824
+3632,18-01,NZ,publisher,98,89,45,4669
+3633,18-01,PH,publisher,60,44,38,2783
+3634,18-01,PK,publisher,74,70,103,3338
+3635,18-01,SG,publisher,131,112,90,6932
+3636,18-01,TZ,publisher,3,5,2,104
+3637,18-01,US,publisher,236,226,201,10239
+3638,18-01,ZA,publisher,85,111,78,5229
+3639,18-01,AU,top publisher,200,156,157,8221
+3640,18-01,BD,top publisher,2,2,1,118
+3641,18-01,CA,top publisher,116,126,79,10200
+3642,18-01,GB,top publisher,189,152,165,8380
+3643,18-01,GH,top publisher,69,56,81,2849
+3644,18-01,HK,top publisher,23,2,12,931
+3645,18-01,IE,top publisher,55,1670,76,6438
+3646,18-01,IN,top publisher,119,119,133,11927
+3647,18-01,KE,top publisher,83,59,81,4598
+3648,18-01,LK,top publisher,13,24,19,921
+3649,18-01,MY,top publisher,44,233,37,6851
+3650,18-01,NG,top publisher,258,276,294,8588
+3651,18-01,NZ,top publisher,170,139,117,7500
+3652,18-01,PH,top publisher,41,18,25,3667
+3653,18-01,PK,top publisher,56,70,69,2335
+3654,18-01,SG,top publisher,68,55,72,7172
+3655,18-01,US,top publisher,356,259,289,13744
+3656,18-01,ZA,top publisher,183,122,124,6569
+3657,18-02,AU,publisher,135,129,115,6485
+3658,18-02,BD,publisher,9,6,6,436
+3659,18-02,CA,publisher,304,274,176,13598
+3660,18-02,GB,publisher,118,151,94,9327
+3661,18-02,GH,publisher,57,85,94,3242
+3662,18-02,HK,publisher,1,0,0,107
+3663,18-02,IE,publisher,210,499,142,12797
+3664,18-02,IN,publisher,391,537,406,15758
+3665,18-02,JM,publisher,8,5,7,474
+3666,18-02,KE,publisher,46,54,50,2227
+3667,18-02,LK,publisher,3,0,2,318
+3668,18-02,MY,publisher,78,88,101,5736
+3669,18-02,NG,publisher,172,163,189,5844
+3670,18-02,NZ,publisher,102,114,66,5682
+3671,18-02,PH,publisher,60,44,29,3656
+3672,18-02,PK,publisher,70,74,82,3310
+3673,18-02,SG,publisher,108,100,88,7039
+3674,18-02,TZ,publisher,0,2,0,54
+3675,18-02,US,publisher,267,219,168,10913
+3676,18-02,ZA,publisher,110,118,102,6384
+3677,18-02,AU,top publisher,216,220,176,9235
+3678,18-02,BD,top publisher,3,5,2,128
+3679,18-02,CA,top publisher,199,135,108,10672
+3680,18-02,GB,top publisher,148,150,158,7471
+3681,18-02,GH,top publisher,59,28,49,2188
+3682,18-02,HK,top publisher,21,9,14,893
+3683,18-02,IE,top publisher,55,1760,72,6460
+3684,18-02,IN,top publisher,148,121,168,12865
+3685,18-02,KE,top publisher,106,63,78,4726
+3686,18-02,LK,top publisher,18,22,20,844
+3687,18-02,MY,top publisher,35,15,28,2588
+3688,18-02,NG,top publisher,360,258,357,9235
+3689,18-02,NZ,top publisher,184,204,118,8987
+3690,18-02,PH,top publisher,66,27,32,3839
+3691,18-02,PK,top publisher,41,40,53,1911
+3692,18-02,SG,top publisher,95,59,98,7025
+3693,18-02,US,top publisher,372,262,296,13538
+3694,18-02,ZA,top publisher,155,138,130,7236
+3695,18-03,AU,publisher,151,143,112,7416
+3696,18-03,BD,publisher,37,29,28,1543
+3697,18-03,CA,publisher,312,309,215,15040
+3698,18-03,GB,publisher,193,208,121,11900
+3699,18-03,GH,publisher,72,59,76,3482
+3700,18-03,HK,publisher,1,1,1,187
+3701,18-03,IE,publisher,230,527,145,14051
+3702,18-03,IN,publisher,289,372,307,14825
+3703,18-03,JM,publisher,6,5,4,428
+3704,18-03,KE,publisher,59,57,50,2505
+3705,18-03,LK,publisher,4,2,0,407
+3706,18-03,MY,publisher,97,63,114,7176
+3707,18-03,NG,publisher,196,201,234,7010
+3708,18-03,NZ,publisher,126,122,90,5891
+3709,18-03,PH,publisher,54,47,27,4377
+3710,18-03,PK,publisher,84,99,105,3810
+3711,18-03,SG,publisher,116,68,74,7307
+3712,18-03,TZ,publisher,1,3,2,80
+3713,18-03,US,publisher,222,224,168,9246
+3714,18-03,ZA,publisher,120,146,95,6345
+3715,18-03,AU,top publisher,226,192,242,10127
+3716,18-03,BD,top publisher,3,3,3,169
+3717,18-03,CA,top publisher,201,159,122,12512
+3718,18-03,GB,top publisher,161,160,150,7879
+3719,18-03,GH,top publisher,58,38,44,2281
+3720,18-03,HK,top publisher,14,9,11,879
+3721,18-03,IE,top publisher,72,1959,60,7419
+3722,18-03,IN,top publisher,182,158,158,16968
+3723,18-03,KE,top publisher,84,59,66,4591
+3724,18-03,LK,top publisher,19,27,31,1390
+3725,18-03,MY,top publisher,35,19,37,3018
+3726,18-03,NG,top publisher,136,134,179,8371
+3727,18-03,NZ,top publisher,280,231,256,12201
+3728,18-03,PH,top publisher,59,27,30,3761
+3729,18-03,PK,top publisher,39,46,55,2087
+3730,18-03,SG,top publisher,131,102,122,9793
+3731,18-03,US,top publisher,360,261,271,12410
+3732,18-03,ZA,top publisher,163,119,116,7295
+3733,18-04,AU,publisher,122,122,91,5926
+3734,18-04,BD,publisher,30,28,25,1553
+3735,18-04,CA,publisher,234,197,147,11807
+3736,18-04,GB,publisher,176,200,120,11364
+3737,18-04,GH,publisher,65,61,78,3089
+3738,18-04,HK,publisher,1,1,1,146
+3739,18-04,IE,publisher,147,492,123,9871
+3740,18-04,IN,publisher,250,246,229,10534
+3741,18-04,JM,publisher,11,11,9,435
+3742,18-04,KE,publisher,79,43,60,2429
+3743,18-04,LK,publisher,7,6,5,620
+3744,18-04,MY,publisher,77,52,66,4455
+3745,18-04,NG,publisher,203,190,256,7326
+3746,18-04,NZ,publisher,101,101,63,5071
+3747,18-04,PH,publisher,77,43,32,3923
+3748,18-04,PK,publisher,106,91,92,4250
+3749,18-04,SG,publisher,106,89,81,6969
+3750,18-04,TZ,publisher,4,3,5,99
+3751,18-04,US,publisher,209,198,155,9973
+3752,18-04,ZA,publisher,138,138,129,7066
+3753,18-04,AU,top publisher,174,135,113,7639
+3754,18-04,BD,top publisher,3,5,6,141
+3755,18-04,CA,top publisher,132,130,106,11518
+3756,18-04,GB,top publisher,127,135,109,7117
+3757,18-04,GH,top publisher,52,36,24,2160
+3758,18-04,HK,top publisher,16,5,7,905
+3759,18-04,IE,top publisher,45,1505,45,5188
+3760,18-04,IN,top publisher,109,114,128,14920
+3761,18-04,KE,top publisher,126,95,107,4349
+3762,18-04,LK,top publisher,14,23,22,985
+3763,18-04,MY,top publisher,34,16,35,2579
+3764,18-04,NG,top publisher,161,103,169,9000
+3765,18-04,NZ,top publisher,260,159,108,8638
+3766,18-04,PH,top publisher,66,53,43,3340
+3767,18-04,PK,top publisher,53,47,44,1970
+3768,18-04,SG,top publisher,137,86,112,9603
+3769,18-04,US,top publisher,313,244,261,11126
+3770,18-04,ZA,top publisher,146,116,120,7597
+3771,18-06,AU,publisher,124,145,94,7417
+3772,18-06,BD,publisher,32,25,34,1599
+3773,18-06,CA,publisher,201,185,129,12124
+3774,18-06,GB,publisher,234,272,197,14740
+3775,18-06,GH,publisher,37,41,47,2217
+3776,18-06,HK,publisher,2,0,1,140
+3777,18-06,IE,publisher,271,639,166,14708
+3778,18-06,IN,publisher,283,317,235,13082
+3779,18-06,JM,publisher,7,8,4,325
+3780,18-06,KE,publisher,74,60,78,3242
+3781,18-06,LK,publisher,17,18,18,919
+3782,18-06,MY,publisher,58,49,64,3955
+3783,18-06,NG,publisher,177,163,177,6440
+3784,18-06,NZ,publisher,142,167,59,7260
+3785,18-06,PH,publisher,181,56,61,4778
+3786,18-06,PK,publisher,69,86,98,4958
+3787,18-06,SG,publisher,63,83,61,5511
+3788,18-06,TZ,publisher,7,5,1,271
+3789,18-06,US,publisher,239,195,187,11783
+3790,18-06,ZA,publisher,127,126,88,6674
+3791,18-06,AU,top publisher,147,135,170,8462
+3792,18-06,BD,top publisher,15,15,11,881
+3793,18-06,CA,top publisher,150,121,101,11616
+3794,18-06,GB,top publisher,156,145,136,8689
+3795,18-06,GH,top publisher,29,23,16,1320
+3796,18-06,HK,top publisher,15,10,9,796
+3797,18-06,IE,top publisher,156,1748,108,8482
+3798,18-06,IN,top publisher,94,92,69,15072
+3799,18-06,KE,top publisher,132,75,61,3351
+3800,18-06,LK,top publisher,12,16,20,953
+3801,18-06,MY,top publisher,33,23,55,3007
+3802,18-06,NG,top publisher,187,130,137,9515
+3803,18-06,NZ,top publisher,95,90,71,4105
+3804,18-06,PH,top publisher,100,55,47,3377
+3805,18-06,PK,top publisher,112,110,117,3833
+3806,18-06,SG,top publisher,117,83,101,8447
+3807,18-06,US,top publisher,253,245,248,11395
+3808,18-06,ZA,top publisher,127,100,92,6339
+3809,18-07,AU,publisher,97,100,72,5407
+3810,18-07,BD,publisher,62,42,33,1951
+3811,18-07,CA,publisher,200,171,116,10045
+3812,18-07,GB,publisher,237,212,175,12526
+3813,18-07,GH,publisher,57,63,65,3098
+3814,18-07,HK,publisher,2,4,0,227
+3815,18-07,IE,publisher,166,403,102,9709
+3816,18-07,IN,publisher,216,248,206,10299
+3817,18-07,JM,publisher,8,7,11,497
+3818,18-07,KE,publisher,152,118,128,5585
+3819,18-07,LK,publisher,23,25,26,1188
+3820,18-07,MY,publisher,82,69,80,5442
+3821,18-07,NG,publisher,212,228,260,8225
+3822,18-07,NZ,publisher,135,107,64,5663
+3823,18-07,PH,publisher,170,216,99,6967
+3824,18-07,PK,publisher,67,86,74,4593
+3825,18-07,SG,publisher,153,146,126,8226
+3826,18-07,TZ,publisher,20,14,20,808
+3827,18-07,US,publisher,197,152,148,8369
+3828,18-07,ZA,publisher,156,172,134,9313
+3829,18-07,AU,top publisher,124,100,84,6193
+3830,18-07,BD,top publisher,31,17,28,1027
+3831,18-07,CA,top publisher,116,94,84,9053
+3832,18-07,GB,top publisher,142,128,122,7486
+3833,18-07,GH,top publisher,19,25,20,1831
+3834,18-07,HK,top publisher,16,8,12,1133
+3835,18-07,IE,top publisher,139,1001,87,5979
+3836,18-07,IN,top publisher,52,62,67,11444
+3837,18-07,KE,top publisher,185,120,127,4676
+3838,18-07,LK,top publisher,14,19,13,992
+3839,18-07,MY,top publisher,53,34,33,3976
+3840,18-07,NG,top publisher,196,157,222,13828
+3841,18-07,NZ,top publisher,73,60,36,3381
+3842,18-07,PH,top publisher,120,52,69,4350
+3843,18-07,PK,top publisher,172,186,249,6872
+3844,18-07,SG,top publisher,163,124,137,13542
+3845,18-07,US,top publisher,189,157,186,8520
+3846,18-07,ZA,top publisher,198,140,133,8753
+3847,18-08,AU,publisher,75,79,52,4036
+3848,18-08,BD,publisher,43,34,29,1299
+3849,18-08,CA,publisher,135,128,90,6216
+3850,18-08,GB,publisher,156,151,110,8719
+3851,18-08,GH,publisher,35,26,37,1625
+3852,18-08,HK,publisher,0,1,2,89
+3853,18-08,IE,publisher,100,279,76,7661
+3854,18-08,IN,publisher,221,221,242,7410
+3855,18-08,JM,publisher,6,5,7,264
+3856,18-08,KE,publisher,63,40,71,2542
+3857,18-08,LK,publisher,15,13,16,744
+3858,18-08,MY,publisher,38,40,44,2870
+3859,18-08,NG,publisher,86,96,134,4378
+3860,18-08,NZ,publisher,94,85,57,4158
+3861,18-08,PH,publisher,135,110,74,4691
+3862,18-08,PK,publisher,62,52,66,3503
+3863,18-08,SG,publisher,84,82,88,4729
+3864,18-08,TZ,publisher,14,9,11,375
+3865,18-08,US,publisher,122,106,114,6824
+3866,18-08,ZA,publisher,103,104,75,5596
+3867,18-08,AU,top publisher,110,119,85,4644
+3868,18-08,BD,top publisher,12,10,7,467
+3869,18-08,CA,top publisher,86,52,54,6031
+3870,18-08,GB,top publisher,93,84,87,5202
+3871,18-08,GH,top publisher,16,10,18,1232
+3872,18-08,HK,top publisher,10,8,11,813
+3873,18-08,IE,top publisher,120,614,75,4965
+3874,18-08,IN,top publisher,68,73,83,8492
+3875,18-08,KE,top publisher,107,75,57,2502
+3876,18-08,LK,top publisher,14,10,17,825
+3877,18-08,MY,top publisher,25,30,40,2514
+3878,18-08,NG,top publisher,140,110,156,8111
+3879,18-08,NZ,top publisher,68,80,54,3092
+3880,18-08,PH,top publisher,65,47,32,2730
+3881,18-08,PK,top publisher,146,117,167,5220
+3882,18-08,SG,top publisher,131,107,120,9427
+3883,18-08,TZ,top publisher,0,0,0,20
+3884,18-08,US,top publisher,149,104,133,6603
+3885,18-08,ZA,top publisher,85,79,70,4662
+3886,18-09,AU,publisher,155,169,109,8178
+3887,18-09,BD,publisher,75,37,31,1718
+3888,18-09,CA,publisher,232,267,251,11698
+3889,18-09,GB,publisher,234,278,200,16332
+3890,18-09,GH,publisher,107,76,82,4312
+3891,18-09,HK,publisher,0,1,1,348
+3892,18-09,IE,publisher,231,423,136,13516
+3893,18-09,IN,publisher,523,473,543,20040
+3894,18-09,JM,publisher,17,14,12,684
+3895,18-09,KE,publisher,99,86,104,4422
+3896,18-09,LK,publisher,18,13,19,1082
+3897,18-09,MY,publisher,77,70,78,4807
+3898,18-09,NG,publisher,357,331,467,10905
+3899,18-09,NZ,publisher,147,182,82,9708
+3900,18-09,PH,publisher,181,72,97,7463
+3901,18-09,PK,publisher,72,99,122,5356
+3902,18-09,SG,publisher,130,114,102,6710
+3903,18-09,TZ,publisher,14,9,12,683
+3904,18-09,US,publisher,273,250,211,13462
+3905,18-09,ZA,publisher,209,192,159,9936
+3906,18-09,AU,top publisher,159,138,119,6583
+3907,18-09,BD,top publisher,58,45,34,2077
+3908,18-09,CA,top publisher,150,111,84,10453
+3909,18-09,GB,top publisher,176,165,174,9012
+3910,18-09,GH,top publisher,50,28,28,2214
+3911,18-09,HK,top publisher,0,0,1,202
+3912,18-09,IE,top publisher,121,1341,115,8420
+3913,18-09,IN,top publisher,167,155,162,20981
+3914,18-09,KE,top publisher,128,89,88,3589
+3915,18-09,LK,top publisher,5,10,7,905
+3916,18-09,MY,top publisher,54,39,54,4055
+3917,18-09,NG,top publisher,506,351,553,19038
+3918,18-09,NZ,top publisher,86,79,38,3599
+3919,18-09,PH,top publisher,73,37,36,3823
+3920,18-09,PK,top publisher,291,211,323,8574
+3921,18-09,SG,top publisher,162,144,161,14524
+3922,18-09,TZ,top publisher,6,4,6,368
+3923,18-09,US,top publisher,328,236,315,14791
+3924,18-09,ZA,top publisher,190,159,121,7919
+3925,18-10,AU,publisher,158,192,93,8442
+3926,18-10,BD,publisher,46,76,34,2026
+3927,18-10,CA,publisher,258,253,162,11881
+3928,18-10,GB,publisher,253,255,200,16158
+3929,18-10,GH,publisher,85,94,103,4565
+3930,18-10,HK,publisher,5,3,3,327
+3931,18-10,IE,publisher,255,503,194,15592
+3932,18-10,IN,publisher,521,484,500,19633
+3933,18-10,JM,publisher,11,13,4,543
+3934,18-10,KE,publisher,113,112,128,4929
+3935,18-10,LK,publisher,12,19,16,1039
+3936,18-10,MY,publisher,82,66,74,5348
+3937,18-10,NG,publisher,231,225,341,11284
+3938,18-10,NZ,publisher,163,133,111,8466
+3939,18-10,PH,publisher,183,89,91,7338
+3940,18-10,PK,publisher,109,157,133,5947
+3941,18-10,SG,publisher,141,136,129,7619
+3942,18-10,TZ,publisher,17,11,7,564
+3943,18-10,US,publisher,251,232,186,12332
+3944,18-10,ZA,publisher,228,213,186,10404
+3945,18-10,AU,top publisher,161,154,129,6761
+3946,18-10,BD,top publisher,50,44,37,1743
+3947,18-10,CA,top publisher,133,106,90,9767
+3948,18-10,GB,top publisher,167,159,123,8650
+3949,18-10,GH,top publisher,28,32,30,2222
+3950,18-10,HK,top publisher,7,2,2,265
+3951,18-10,IE,top publisher,157,1367,132,8586
+3952,18-10,IN,top publisher,174,151,154,16828
+3953,18-10,KE,top publisher,171,106,75,4339
+3954,18-10,LK,top publisher,2,2,4,766
+3955,18-10,MY,top publisher,53,39,68,4397
+3956,18-10,NG,top publisher,374,306,447,15257
+3957,18-10,NZ,top publisher,52,53,42,2594
+3958,18-10,PH,top publisher,85,41,55,4018
+3959,18-10,PK,top publisher,215,197,315,7461
+3960,18-10,SG,top publisher,194,148,204,17318
+3961,18-10,TZ,top publisher,9,12,8,552
+3962,18-10,US,top publisher,305,225,244,12329
+3963,18-10,ZA,top publisher,178,137,112,8515
+3964,18-11,AU,publisher,136,193,108,7515
+3965,18-11,BD,publisher,41,40,32,1930
+3966,18-11,CA,publisher,253,239,149,10957
+3967,18-11,GB,publisher,216,251,163,15152
+3968,18-11,GH,publisher,79,88,81,3553
+3969,18-11,HK,publisher,1,6,1,446
+3970,18-11,IE,publisher,245,403,142,13706
+3971,18-11,IN,publisher,550,480,458,19970
+3972,18-11,JM,publisher,11,7,10,642
+3973,18-11,KE,publisher,112,76,84,5588
+3974,18-11,LK,publisher,10,11,12,685
+3975,18-11,MY,publisher,65,70,59,4186
+3976,18-11,NG,publisher,207,211,304,10788
+3977,18-11,NZ,publisher,184,164,116,9170
+3978,18-11,PH,publisher,198,124,512,7939
+3979,18-11,PK,publisher,139,147,155,7813
+3980,18-11,SG,publisher,115,175,92,8472
+3981,18-11,TZ,publisher,23,18,8,786
+3982,18-11,US,publisher,302,254,233,14033
+3983,18-11,ZA,publisher,261,194,158,10147
+3984,18-11,AU,top publisher,117,109,92,5702
+3985,18-11,BD,top publisher,40,42,25,1534
+3986,18-11,CA,top publisher,114,84,68,8690
+3987,18-11,GB,top publisher,128,112,115,7550
+3988,18-11,GH,top publisher,37,43,20,2327
+3989,18-11,HK,top publisher,3,0,0,259
+3990,18-11,IE,top publisher,133,1194,167,8881
+3991,18-11,IN,top publisher,166,135,126,14344
+3992,18-11,KE,top publisher,150,115,103,4583
+3993,18-11,LK,top publisher,2,2,1,712
+3994,18-11,MY,top publisher,84,43,85,3506
+3995,18-11,NG,top publisher,279,219,320,11210
+3996,18-11,NZ,top publisher,61,57,39,2924
+3997,18-11,PH,top publisher,86,32,63,3924
+3998,18-11,PK,top publisher,161,149,232,6020
+3999,18-11,SG,top publisher,136,88,111,12494
+4000,18-11,TZ,top publisher,15,11,7,546
+4001,18-11,US,top publisher,290,212,226,12398
+4002,18-11,ZA,top publisher,182,130,120,8613
+4003,18-12,AU,publisher,111,124,79,5708
+4004,18-12,BD,publisher,39,45,25,1660
+4005,18-12,CA,publisher,201,202,149,9824
+4006,18-12,GB,publisher,161,197,133,12146
+4007,18-12,GH,publisher,94,77,70,2930
+4008,18-12,HK,publisher,1,3,3,306
+4009,18-12,IE,publisher,245,330,96,10424
+4010,18-12,IN,publisher,544,412,459,18794
+4011,18-12,JM,publisher,3,5,2,478
+4012,18-12,KE,publisher,122,83,87,3719
+4013,18-12,LK,publisher,12,6,10,578
+4014,18-12,MY,publisher,67,89,77,4504
+4015,18-12,NG,publisher,359,411,547,15215
+4016,18-12,NZ,publisher,112,101,59,6780
+4017,18-12,PH,publisher,193,120,345,7487
+4018,18-12,PK,publisher,123,170,165,7401
+4019,18-12,SG,publisher,113,114,103,10398
+4020,18-12,TZ,publisher,30,10,13,732
+4021,18-12,US,publisher,266,225,191,11745
+4022,18-12,ZA,publisher,168,143,131,7577
+4023,18-12,AU,top publisher,82,84,70,4501
+4024,18-12,BD,top publisher,53,31,27,1417
+4025,18-12,CA,top publisher,135,60,63,7753
+4026,18-12,GB,top publisher,134,159,109,7464
+4027,18-12,GH,top publisher,49,50,16,1748
+4028,18-12,HK,top publisher,0,0,0,185
+4029,18-12,IE,top publisher,134,1196,111,7987
+4030,18-12,IN,top publisher,163,136,134,16502
+4031,18-12,KE,top publisher,229,155,168,3655
+4032,18-12,LK,top publisher,3,8,4,872
+4033,18-12,MY,top publisher,61,38,78,3546
+4034,18-12,NG,top publisher,314,212,237,11795
+4035,18-12,NZ,top publisher,61,54,43,2633
+4036,18-12,PH,top publisher,71,35,53,4387
+4037,18-12,PK,top publisher,168,159,236,6250
+4038,18-12,SG,top publisher,131,86,90,11897
+4039,18-12,TZ,top publisher,8,10,3,426
+4040,18-12,US,top publisher,269,218,300,12032
+4041,18-12,ZA,top publisher,140,107,95,6412
+4042,19-01,AU,publisher,164,210,135,7367
+4043,19-01,BD,publisher,49,36,37,1586
+4044,19-01,CA,publisher,224,209,132,11050
+4045,19-01,GB,publisher,199,266,202,15258
+4046,19-01,GH,publisher,92,89,142,4413
+4047,19-01,HK,publisher,3,5,0,423
+4048,19-01,IE,publisher,199,403,158,13060
+4049,19-01,IN,publisher,547,447,546,21203
+4050,19-01,JM,publisher,5,2,4,646
+4051,19-01,KE,publisher,138,121,163,5784
+4052,19-01,LK,publisher,10,11,6,592
+4053,19-01,MY,publisher,94,81,88,5757
+4054,19-01,NG,publisher,357,408,646,17409
+4055,19-01,NZ,publisher,125,141,77,8148
+4056,19-01,PH,publisher,266,150,153,9040
+4057,19-01,PK,publisher,143,170,197,10909
+4058,19-01,SG,publisher,123,129,118,8061
+4059,19-01,TZ,publisher,25,24,19,885
+4060,19-01,US,publisher,308,235,219,13779
+4061,19-01,ZA,publisher,183,178,125,9702
+4062,19-01,AU,top publisher,99,601,69,5561
+4063,19-01,BD,top publisher,57,39,32,1540
+4064,19-01,CA,top publisher,50,39,43,9650
+4065,19-01,GB,top publisher,146,158,159,8923
+4066,19-01,GH,top publisher,44,45,33,2373
+4067,19-01,HK,top publisher,0,0,0,254
+4068,19-01,IE,top publisher,131,1286,144,8707
+4069,19-01,IN,top publisher,153,105,123,18692
+4070,19-01,KE,top publisher,306,212,224,4597
+4071,19-01,LK,top publisher,12,13,13,1234
+4072,19-01,MY,top publisher,40,29,42,3018
+4073,19-01,NG,top publisher,314,297,393,13969
+4074,19-01,NZ,top publisher,69,83,48,3279
+4075,19-01,PH,top publisher,123,55,60,6248
+4076,19-01,PK,top publisher,236,183,271,7245
+4077,19-01,SG,top publisher,164,132,145,16182
+4078,19-01,TZ,top publisher,0,0,0,441
+4079,19-01,US,top publisher,314,243,286,14448
+4080,19-01,ZA,top publisher,177,116,113,9109
+4081,19-02,AU,publisher,146,178,106,7243
+4082,19-02,BD,publisher,75,63,52,1701
+4083,19-02,CA,publisher,180,163,98,9716
+4084,19-02,GB,publisher,179,228,140,14672
+4085,19-02,GH,publisher,96,97,118,4181
+4086,19-02,HK,publisher,1,5,2,430
+4087,19-02,IE,publisher,233,492,147,14046
+4088,19-02,IN,publisher,477,397,407,18803
+4089,19-02,JM,publisher,7,1,2,650
+4090,19-02,KE,publisher,153,152,141,6673
+4091,19-02,LK,publisher,17,16,13,654
+4092,19-02,MY,publisher,81,108,93,5898
+4093,19-02,NG,publisher,291,271,441,14668
+4094,19-02,NZ,publisher,148,159,81,9076
+4095,19-02,PH,publisher,300,198,230,9476
+4096,19-02,PK,publisher,109,145,186,9282
+4097,19-02,SG,publisher,148,131,131,7541
+4098,19-02,TZ,publisher,25,28,16,877
+4099,19-02,US,publisher,227,191,209,11995
+4100,19-02,ZA,publisher,242,202,183,10490
+4101,19-02,AU,top publisher,109,87,90,5430
+4102,19-02,BD,top publisher,54,42,36,1632
+4103,19-02,CA,top publisher,54,44,29,8485
+4104,19-02,GB,top publisher,159,149,142,8391
+4105,19-02,GH,top publisher,54,49,26,2455
+4106,19-02,HK,top publisher,0,0,0,165
+4107,19-02,IE,top publisher,129,1446,109,9139
+4108,19-02,IN,top publisher,126,96,99,16345
+4109,19-02,KE,top publisher,285,190,225,4225
+4110,19-02,LK,top publisher,13,8,10,1124
+4111,19-02,MY,top publisher,19,21,39,2688
+4112,19-02,NG,top publisher,420,330,431,15224
+4113,19-02,NZ,top publisher,89,69,51,3369
+4114,19-02,PH,top publisher,90,34,49,4978
+4115,19-02,PK,top publisher,166,189,212,6198
+4116,19-02,SG,top publisher,142,120,122,14995
+4117,19-02,TZ,top publisher,3,0,2,409
+4118,19-02,US,top publisher,311,201,243,12592
+4119,19-02,ZA,top publisher,157,147,109,9390
+4120,19-03,AU,publisher,157,245,165,8753
+4121,19-03,BD,publisher,123,53,106,1975
+4122,19-03,CA,publisher,194,172,103,10360
+4123,19-03,GB,publisher,182,282,157,14550
+4124,19-03,GH,publisher,98,74,120,4529
+4125,19-03,HK,publisher,3,8,2,614
+4126,19-03,IE,publisher,212,423,141,13919
+4127,19-03,IN,publisher,507,450,478,22317
+4128,19-03,JM,publisher,8,7,3,652
+4129,19-03,KE,publisher,166,144,160,6115
+4130,19-03,LK,publisher,21,11,17,615
+4131,19-03,MY,publisher,100,92,69,5813
+4132,19-03,NG,publisher,279,279,451,13828
+4133,19-03,NZ,publisher,159,165,74,8111
+4134,19-03,PH,publisher,219,140,135,8140
+4135,19-03,PK,publisher,124,172,171,8475
+4136,19-03,SG,publisher,141,124,93,7083
+4137,19-03,TZ,publisher,27,21,19,876
+4138,19-03,US,publisher,267,201,172,12681
+4139,19-03,ZA,publisher,233,208,186,10721
+4140,19-03,AU,top publisher,102,84,90,5008
+4141,19-03,BD,top publisher,84,76,47,2934
+4142,19-03,CA,top publisher,58,60,33,9614
+4143,19-03,GB,top publisher,168,152,165,8848
+4144,19-03,GH,top publisher,42,53,19,2396
+4145,19-03,HK,top publisher,0,0,0,175
+4146,19-03,IE,top publisher,171,1383,129,8711
+4147,19-03,IN,top publisher,120,121,119,14534
+4148,19-03,KE,top publisher,280,193,220,4129
+4149,19-03,LK,top publisher,9,16,15,1116
+4150,19-03,MY,top publisher,32,25,48,2709
+4151,19-03,NG,top publisher,293,261,335,13258
+4152,19-03,NZ,top publisher,102,104,64,3961
+4153,19-03,PH,top publisher,75,53,48,5032
+4154,19-03,PK,top publisher,190,190,237,6413
+4155,19-03,SG,top publisher,156,120,132,12747
+4156,19-03,TZ,top publisher,3,3,1,202
+4157,19-03,US,top publisher,283,216,217,12193
+4158,19-03,ZA,top publisher,175,114,117,9425
+4159,19-04,AU,publisher,184,217,125,8332
+4160,19-04,BD,publisher,44,38,28,1989
+4161,19-04,CA,publisher,180,173,145,10287
+4162,19-04,GB,publisher,204,257,181,15447
+4163,19-04,GH,publisher,113,86,106,5020
+4164,19-04,HK,publisher,3,5,10,592
+4165,19-04,IE,publisher,302,295,138,14507
+4166,19-04,IN,publisher,557,431,432,19625
+4167,19-04,JM,publisher,2,2,1,578
+4168,19-04,KE,publisher,188,137,162,5784
+4169,19-04,LK,publisher,7,15,11,555
+4170,19-04,MY,publisher,114,121,112,7082
+4171,19-04,NG,publisher,343,364,506,17068
+4172,19-04,NZ,publisher,179,173,125,8424
+4173,19-04,PH,publisher,266,144,165,9314
+4174,19-04,PK,publisher,134,198,184,8943
+4175,19-04,SG,publisher,122,105,207,10762
+4176,19-04,TZ,publisher,33,25,20,1003
+4177,19-04,US,publisher,295,267,239,13448
+4178,19-04,ZA,publisher,259,215,143,10470
+4179,19-04,AU,top publisher,136,97,96,4748
+4180,19-04,BD,top publisher,58,40,46,2501
+4181,19-04,CA,top publisher,70,43,30,8936
+4182,19-04,GB,top publisher,186,151,169,10423
+4183,19-04,GH,top publisher,43,44,25,2195
+4184,19-04,HK,top publisher,0,1,1,184
+4185,19-04,IE,top publisher,90,1383,113,7958
+4186,19-04,IN,top publisher,430,308,368,12487
+4187,19-04,KE,top publisher,357,241,233,4608
+4188,19-04,LK,top publisher,10,4,4,1095
+4189,19-04,MY,top publisher,75,51,84,5493
+4190,19-04,NG,top publisher,415,362,489,14897
+4191,19-04,NZ,top publisher,84,90,55,3894
+4192,19-04,PH,top publisher,69,38,30,4150
+4193,19-04,PK,top publisher,117,139,163,3844
+4194,19-04,SG,top publisher,164,135,153,10797
+4195,19-04,TZ,top publisher,0,1,2,358
+4196,19-04,US,top publisher,324,218,278,12434
+4197,19-04,ZA,top publisher,148,121,84,8302
+4198,19-05,AU,publisher,189,220,118,8603
+4199,19-05,BD,publisher,63,36,46,1863
+4200,19-05,CA,publisher,193,190,116,10981
+4201,19-05,GB,publisher,202,271,178,15616
+4202,19-05,GH,publisher,104,97,112,4355
+4203,19-05,HK,publisher,27,16,24,1770
+4204,19-05,IE,publisher,219,310,154,14819
+4205,19-05,IN,publisher,501,429,469,19880
+4206,19-05,JM,publisher,6,4,2,639
+4207,19-05,KE,publisher,145,126,120,6690
+4208,19-05,LK,publisher,17,20,19,782
+4209,19-05,MY,publisher,77,103,81,5778
+4210,19-05,NG,publisher,342,367,579,16245
+4211,19-05,NZ,publisher,187,197,124,8571
+4212,19-05,PH,publisher,298,188,188,9767
+4213,19-05,PK,publisher,124,174,182,8150
+4214,19-05,SG,publisher,151,128,541,12413
+4215,19-05,TZ,publisher,38,30,19,955
+4216,19-05,US,publisher,307,261,224,13400
+4217,19-05,ZA,publisher,264,245,166,11325
+4218,19-05,AU,top publisher,103,91,81,4950
+4219,19-05,BD,top publisher,56,46,46,2858
+4220,19-05,CA,top publisher,68,60,40,8436
+4221,19-05,GB,top publisher,181,177,172,10211
+4222,19-05,GH,top publisher,26,39,23,2023
+4223,19-05,HK,top publisher,1,0,0,157
+4224,19-05,IE,top publisher,122,1365,91,8296
+4225,19-05,IN,top publisher,386,277,350,11744
+4226,19-05,KE,top publisher,331,220,279,4659
+4227,19-05,LK,top publisher,10,18,10,1302
+4228,19-05,MY,top publisher,67,50,102,5121
+4229,19-05,NG,top publisher,459,364,563,14140
+4230,19-05,NZ,top publisher,102,93,50,4025
+4231,19-05,PH,top publisher,95,37,48,4181
+4232,19-05,PK,top publisher,156,162,181,4876
+4233,19-05,SG,top publisher,116,94,98,8746
+4234,19-05,TZ,top publisher,9,4,5,354
+4235,19-05,US,top publisher,296,211,238,12061
+4236,19-05,ZA,top publisher,166,128,107,8991
+4237,19-06,AU,publisher,192,225,129,9718
+4238,19-06,BD,publisher,63,39,27,2107
+4239,19-06,CA,publisher,253,209,147,12239
+4240,19-06,GB,publisher,198,265,189,16061
+4241,19-06,GH,publisher,100,83,87,4126
+4242,19-06,HK,publisher,29,45,48,2446
+4243,19-06,IE,publisher,222,530,138,14196
+4244,19-06,IN,publisher,405,376,394,20255
+4245,19-06,JM,publisher,4,6,7,713
+4246,19-06,KE,publisher,130,124,149,7169
+4247,19-06,LK,publisher,22,28,26,801
+4248,19-06,MY,publisher,84,105,97,5793
+4249,19-06,NG,publisher,255,297,401,12444
+4250,19-06,NZ,publisher,147,162,83,8127
+4251,19-06,PH,publisher,338,214,202,14541
+4252,19-06,PK,publisher,121,170,146,7281
+4253,19-06,SG,publisher,136,144,347,12728
+4254,19-06,TZ,publisher,19,18,16,641
+4255,19-06,US,publisher,284,263,189,14776
+4256,19-06,ZA,publisher,279,212,179,10874
+4257,19-06,AU,top publisher,105,82,73,5300
+4258,19-06,BD,top publisher,58,60,46,2752
+4259,19-06,CA,top publisher,73,54,32,7533
+4260,19-06,GB,top publisher,184,160,151,8947
+4261,19-06,GH,top publisher,31,26,15,1863
+4262,19-06,HK,top publisher,0,1,0,241
+4263,19-06,IE,top publisher,140,1077,115,8055
+4264,19-06,IN,top publisher,458,399,421,16809
+4265,19-06,KE,top publisher,360,277,284,4964
+4266,19-06,LK,top publisher,14,15,202,1132
+4267,19-06,MY,top publisher,64,48,55,5046
+4268,19-06,NG,top publisher,577,491,662,15157
+4269,19-06,NZ,top publisher,107,91,59,4318
+4270,19-06,PH,top publisher,77,43,67,3755
+4271,19-06,PK,top publisher,144,123,166,4331
+4272,19-06,SG,top publisher,92,84,98,8760
+4273,19-06,TZ,top publisher,4,2,2,273
+4274,19-06,US,top publisher,320,232,224,12336
+4275,19-06,ZA,top publisher,196,104,96,8633
+4276,19-07,AU,publisher,76,62,83,2753
+4277,19-07,BD,publisher,60,20,10,876
+4278,19-07,CA,publisher,96,69,76,4381
+4279,19-07,GB,publisher,77,80,50,4440
+4280,19-07,GH,publisher,22,24,16,1042
+4281,19-07,HK,publisher,7,3,2,256
+4282,19-07,IE,publisher,106,69,32,3320
+4283,19-07,IN,publisher,224,186,217,8935
+4284,19-07,JM,publisher,2,0,2,197
+4285,19-07,KE,publisher,27,16,24,1098
+4286,19-07,LK,publisher,3,5,9,225
+4287,19-07,MY,publisher,29,35,30,1859
+4288,19-07,NG,publisher,83,82,82,3241
+4289,19-07,NZ,publisher,26,25,12,1874
+4290,19-07,PH,publisher,55,28,40,2401
+4291,19-07,PK,publisher,50,54,56,2353
+4292,19-07,SG,publisher,36,45,151,3412
+4293,19-07,TZ,publisher,5,5,4,129
+4294,19-07,US,publisher,974,885,734,51209
+4295,19-07,ZA,publisher,61,64,47,2968
+4296,19-07,AU,top publisher,23,33,16,954
+4297,19-07,BD,top publisher,18,9,11,830
+4298,19-07,CA,top publisher,27,19,10,2148
+4299,19-07,GB,top publisher,40,35,38,2068
+4300,19-07,GH,top publisher,8,8,8,401
+4301,19-07,HK,top publisher,0,0,0,70
+4302,19-07,IE,top publisher,36,254,41,2239
+4303,19-07,IN,top publisher,190,142,190,4958
+4304,19-07,KE,top publisher,13,11,16,755
+4305,19-07,LK,top publisher,3,4,8,369
+4306,19-07,MY,top publisher,25,24,30,1780
+4307,19-07,NG,top publisher,152,127,191,3089
+4308,19-07,NZ,top publisher,24,30,15,893
+4309,19-07,PH,top publisher,17,8,9,790
+4310,19-07,PK,top publisher,32,35,46,1185
+4311,19-07,SG,top publisher,18,16,15,2090
+4312,19-07,TZ,top publisher,0,0,0,53
+4313,19-07,US,top publisher,548,470,436,24485
+4314,19-07,ZA,top publisher,47,28,39,2074
+4315,19-10,AU,publisher,194,354,162,14679
+4316,19-10,BD,publisher,20,18,28,791
+4317,19-10,CA,publisher,346,298,220,16901
+4318,19-10,GB,publisher,373,618,374,24635
+4319,19-10,GH,publisher,24,31,53,1362
+4320,19-10,HK,publisher,19,11,15,1603
+4321,19-10,IE,publisher,357,694,239,19332
+4322,19-10,IN,publisher,395,415,345,18816
+4323,19-10,JM,publisher,8,5,3,562
+4324,19-10,KE,publisher,100,79,71,4605
+4325,19-10,LK,publisher,20,15,10,726
+4326,19-10,MY,publisher,57,65,65,4723
+4327,19-10,NG,publisher,237,224,319,11301
+4328,19-10,NZ,publisher,75,85,35,3951
+4329,19-10,PH,publisher,150,99,92,6221
+4330,19-10,PK,publisher,81,101,116,4665
+4331,19-10,SG,publisher,120,173,113,7739
+4332,19-10,TZ,publisher,10,14,17,508
+4333,19-10,US,publisher,1674,1688,1256,109620
+4334,19-10,ZA,publisher,222,199,153,11311
+4335,19-10,AU,top publisher,4,5,0,159
+4336,19-10,BD,top publisher,0,0,0,3
+4337,19-10,CA,top publisher,1,3,1,288
+4338,19-10,GB,top publisher,1,0,2,101
+4339,19-10,IE,top publisher,1,205,0,265
+4340,19-10,IN,top publisher,0,0,0,13
+4341,19-10,KE,top publisher,5,2,0,110
+4342,19-10,LK,top publisher,0,1,0,382
+4343,19-10,PH,top publisher,0,0,0,1
+4344,19-10,US,top publisher,825,1094,681,46561
+4345,19-11,AU,publisher,214,252,196,17193
+4346,19-11,BD,publisher,23,24,13,1038
+4347,19-11,CA,publisher,327,384,225,18348
+4348,19-11,GB,publisher,361,546,379,25131
+4349,19-11,GH,publisher,62,40,72,2156
+4350,19-11,HK,publisher,16,18,15,1485
+4351,19-11,IE,publisher,266,622,216,17682
+4352,19-11,IN,publisher,490,495,379,21953
+4353,19-11,JM,publisher,10,9,6,685
+4354,19-11,KE,publisher,100,113,101,4942
+4355,19-11,LK,publisher,18,20,23,1129
+4356,19-11,MY,publisher,57,68,91,5062
+4357,19-11,NG,publisher,262,265,308,12011
+4358,19-11,NZ,publisher,87,109,44,6050
+4359,19-11,PH,publisher,202,111,113,8440
+4360,19-11,PK,publisher,84,104,103,4750
+4361,19-11,SG,publisher,91,92,82,6281
+4362,19-11,TZ,publisher,23,16,9,548
+4363,19-11,US,publisher,2104,1905,1437,116990
+4364,19-11,ZA,publisher,199,217,183,12538
+4365,19-11,AU,top publisher,5,6,5,239
+4366,19-11,BD,top publisher,0,0,0,2
+4367,19-11,CA,top publisher,2,6,1,321
+4368,19-11,GB,top publisher,3,1,1,79
+4369,19-11,IE,top publisher,1,207,2,287
+4370,19-11,IN,top publisher,0,0,1,21
+4371,19-11,KE,top publisher,2,1,0,81
+4372,19-11,LK,top publisher,0,0,0,520
+4373,19-11,NG,top publisher,0,0,0,1
+4374,19-11,PK,top publisher,0,0,0,1
+4375,19-11,SG,top publisher,0,0,0,1
+4376,19-11,US,top publisher,809,1516,647,45334
+4377,19-12,AU,publisher,230,407,193,17021
+4378,19-12,BD,publisher,25,23,14,984
+4379,19-12,CA,publisher,251,385,185,15870
+4380,19-12,GB,publisher,380,582,365,24493
+4381,19-12,GH,publisher,32,61,56,1798
+4382,19-12,HK,publisher,11,13,13,1365
+4383,19-12,IE,publisher,308,824,228,16773
+4384,19-12,IN,publisher,496,532,525,23821
+4385,19-12,JM,publisher,8,7,7,283
+4386,19-12,KE,publisher,101,102,92,5729
+4387,19-12,LK,publisher,18,22,21,1029
+4388,19-12,MY,publisher,65,81,74,4602
+4389,19-12,NG,publisher,389,270,385,11904
+4390,19-12,NZ,publisher,83,92,45,5471
+4391,19-12,PH,publisher,181,117,98,8093
+4392,19-12,PK,publisher,76,119,128,4563
+4393,19-12,SG,publisher,91,103,106,6300
+4394,19-12,TZ,publisher,24,14,8,644
+4395,19-12,US,publisher,2102,1960,1493,124198
+4396,19-12,ZA,publisher,0,0,0,8
+4397,19-12,AU,top publisher,3,0,1,239
+4398,19-12,BD,top publisher,0,0,0,3
+4399,19-12,CA,top publisher,3,5,1,276
+4400,19-12,GB,top publisher,0,1,3,96
+4401,19-12,IE,top publisher,3,301,6,322
+4402,19-12,IN,top publisher,0,1,0,25
+4403,19-12,KE,top publisher,1,3,1,47
+4404,19-12,LK,top publisher,1,2,0,487
+4405,19-12,NG,top publisher,0,0,0,3
+4406,19-12,PK,top publisher,0,0,0,1
+4407,19-12,SG,top publisher,0,0,0,1
+4408,19-12,US,top publisher,876,1839,688,47767
